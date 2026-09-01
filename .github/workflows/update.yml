@@ -1,0 +1,37 @@
+name: Turkce Hutbeleri Guncelle
+
+on:
+  schedule:
+    # Her Perşembe 18:30 UTC (TSİ 21:30) - Diyanet genelde Perşembe akşamı yükler
+    - cron: '30 18 * * 4'
+    # Her Cuma 05:00 UTC (TSİ 08:00) - Cuma sabahı son kontrol
+    - cron: '0 5 * * 5'
+  workflow_dispatch: # Manuel çalıştırma butonu
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Kodu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Paketleri Yükle
+        run: pip install requests beautifulsoup4
+
+      - name: Kazımayı Başlat
+        run: python scraper.py
+
+      - name: Değişiklikleri Kaydet ve Gönder
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add hutbeler.json
+          git diff --staged --quiet || (git commit -m "Auto-update: Turkce hutbeler guncellendi" && git push)
