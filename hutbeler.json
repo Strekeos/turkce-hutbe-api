@@ -1,0 +1,306 @@
+{
+  "last_updated": "2026-09-01T19:25:49.148918Z",
+  "total_count": 30,
+  "data": [
+    {
+      "id": "hutbe_20260828_1",
+      "title": "Vatan Sevgisi",
+      "date": "2026-08-28",
+      "raw_date": "28.08.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Vatan%20Sevgisi.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Vatan%20Sevgisi.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Vatan%20Sevgisi).mp3"
+    },
+    {
+      "id": "hutbe_20260821_2",
+      "title": "Mevlid-i Nebi",
+      "date": "2026-08-21",
+      "raw_date": "21.08.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Mevlid-i%20Nebi,.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Mevlid-i%20Nebi,.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Mevlid-i%20Nebi,).mp3"
+    },
+    {
+      "id": "hutbe_20260814_3",
+      "title": "Her Yetim Bir Emanet",
+      "date": "2026-08-14",
+      "raw_date": "14.08.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Her%20Yetim%20Bir%20Emanet.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Her%20Yetim%20Bir%20Emanet.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Her%20Yetim%20Bir%20Emanet).mp3"
+    },
+    {
+      "id": "hutbe_20260807_4",
+      "title": "Kardeşlik",
+      "date": "2026-08-07",
+      "raw_date": "7.08.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Karde%C5%9Flik.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Karde%C5%9Flik.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Karde%C5%9Flik).mp3"
+    },
+    {
+      "id": "hutbe_20260731_5",
+      "title": "Helal Haram Duyarlılığı",
+      "date": "2026-07-31",
+      "raw_date": "31.07.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Helal%20Haram%20Duyarl%C4%B1l%C4%B1%C4%9F%C4%B1.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Helal%20Haram%20Duyarl%C4%B1l%C4%B1%C4%9F%C4%B1.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Helal%20Haram%20Duyarl%C4%B1l%C4%B1%C4%9F%C4%B1).mp3"
+    },
+    {
+      "id": "hutbe_20260724_6",
+      "title": "İslam Medeniyeti",
+      "date": "2026-07-24",
+      "raw_date": "24.07.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam%20Medeniyeti.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam%20Medeniyeti.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(%C4%B0slam%20Medeniyeti).mp3"
+    },
+    {
+      "id": "hutbe_20260717_7",
+      "title": "Kur'an-ı Kerim",
+      "date": "2026-07-17",
+      "raw_date": "17.07.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kur'an-%C4%B1%20Kerim.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kur'an-%C4%B1%20Kerim.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Kur'an-%C4%B1%20Kerim).mp3"
+    },
+    {
+      "id": "hutbe_20260710_8",
+      "title": "Din İstismarı",
+      "date": "2026-07-10",
+      "raw_date": "10.07.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Din%20%C4%B0stismar%C4%B1--.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Din%20%C4%B0stismar%C4%B1--.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(-Din%20İstismarı).mp3"
+    },
+    {
+      "id": "hutbe_20260703_9",
+      "title": "Yaz Kur'an Kursları",
+      "date": "2026-07-03",
+      "raw_date": "3.07.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Yaz%20Kur'an%20Kurslar%C4%B1.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Yaz%20Kur'an%20Kurslar%C4%B1.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Yaz%20Kur'an%20Kurslar%C4%B1).mp3"
+    },
+    {
+      "id": "hutbe_20260626_10",
+      "title": "Aile Olmak",
+      "date": "2026-06-26",
+      "raw_date": "26.06.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aile%20Olmak.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aile%20Olmak.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Aile%20Olmak).mp3"
+    },
+    {
+      "id": "hutbe_20260619_11",
+      "title": "Birlikte Rahmet Vardır",
+      "date": "2026-06-19",
+      "raw_date": "19.06.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birlikte%20Rahmet%20Vard%C4%B1r.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birlikte%20Rahmet%20Vard%C4%B1r.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Birlikte%20Rahmet%20Vard%C4%B1r).mp3"
+    },
+    {
+      "id": "hutbe_20260612_12",
+      "title": "Hicri Yeni Yıla Girerken",
+      "date": "2026-06-12",
+      "raw_date": "12.06.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hicri%20Yeni%20Y%C4%B1la%20Girerken.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hicri%20Yeni%20Y%C4%B1la%20Girerken.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Hicri%20Yeni%20Y%C4%B1la%20Girerken).mp3"
+    },
+    {
+      "id": "hutbe_20260605_13",
+      "title": "Duyarlılık",
+      "date": "2026-06-05",
+      "raw_date": "5.06.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Duyarl%C4%B1l%C4%B1k.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Duyarl%C4%B1l%C4%B1k.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Duyarl%C4%B1l%C4%B1k).mp3"
+    },
+    {
+      "id": "hutbe_20260529_14",
+      "title": "Fetih Ruhu ve Vakıf Medeniyeti",
+      "date": "2026-05-29",
+      "raw_date": "29.05.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Fetih%20Ruhu%20ve%20Vak%C4%B1f%20Medeniyeti.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Fetih%20Ruhu%20ve%20Vak%C4%B1f%20Medeniyeti.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Fetih%20Ruhu%20ve%20Vak%C4%B1f%20Medeniyeti).mp3"
+    },
+    {
+      "id": "hutbe_20260527_15",
+      "title": "Kurban Bayramı",
+      "date": "2026-05-27",
+      "raw_date": "27.05.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kurban%20Bayram%C4%B1-.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kurban%20Bayram%C4%B1-.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Kurban%20Bayram%C4%B1-).mp3"
+    },
+    {
+      "id": "hutbe_20260522_16",
+      "title": "Söz Ahlakı ve Sosyal Medya",
+      "date": "2026-05-22",
+      "raw_date": "22.05.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/S%C3%B6z%20Ahlak%C4%B1%20ve%20Sosyal%20Medya.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/S%C3%B6z%20Ahlak%C4%B1%20ve%20Sosyal%20Medya.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(S%C3%B6z%20Ahlak%C4%B1%20ve%20Sosyal%20Medya).mp3"
+    },
+    {
+      "id": "hutbe_20260515_17",
+      "title": "Toplumsal Sorumluluklarımız",
+      "date": "2026-05-15",
+      "raw_date": "15.05.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Toplumsal%20Sorumluluklar%C4%B1m%C4%B1z.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Toplumsal%20Sorumluluklar%C4%B1m%C4%B1z.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Toplumsal%20Sorumluluklar%C4%B1m%C4%B1z).mp3"
+    },
+    {
+      "id": "hutbe_20260508_18",
+      "title": "İbadetler, Bizi Rabbimize Yakınlaştırır",
+      "date": "2026-05-08",
+      "raw_date": "8.05.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0badetler,%20Bizi%20Rabbimize%20Yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1r.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0badetler,%20Bizi%20Rabbimize%20Yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1r.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe(%C4%B0badetler,%20Bizi%20Rabbimize%20Yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1r).mp3"
+    },
+    {
+      "id": "hutbe_20260501_19",
+      "title": "Alın Teri Mukaddestir",
+      "date": "2026-05-01",
+      "raw_date": "1.05.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Al%C4%B1n%20Teri%20Mukaddestir.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Al%C4%B1n%20Teri%20Mukaddestir.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Al%C4%B1n%20Teri%20Mukaddestir).mp3"
+    },
+    {
+      "id": "hutbe_20260424_20",
+      "title": "Merhamet Eğitimi",
+      "date": "2026-04-24",
+      "raw_date": "24.04.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Merhamet%20E%C4%9Fitimi.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Merhamet%20E%C4%9Fitimi.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Merhamet%20E%C4%9Fitimi).mp3"
+    },
+    {
+      "id": "hutbe_20260417_21",
+      "title": "Birbirimize Kenetlenelim, Sorumluluklarımızı İdrak Edelim",
+      "date": "2026-04-17",
+      "raw_date": "17.04.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birbirimize%20Kenetlenelim,%20Sorumluluklar%C4%B1m%C4%B1z%C4%B1%20%C4%B0drak%20Edelim.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birbirimize%20Kenetlenelim,%20Sorumluluklar%C4%B1m%C4%B1z%C4%B1%20%C4%B0drak%20Edelim.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe(Birbirimize%20Kenetlenelim,%20Sorumluluklar%C4%B1m%C4%B1z%C4%B1%20%C4%B0drak%20Edelim).mp3"
+    },
+    {
+      "id": "hutbe_20260410_22",
+      "title": "İslam",
+      "date": "2026-04-10",
+      "raw_date": "10.04.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(%C4%B0slam).mp3"
+    },
+    {
+      "id": "hutbe_20260403_23",
+      "title": "Cuma ve Ümmet Bilinci",
+      "date": "2026-04-03",
+      "raw_date": "3.04.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Cuma%20ve%20%C3%9Cmmet%20Bilinci.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Cuma%20ve%20%C3%9Cmmet%20Bilinci.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Cuma%20ve%20%C3%9Cmmet%20Bilinci).mp3"
+    },
+    {
+      "id": "hutbe_20260327_24",
+      "title": "Tevekkül",
+      "date": "2026-03-27",
+      "raw_date": "27.03.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tevekk%C3%BCl.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tevekk%C3%BCl.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Tevekk%C3%BCl).mp3"
+    },
+    {
+      "id": "hutbe_20260320_25",
+      "title": "Ramazan Bayramı",
+      "date": "2026-03-20",
+      "raw_date": "20.03.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan%20Bayram%C4%B1.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan%20Bayram%C4%B1.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Ramazan%20Bayram%C4%B1).mp3"
+    },
+    {
+      "id": "hutbe_20260320_26",
+      "title": "Hayatı Ramazan Kılmak",
+      "date": "2026-03-20",
+      "raw_date": "20.03.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hayat%C4%B1%20Ramazan%20K%C4%B1lmak.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hayat%C4%B1%20Ramazan%20K%C4%B1lmak.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Hayat%C4%B1%20Ramazan%20K%C4%B1lmak).mp3"
+    },
+    {
+      "id": "hutbe_20260313_27",
+      "title": "Hak ve Hakikatin Temsilcileri: Peygamberler",
+      "date": "2026-03-13",
+      "raw_date": "13.03.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hak%20ve%20Hakikatin%20Temsilcileri;%20Peygamberler.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hak%20ve%20Hakikatin%20Temsilcileri;%20Peygamberler.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Hak%20ve%20Hakikatin%20Temsilcileri;%20Peygamberler).mp3"
+    },
+    {
+      "id": "hutbe_20260306_28",
+      "title": "Zekat ve Fıtır Sadakası",
+      "date": "2026-03-06",
+      "raw_date": "6.03.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Zekat%20ve%20F%C4%B1t%C4%B1r%20Sadakas%C4%B1.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Zekat%20ve%20F%C4%B1t%C4%B1r%20Sadakas%C4%B1.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Zekat%20ve%20F%C4%B1t%C4%B1r%20Sadakas%C4%B1).mp3"
+    },
+    {
+      "id": "hutbe_20260227_29",
+      "title": "Bağımlılıkla Mücadelede Ramazan Bir Fırsattır",
+      "date": "2026-02-27",
+      "raw_date": "27.02.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kla%20M%C3%BCcadelede%20Ramazan%20Bir%20F%C4%B1rsatt%C4%B1r.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kla%20M%C3%BCcadelede%20Ramazan%20Bir%20F%C4%B1rsatt%C4%B1r.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kla%20M%C3%BCcadelede%20Ramazan%20Bir%20F%C4%B1rsatt%C4%B1r).mp3"
+    },
+    {
+      "id": "hutbe_20260220_30",
+      "title": "Ramazan, Cami ve Hayat",
+      "date": "2026-02-20",
+      "raw_date": "20.02.2026",
+      "language": "tr",
+      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan,%20Cami%20ve%20Hayat.pdf",
+      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan,%20Cami%20ve%20Hayat.doc",
+      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Ramazan,%20Cami%20ve%20Hayat).mp3"
+    }
+  ]
+}
