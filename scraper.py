@@ -35,16 +35,15 @@ def extract_text_from_doc_bytes(file_bytes, is_docx=False):
         try:
             doc = docx.Document(io.BytesIO(file_bytes))
             return "\n".join([p.text for p in doc.paragraphs if p.text.strip()])
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"DOCX okuma hatası: {e}")
 
-    # Eski tip .doc formatı için antiword aracı
     try:
         process = subprocess.Popen(['antiword', '-'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         out, _ = process.communicate(input=file_bytes)
         return out.decode('utf-8', errors='ignore')
     except Exception as e:
-        print(f"Word okuma hatası: {e}")
+        print(f"Antiword okuma hatası: {e}")
         return ""
 
 def parse_hutbe_content(full_text):
@@ -53,48 +52,58 @@ def parse_hutbe_content(full_text):
         return None
 
     lines = [l.strip() for l in full_text.splitlines() if l.strip()]
-    raw_content = "\n".join(lines)
+    raw_content = "\n\n".join(lines)
 
-    # Basit blok çıkarma mantığı
     verse_arabic = ""
     verse_translation = ""
-    verse_source = ""
     hadith_text = ""
-    hadith_source = ""
+    body_lines = []
 
-    # Arapça harf içeren blokları yakala
+    # Arapça harf tespiti
     arabic_pattern = re.compile(r'[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF]+')
-    arabic_blocks = [line for line in lines if len(arabic_pattern.findall(line)) > 3]
-    if arabic_blocks:
-        verse_arabic = arabic_blocks[0]
+    
+    body_started = False
+    summary_lines = []
 
-    # "Muhterem Müslümanlar" veya "Aziz Müminler" öncesi özet/giriştir
-    body_start_idx = 0
     for idx, line in enumerate(lines):
+        # Gövde başlangıç tespiti
         if any(keyword in line for keyword in ["Muhterem Müslümanlar", "Aziz Müminler", "Değerli Kardeşlerim", "Aziz Müslümanlar"]):
-            body_start_idx = idx
-            break
+            body_started = True
 
-    summary = " ".join(lines[1:min(body_start_idx, 4)]) if body_start_idx > 1 else (lines[1] if len(lines) > 1 else "")
-    body_text = "\n\n".join(lines[body_start_idx:]) if body_start_idx > 0 else raw_content
+        if body_started:
+            body_lines.append(line)
+        else:
+            # Gövdeden önceki kısım (Ayet, Hadis, Özet)
+            if len(arabic_pattern.findall(line)) > 2 and not verse_arabic:
+                verse_arabic = line
+            elif line.startswith("“") or line.startswith('"') or "Ayet" in line or "Suresi" in line:
+                if not verse_translation:
+                    verse_translation = line
+                elif not hadith_text:
+                    hadith_text = line
+            else:
+                summary_lines.append(line)
+
+    summary = " ".join(summary_lines[1:]) if len(summary_lines) > 1 else (summary_lines[0] if summary_lines else "")
+    body_text = "\n\n".join(body_lines) if body_lines else raw_content
 
     return {
         "summary": summary.strip(),
         "verse": {
             "arabic": verse_arabic.strip(),
-            "translation": "",
+            "translation": verse_translation.strip(),
             "source": ""
         },
         "hadith": {
             "text": hadith_text.strip(),
-            "source": hadith_source.strip()
+            "source": ""
         },
         "body": body_text.strip(),
         "raw_text": raw_content
     }
 
 def fetch_hutbe_doc_content(doc_url):
-    """Word dosyasını indirip metnini çeker"""
+    """Word dosyasını indirip içeriğini döner"""
     if not doc_url:
         return None
     try:
@@ -108,7 +117,7 @@ def fetch_hutbe_doc_content(doc_url):
         return None
 
 def main():
-    print("Diyanet Türkçe hutbeleri ve Word içerikleri taranıyor...")
+    print("Diyanet Türkçe hutbeleri taranıyor...")
     response = requests.get(TARGET_URL, headers=HEADERS, timeout=30)
     response.raise_for_status()
 
@@ -118,21 +127,11 @@ def main():
         print("Hata: Tablo bulunamadı!")
         return
 
-    json_path = "hutbeler.json"
-    existing_data = {}
-    if os.path.exists(json_path):
-        try:
-            with open(json_path, "r", encoding="utf-8") as f:
-                saved = json.load(f)
-                for item in saved.get("data", []):
-                    existing_data[item["id"]] = item
-        except Exception:
-            existing_data = {}
-
     rows = table.find_all("tr", class_=lambda x: x and "ms-itmhover" in x)
-    updated_items = []
+    hutbeler = []
 
-    # İlk 5 hutbenin (en güncellerin) detaylı Word metinlerini çek
+    print(f"Toplam {len(rows)} adet hutbe satırı bulundu. İlk 10 tanesinin Word içeriği işleniyor...")
+
     for idx, row in enumerate(rows):
         cols = row.find_all("td")
         if len(cols) < 6:
@@ -148,12 +147,10 @@ def main():
         hutbe_id = f"hutbe_{formatted_date.replace('-', '')}_{idx + 1}"
         doc_url = clean_url(doc_tag["href"]) if doc_tag and doc_tag.has_attr("href") else None
 
-        # Eğer veri zaten varsa ve içeriği çekilmişse tekrar indirme (hız tasarrufu)
         content_data = None
-        if hutbe_id in existing_data and existing_data[hutbe_id].get("content"):
-            content_data = existing_data[hutbe_id]["content"]
-        elif idx < 5 and doc_url:
-            print(f"Metin indiriliyor: {title}")
+        # İlk 10 hutbenin detaylı Word metnini indir ve parse et
+        if idx < 10 and doc_url:
+            print(f"[{idx+1}/10] Word indiriliyor ve ayrıştırılıyor: {title}")
             content_data = fetch_hutbe_doc_content(doc_url)
 
         item = {
@@ -167,22 +164,18 @@ def main():
             "audio_url": clean_url(ses_tag["href"]) if ses_tag and ses_tag.has_attr("href") else None,
             "content": content_data
         }
-        updated_items.append(item)
-        existing_data[hutbe_id] = item
-
-    final_list = list(existing_data.values())
-    final_list.sort(key=lambda x: x.get("date", ""), reverse=True)
+        hutbeler.append(item)
 
     payload = {
         "last_updated": datetime.utcnow().isoformat() + "Z",
-        "total_count": len(final_list),
-        "data": final_list
+        "total_count": len(hutbeler),
+        "data": hutbeler
     }
 
-    with open(json_path, "w", encoding="utf-8") as f:
+    with open("hutbeler.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"Başarılı! Toplam {len(final_list)} adet hutbe güncellendi.")
+    print(f"Tamamlandı! 'hutbeler.json' güncellendi.")
 
 if __name__ == "__main__":
     main()
