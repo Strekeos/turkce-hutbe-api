@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Kodu Klonla
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Tüm git geçmişini alarak rebase çakışmalarını önler
 
       - name: Python Kur
         uses: actions/setup-python@v5
@@ -27,8 +29,9 @@ jobs:
       - name: Scraper'ı Çalıştır
         run: python scraper.py
 
-      - name: Dosyayı Otomatik Commit ve Push Yap
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Auto-update: Turkce hutbeler guncellendi"
-          file_pattern: 'hutbeler.json'
+      - name: Değişiklikleri Senkronize Et ve Push Yap
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add hutbeler.json
+          git diff --staged --quiet || (git commit -m "Auto-update: Turkce hutbeler guncellendi" && git pull --rebase origin main && git push origin main)
