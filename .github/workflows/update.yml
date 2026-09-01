@@ -2,11 +2,11 @@ name: Turkce Hutbeleri Guncelle
 
 on:
   schedule:
-    # Her Perşembe 18:30 UTC (TSİ 21:30) - Diyanet genelde Perşembe akşamı yükler
+    # Her Perşembe 18:30 UTC (TSİ 21:30)
     - cron: '30 18 * * 4'
-    # Her Cuma 05:00 UTC (TSİ 08:00) - Cuma sabahı son kontrol
+    # Her Cuma 05:00 UTC (TSİ 08:00)
     - cron: '0 5 * * 5'
-  workflow_dispatch: # Manuel çalıştırma butonu
+  workflow_dispatch:
 
 jobs:
   scrape-and-update:
@@ -18,7 +18,7 @@ jobs:
       - name: Kodu Klonla
         uses: actions/checkout@v4
 
-      - name: Python 3.11 Kur
+      - name: Python Kur
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
