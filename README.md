@@ -14,3 +14,4 @@ Mobil, web veya masaüstü uygulamalarınızda kota ve rate-limit engeline takı
 
 ### 🌐 CDN URL (Önerilen)
 ```text
+[https://cdn.jsdelivr.net/gh/Strekeos/turkce-hutbe-api@main/hutbeler.json](https://cdn.jsdelivr.net/gh/Strekeos/turkce-hutbe-api@main/hutbeler.json)
