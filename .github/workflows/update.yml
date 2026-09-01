@@ -2,8 +2,8 @@ name: Turkce Hutbeleri Guncelle
 
 on:
   schedule:
-    - cron: '30 18 * * 4' # Her Perşembe TSİ 21:30
-    - cron: '0 5 * * 5'  # Her Cuma TSİ 08:00
+    - cron: '30 18 * * 4'
+    - cron: '0 5 * * 5'
   workflow_dispatch:
 
 jobs:
@@ -16,20 +16,20 @@ jobs:
       - name: Kodu Klonla
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Tüm git geçmişini alarak rebase çakışmalarını önler
+          fetch-depth: 0
 
       - name: Python Kur
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Paketleri Yükle
-        run: pip install requests beautifulsoup4 urllib3
+      - name: Paketleri Yukle
+        run: pip install requests beautifulsoup4
 
-      - name: Scraper'ı Çalıştır
+      - name: Scraperi Calistir
         run: python scraper.py
 
-      - name: Değişiklikleri Senkronize Et ve Push Yap
+      - name: Degisiklikleri Gonder
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
