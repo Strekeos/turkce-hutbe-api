@@ -8,13 +8,18 @@ from datetime import datetime
 import docx
 import requests
 from bs4 import BeautifulSoup
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 BASE_URL = "https://dinhizmetleri.diyanet.gov.tr"
 TARGET_URL = f"{BASE_URL}/kategoriler/yayinlarimiz/hutbeler/t%C3%BCrk%C3%A7e"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "tr-TR,tr;q=0.9",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Referer": "https://dinhizmetleri.diyanet.gov.tr/",
 }
 
 def clean_url(rel_url):
@@ -35,8 +40,8 @@ def extract_text_from_doc_bytes(file_bytes, is_docx=False):
         try:
             doc = docx.Document(io.BytesIO(file_bytes))
             return "\n".join([p.text for p in doc.paragraphs if p.text.strip()])
-        except Exception as e:
-            print(f"DOCX okuma hatası: {e}")
+        except Exception:
+            pass
 
     try:
         process = subprocess.Popen(['antiword', '-'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -59,21 +64,18 @@ def parse_hutbe_content(full_text):
     hadith_text = ""
     body_lines = []
 
-    # Arapça harf tespiti
     arabic_pattern = re.compile(r'[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF]+')
     
     body_started = False
     summary_lines = []
 
     for idx, line in enumerate(lines):
-        # Gövde başlangıç tespiti
         if any(keyword in line for keyword in ["Muhterem Müslümanlar", "Aziz Müminler", "Değerli Kardeşlerim", "Aziz Müslümanlar"]):
             body_started = True
 
         if body_started:
             body_lines.append(line)
         else:
-            # Gövdeden önceki kısım (Ayet, Hadis, Özet)
             if len(arabic_pattern.findall(line)) > 2 and not verse_arabic:
                 verse_arabic = line
             elif line.startswith("“") or line.startswith('"') or "Ayet" in line or "Suresi" in line:
@@ -102,12 +104,12 @@ def parse_hutbe_content(full_text):
         "raw_text": raw_content
     }
 
-def fetch_hutbe_doc_content(doc_url):
+def fetch_hutbe_doc_content(session, doc_url):
     """Word dosyasını indirip içeriğini döner"""
     if not doc_url:
         return None
     try:
-        res = requests.get(doc_url, headers=HEADERS, timeout=20)
+        res = session.get(doc_url, headers=HEADERS, timeout=20, verify=False)
         res.raise_for_status()
         is_docx = doc_url.lower().endswith(".docx")
         text = extract_text_from_doc_bytes(res.content, is_docx=is_docx)
@@ -118,19 +120,27 @@ def fetch_hutbe_doc_content(doc_url):
 
 def main():
     print("Diyanet Türkçe hutbeleri taranıyor...")
-    response = requests.get(TARGET_URL, headers=HEADERS, timeout=30)
+    session = requests.Session()
+    response = session.get(TARGET_URL, headers=HEADERS, timeout=30, verify=False)
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
-    table = soup.find("table", {"id": "onetidDoclibViewTbl0"})
-    if not table:
-        print("Hata: Tablo bulunamadı!")
+    
+    # Esnek satır bulma: Doğrudan SharePoint itmhover satırlarını ara
+    rows = soup.find_all("tr", class_=lambda x: x and "ms-itmhover" in x)
+    
+    if not rows:
+        # Tablo üzerinden yedek arama
+        table = soup.find("table", {"id": "onetidDoclibViewTbl0"}) or soup.find("table", class_=lambda x: x and "ms-listviewtable" in x)
+        if table:
+            rows = table.find_all("tr")
+
+    if not rows:
+        print("Hata: Sayfada hutbe satırı bulunamadı!")
         return
 
-    rows = table.find_all("tr", class_=lambda x: x and "ms-itmhover" in x)
     hutbeler = []
-
-    print(f"Toplam {len(rows)} adet hutbe satırı bulundu. İlk 10 tanesinin Word içeriği işleniyor...")
+    print(f"Toplam {len(rows)} adet satır bulundu. Word içerikleri işleniyor...")
 
     for idx, row in enumerate(rows):
         cols = row.find_all("td")
@@ -148,10 +158,10 @@ def main():
         doc_url = clean_url(doc_tag["href"]) if doc_tag and doc_tag.has_attr("href") else None
 
         content_data = None
-        # İlk 10 hutbenin detaylı Word metnini indir ve parse et
+        # İlk 10 güncel hutbenin Word dosyasını indir
         if idx < 10 and doc_url:
-            print(f"[{idx+1}/10] Word indiriliyor ve ayrıştırılıyor: {title}")
-            content_data = fetch_hutbe_doc_content(doc_url)
+            print(f"[{idx+1}/10] Metin işleniyor: {title}")
+            content_data = fetch_hutbe_doc_content(session, doc_url)
 
         item = {
             "id": hutbe_id,
@@ -175,7 +185,7 @@ def main():
     with open("hutbeler.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"Tamamlandı! 'hutbeler.json' güncellendi.")
+    print(f"Tamamlandı! Toplam {len(hutbeler)} hutbe 'hutbeler.json' dosyasına kaydedildi.")
 
 if __name__ == "__main__":
     main()
