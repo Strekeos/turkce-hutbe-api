@@ -1,862 +1,274 @@
-{
-  "last_updated": "2026-09-03T06:57:05.976377Z",
-  "total_count": 30,
-  "data": [
-    {
-      "id": "hutbe_20260828_3",
-      "title": "Vatan Sevgisi",
-      "date": "2026-08-28",
-      "raw_date": "28.08.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Vatan%20Sevgisi.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Vatan%20Sevgisi.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Vatan%20Sevgisi).mp3",
-      "content": {
-        "summary": "Millet olarak , Malazgirt Zaferi’nin 955, Büyük Taarruz’un 104’üncü yıl dönümünü idrak ediyoruz. Malazgirt’ten Büyük Taarruz’a uzanan şanlı tarihimiz, yüce milletimizin vatanına, istiklal ve istikbaline olan bağlılığının...",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nوَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
-          "translation": "Gevşemeyin, üzülmeyin, inanmışsanız, mutlaka siz en üstünsünüzdür.",
-          "source": "Âl-i İmrân, 3/139."
-        },
-        "hadith": {
-          "arabic": "وَقَالَ رَسُولُ اللّٰهِ صَلَٰي اللّٰهُ عَلَيْهِ وَسَلَٰمَ :\nجَاهِدُوا بِأَيْدِيكُمْ وَأَلْسِنَتِكُمْ وَأَمْوَالِكُمْ .",
-          "source": "Nesâî, Cihâd, 48."
-        },
-        "body": "VATAN SEVGİSİ\n\nMuhterem Müslümanlar!\n\nMillet olarak , Malazgirt Zaferi’nin 955, Büyük Taarruz’un 104’üncü yıl dönümünü idrak ediyoruz. Malazgirt’ten Büyük Taarruz’a uzanan şanlı tarihimiz, yüce milletimizin vatanına, istiklal ve istikbaline olan bağlılığının en büyük nişanelerindendir. Aziz vatanımız; Malazgirt Destanıyla bizlere yurt olmuş, İstanbul’un fethiyle Anadolu’daki hâkimiyetimiz perçinlenmiş, Büyük Taarruz’la da düşmanlara geçit verilmeyeceği tüm dünyaya ilan edilmiştir.\n\nKıymetli Kardeşlerim!\n\nBir insan için, en kıymetli varlıklardan b iri de üzerinde özgürce yaşadığı  vatan toprağıdır. Vatanı korumak öyle kutsaldır ki onun uğruna canını verenler , şehadetle ödüllendirilmiştir. Çünkü vatanımız varsa devletimiz vardır, kimliğimiz vardır, onur umuz vardır. Vatan ımız varsa yuvamız vardır, işimiz vardır, aşımız vardır. Vatanımız varsa huzur umuz vardır,  güvenliğimiz vardır, geleceğimiz vardır.\n\nDeğerli Müslümanlar!\n\nVatan sevgisi medeniyetimizde imandan bir parça olarak görülmüştür.  Vatan sevgisinden maksat ise; istiklalimizin sembolü bayrağımıza, kardeşliğimizin nişanesi ezan larımıza, bizi millet kılan mukaddes değerlerimize sahip çıkmaktır. Vatanı sevmek; yeri geldiğinde “Ellerinizle, dillerinizle ve mallarınızla cihad edin ”1 nebevi emrine gönülden bağlanmaktır . Vatanı sevmek, işimizi en doğru ve en güzel şekil de yapmak; dürüstlüğün ve adaletin hâkim olduğu bir toplum inşa etmektir. Kıymetli Müminler! Tarih boyunca gittiği her yer e huzur ve barışı götürmüş bir milletin evlatları olarak, bizler biliyoruz ki ; düşmanlarımız, vatanımıza göz dikmekten geri durmamışlardır. Zaman değişse, zulüm farklı kisvelere bürünse, fitne başka adlarla anılsa da , hak ile batılın mücadelesi son bulmamıştır. Ancak bizler inanıyoruz ki, “Gevşeklik göstermeyin, üzülmeyin; eğer inanmışsanız şüphesiz en üstün olan sizsiniz” 2 buyruğuna sarılırsak; vatanımıza, milletimize ve dirliğimize yönelik oyunlara karşı uyanık olursak, Allah tuzak kuranların tuzaklarını başlarına geçirecek,3 Hak galip gelecek, batıl yok olacaktır.4\n\nAziz Müslümanlar!\n\nYüce Rabbimizden niyazımız; milletimizin birlik ve beraberliğini daim, devletimizi kaim, ülkemizi ilelebet huzur ve esenlik yurdu kılmasıdır. Cenabı-ı Hak, bu toprakları bize vatan kılan aziz şehitlerimize ve ahirete göç eden kahraman gazilerimize rahmet eylesin. Hutbemizi, Âl-i İmrân suresinde yer alan bir ayet-i kerimenin mealiyle bitir iyoruz: “Ey iman edenler! Sabredin; düşman karşısında sebat gösterin; cihad için hazırlıklı ve uyanık olun ve Allah’tan korkun ki başarıya erişebilesiniz.”5",
-        "footnotes": {
-          "1": "Nesâî, Cihâd, 48.",
-          "2": "Âl-i İmrân, 3/139.",
-          "3": "Âl-i İmrân, 3/54.",
-          "4": "İsrâ, 17/81.",
-          "5": "Âl-i İmrân, 3/200."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260821_4",
-      "title": "Mevlid-i Nebi",
-      "date": "2026-08-21",
-      "raw_date": "21.08.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Mevlid-i%20Nebi,.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Mevlid-i%20Nebi,.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Mevlid-i%20Nebi,).mp3",
-      "content": {
-        "summary": "MEVLİD-İ NEBİ",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nيَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا",
-          "translation": "Biz seni şahit, müjdeci, uyarıcı; Allah'ın izniyle O'na çağıran, nurlandıran bir ışık olarak göndermişizdir.",
-          "source": "Ahzâb, 33/45,46."
-        },
-        "hadith": {
-          "arabic": "اِل ى اللّ هِ بِاِذْنِه۪ و سِر اجًا مُّن۪يرًا .\nو ق ال  ر سُّولُّ اللّ هِ ص ل  ي اللّ هُّ ع ل يْهِ و س ل  م  :\nأ كْم لُّ الْمُّؤْمِنِين  إِيم انًا أ حْ س نُّهُّمْ خُّلُّقًا .",
-          "source": "Buhârî, Bed’ü’l-vahy, 1."
-        },
-        "body": "MEVLİD-İ NEBİ\n\nMuhterem Müslümanlar!\n\nÜmmeti olmakla şeref duyduğumuz Sevgili Peygamberimiz (s.a.s ), şirkin insanlığı karanlığa mahkûm ettiği cehalet çağını , tevhid akidesiyle aydınlatmıştır. O , zulmün ve kötülüğün insanlığı esir aldığı bir  zamanda; mazlum ve mağdurların, güçsüz ve zayıfların umudu olmuştur.  Hz. Hatice Annemiz, Efendimiz (s.a.s)’in bu hasletini şöyle ifade etmiştir: “Allah’a yemin ederim ki Cenâb-ı Hak hiçbir vakit seni utandırmaz. Çünkü s en akrabayı gözetirsin; muhtaç olanl arın bakımını üstlenirsin; aç ve açıkta olanı koruyup, kollarsın; misafire ikram edersin ve musibete maruz kalanlara yardım edersin.”1\n\nAziz Müminler!\n\nİnsanlığın muhtaç olduğu güzel ahlakın tüm unsurları, Allah’ın K itabı ve Peygamberimiz (s.a.s)’in sünnet-i seniyyesinde mevcuttur. Dolayısıyla kim, ailesinde huzur istiyorsa; “Sizin en hayırlınız, ailesine karşı en iyi olanınızdır” 2 nebevi tavsiyesine sarılsın. Kim , helal kazanç arıyorsa; “Allah kişinin, iş ini sağlam yapmasından hoşlanır”3 prensibini hayatında ilke edinsin. Kim, akrabasıyla bağlarını korumanın, komşularıyla iyi geçinmenin , sosyal hayatta kardeşliği ikame etmenin gayretinde ise ; “Müslüman, dilinden ve elinden insanların selâmette olduğu kişidir ”4 öğüdüne dikkat etsin . Ve k im de imanın tadını a lmayı arzuluyorsa; “Müminlerin iman bakımından en mükemmeli, ahlâk bakımından en güzel olanıdır ”5 hadis-i şerifini kendisine rehber kılsın. Kıymetli Müslümanlar! Bugün, iletişim imkânları çoğalmakta; bilgi, saniyeler içerisinde dünyanın dört bir yanına ulaşabilmektedir. Ne var ki bütün bu gelişmelere rağmen insanlık, huzura ve sükûnete her zamankinden daha fazla muhtaçtır. Dünyanın diğer ucundakilerle iletişim kurabilen nice insan ımız; aynı evi paylaşt ığı eş ine, çocuklarına , anne  ve babasına yabancı olabilmektedir. Sanal dünyanın kalabalığında kaybolan nice insanımız da; yanı başındaki komşusunun derdini, akrabasının hâlini, mahallesindeki ihtiyaç sa hibinin sesini duyamamaktadır. Şu hususu unutmayalım ki; çağımızda yaşadığımız bu sorunların çözümü , hutbemizde bir kısmını ifade etmeye çalıştığımız nebevî ahlaktadır. Değerli Müminler! Önümüzdeki Pazartesi günü Mevlid Kandilidir. Sevgili Peygamberimiz (s.a.s)’in doğumunun hicri bin beş yüzüncü yılı olması münasebetiyle Mevlid-i Nebi Haftası nı “Peygamberimiz ve Güzel Ahlak ” temasıyla idrak edeceğiz. Hafta boyunca gerçekleştireceğimiz programlarla Peygamber Efendimiz (s.a.s)’i anmaya, anlamaya ve getirdiği mesajları insanlıkla buluşturmaya gayret göstereceğiz. Bizleri, Allah Resûlü  (s.a.s)’e ümmet kılan Yüce Rabbimize hamd ve sena ; peygamberimiz, rehberimiz ve örneğimiz Hz. Muhammed Mustafa’ya, âline ve ashabına salat ve selam olsun. Mevlid Kandilimiz şimdiden mübarek olsun. Aziz Kardeşlerim! Hutbemizi Ahzâb suresinde yer alan şu ayet-i kerimelerin mealiyle bitiriyoruz: “Ey Peygamber! Biz seni bir şahit, bir müjdeleyici, bir uyarıcı; Allah’ın izniyle kendi yoluna çağıran bir davetçi ve aydınlatıcı bir kandil olarak gönderdik.”6 2 İbn Mâce, Nikâh, 50. 3 Taberânî, el-Mu’cemü’l-kebîr, XXIV, 306. 5 Ebû Dâvûd, Sünnet, 15.",
-        "footnotes": {
-          "1": "Buhârî, Bed’ü’l-vahy, 1.",
-          "4": "Nesâî, Îmân, 8.",
-          "6": "Ahzâb, 33/45,46."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260814_5",
-      "title": "Her Yetim Bir Emanet",
-      "date": "2026-08-14",
-      "raw_date": "14.08.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Her%20Yetim%20Bir%20Emanet.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Her%20Yetim%20Bir%20Emanet.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Her%20Yetim%20Bir%20Emanet).mp3",
-      "content": {
-        "summary": "HER YETİM BİR EMANET",
-        "verse": {
-          "arabic": "",
-          "translation": "",
-          "source": ""
-        },
-        "hadith": {
-          "arabic": "وَقَالَ رَسُولُ اللّ هِ صَل َي اللّ هُ عَلَيْهِ وَسَل َمَ :\nخَيْرُ بَيْتٍ فِى الْمُسْلِمِينَ بَيْتٌ فِيهِ يَتِيمٌ يُحْسَنُ إِلَيْهِ ...",
-          "source": "Nesâî, Zînet, 57."
-        },
-        "body": "HER YETİM BİR EMANET\n\nMuhterem Müslümanlar!\n\nBir şehadet haberiyle kor düşmüştü Medine’ye. Allah Resûlü (s.a.s)’in , ‘Kardeşim!’ dediği amcasının oğlu Ca‘fer -i Tayyâr (r.a) şehit olmuş, ardında üç yetim bırakmıştı. Rahmet Elçisi (s.a.s), matem e bürünmüş yetimlerin evine vardı. Onları yanına çağırdı, bağrına bastı, onların ihtiyaçlarını giderdi .1 Ve bir defasında Rahmet Elçisi (s.a.s), şehadet ile orta parmağını birleştirerek, “Yetime kol kanat geren kimse ile ben, cennette böyle yan yana olacağız” 2 buyurdu.\n\nAziz Müminler!\n\nGönül coğrafyamızın bir yanı ateşler içindeyken, öb ür yanında bizler, zulmün devam ettiğini unutabiliyoruz.  Ekranlar haber yapmayı kestiğinde zulmün de sona erdiği düşüncesine kapılabiliyoruz. Bizler; g ünlük telaşlarımız ın ve dünya meşguliyetlerimiz in arkasından koşarken , Gazze’de ve farklı coğrafyalarda insanlar varoluş mücadelesi vermeye devam ediyor . Yine her gün yüzlerce çocuk, zalimlerin bombaları altında ya can veriyor, ya da yetim ve öksüz kalıyor. Kıymetli Müslümanlar! İnsanlığın kaybettiği merhametin acı bir itirafını, savaşın ortasında minik bir yüreğin ‘Bizim buralarda çocuklar büyümez !’ sözünde görüyoruz. Oysaki çocukların büyüyemediği; oyun alanlarının kabirleri haline geldiği bir dünyada, insanlığın huzurlu ola mayacağı açıktır. Yetim ve öksüzlerin; başlarını okşayacak ve yaralarını saracak şefkatli bir el bulmakta zorlandıkları çağımızda, Müslüman ların rahat olamayacakları bir gerçektir. Ve şu da  bir hakikattir ki; yetimlere sahip çıkmak, onları himaye etmek ve koruyup gözetmek, kendisi de yetim olan Peygamber Efendimiz (s.a.s)’in sünnetidir. Değerli Müminler! Akrabalarımızın ve  komşularımızın geride bıraktığı; mahallemizde, şehrimizde ve ülkemizde bulunan yetimler  bizim olduğu gibi , mazlum coğrafyalarda hayata tutunmaya çalışan yetimler de bizimdir, Cenâb -ı Hakk’ın bizlere emanetidir. Zira merhametin coğrafyası olmaz. Ümmet olmak bir olmaktır, kardeşlik bağını korumaktır. Belki bugün, elimizden savaşları durdurmak gelmeyebilir. Fakat yarına hazırlık yapmak, zalimlerin heveslerini kursağında  bırakacak güce ulaşmak elimizdedir. Unutmamak, duyarsızlaşmamak, mazlumların sesi olmak elimizdedir. Yüce Rabb imizin, “Yetimi sakın incitme!”3 emri gereğince, yetimleri biçare bırakmamak; evimizi ve gönlümüzü onlara açmak, yeri geldiğinde koruyucu bir aile olmak, maddi ve manevi desteğimizle onların yan ında durmak elimizdedir. Aziz Kardeşlerim! Hutbemizi, S evgili Peygamberimiz (s.a.s)’in şu hadis-i şerifleriyle bitir iyoruz: “Müslümanların evleri arasında en hayırlı  ev, içinde kendisine iyi davranılan bir yetimin bulunduğu evdir…”4 4 İbn Mâce, Edeb, 6.",
-        "footnotes": {
-          "1": "Nesâî, Zînet, 57.",
-          "2": "Buhârî, Talâk, 25.",
-          "3": "Duhâ, 93/9."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260807_6",
-      "title": "Kardeşlik",
-      "date": "2026-08-07",
-      "raw_date": "07.08.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Karde%C5%9Flik.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Karde%C5%9Flik.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Karde%C5%9Flik).mp3",
-      "content": {
-        "summary": "KARDEŞLİK",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nوَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءًۭ فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًۭا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍۢ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ",
-          "translation": "Toptan Allah'ın ipine sarılın, ayrılmayın. Allah'ın size olan nimetini anın: Düşmandınız, kalblerinizin arasını uzlaştırdı da onun nimeti sayesinde kardeş oldunuz. Bir ateş çukurunun kenarında idiniz, sizi oradan kurtardı. Allah, doğru yola erişesiniz diye size böylece ayetlerini açıklar.",
-          "source": "Âl-i İmrân, 3/103."
-        },
-        "hadith": {
-          "arabic": "لَّعَّلَّٰكُمْ تُرْحَّمُونَّ  .\nوَّقَّالَّ رَّسُولُ اللّٰهِ صَّلَّٰي اللّٰهُ عَّلَّيْهِ وَّسَّلَّٰمَّ :\nلاَّ تَّقَّاطَّعُوا وَّلاَّ تَّدَّابَّرُوا وَّلاَّ تَّبَّاغَّضُوا وَّلاَّ تَّحَّاسَّدُ وا وَّكُونُوا\nعِبَّادَّ اللّٰهِ إِخْوَّانًا .",
-          "source": "Müslim, Îmân, 93."
-        },
-        "body": "KARDEŞLİK\n\nMuhterem Müslümanlar!\n\nYüce dinimiz İslam ’ın temel hedefi,  hem bu dünya hem de ebedi âlemde insanlığın huzur ve mutluluğunu sağlamak tır. Huzur ve mutluluğu sağlamanın yolu ise; kardeş olmaktan, aramızdaki sevgi ve muhabbeti daha da güçlendirmekten geçmektedir. Öyle ki Rahmet Elçisi Peygamberimiz (s.a.s), birbirimizi sevmeyi iman etmenin bir gereği olarak ifade etmiştir.1\n\nAziz Müminler!\n\nSavaşların farklı bölgelere  yayıldığı, İslam coğrafyasında kan ve gözya şının hâkim olduğu , ülkemizin ateş çemberinin içine çekilmek istendiği bir dönemde;  istikbalimiz, kardeşliğimize bağlıdır. Ecdadımızın canlarını feda ederek bizlere emanet ettiği cennet vatanımızda ; sevinçlerimiz, hüzünlerimiz, dual arımız, zenginlik ol arak kabul ettiğimiz farklılıklarımız bizleri yekvücut kılacaktır. Kıymetli Müslümanlar! Dün olduğu gibi bugün de kardeşliğimize göz diken, muhabbetimize kasteden, bizi birbirimize düşürmek isteyenler olacaktır. Şunu unutmayalım ki, sadece Müslümanların değil, mazlum durumda olan bütün insanların umudu olan bizler, gaflet içerisinde olmadığımız müddetçe  düşmanlarımızın emelleri kursaklarında kalacaktır. Cenâb -ı Hakk’ın,  “Hep birlikte Allah’ın ipine sımsıkı sarılın; bölünüp parçalanmayın”2 emri gereğince dinimi ze ve mukaddesatımıza bağlı kalırsak  fitne ve fesat ateşi bizlere dokunamayacaktır.  Rahmet Peygamberi (s.a.s)’in, “Birbirinizle ilgi ve alakayı kes meyin, birbirinize sırt çevirmeyin, birbirinize kin beslemeyin, birbirinize haset etmeyin. Ey Allah’ın kulları! Kardeş olun” 3 çağrısına kulak verirsek ayrılık ve gayrılık bu topraklarda kendine yer bulamayacaktır. “Müminler ancak kardeştirler, öyleyse kard eşlerinizin arasını düzeltin, Allah’a itaatsizlikten sakın ın ki rahmetine mazhar olasınız”4 emr-i ilahisi ne göre davranırsak vatanımızın dirliği ni ve ümmetin birliği ni kimse bozamayacaktır. Değerli Müminler! Şunu hepimiz biliriz ki; “Girmeden tefrika bir millete düşman giremez. Toplu vurdukça yürekler onu top sindiremez.” Bugün bize düşen ; fitneye karşı basiretle, ayrılığa karşı va hdet şuuru ile hareket etmek, birbirimizi koruyup gözetmektir. Kardeşliğimizi zedeleyebilecek her türlü şeyden uzak durmak, birbirimizin yükünü hafifletmek tir. Milli ve manevi değerlerimiz etrafında buluşmak; birlikte rahmetin, ayrılıkta azabın olduğunu5 unutmamaktır. Aziz Kardeşlerim! Kendi inanç ve medeniyet köklerimize tutunduğumuzda, bir binanın tuğlaları gibi birbirimize sıms ıkı kenetlendiğimizde  yarınlarımız daha huzurlu olacaktır. Hutbemizi, Yüce Rabbimizin şu uyarısıyla bitiriyoruz: “Allah’a ve Resûlüne itaat edin ve birbirinizle çekişmeyin. Sonra gevşersiniz ve gücünüz, devletiniz elden gider. Sabırlı olun. Çünkü Allah sabredenlerle beraberdir.”6 5 İbn Hanbel, IV, 278.",
-        "footnotes": {
-          "1": "Müslim, Îmân, 93.",
-          "2": "Âl-i İmrân, 3/103.",
-          "3": "Tirmizî, Birr ve Sıla, 24.",
-          "4": "Hucurât, 49/10.",
-          "6": "Enfâl, 8/46."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260731_7",
-      "title": "Helal Haram Duyarlılığı",
-      "date": "2026-07-31",
-      "raw_date": "31.07.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Helal%20Haram%20Duyarl%C4%B1l%C4%B1%C4%9F%C4%B1.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Helal%20Haram%20Duyarl%C4%B1l%C4%B1%C4%9F%C4%B1.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Helal%20Haram%20Duyarl%C4%B1l%C4%B1%C4%9F%C4%B1).mp3",
-      "content": {
-        "summary": "HELAL HARAM DUYARLILIĞI",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nقُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ",
-          "translation": "Mümin erkeklere söyle: Gözlerini bakılması yasak olandan çevirsinler, mahrem yerlerini, korusunlar. Bu, onların arınmasını daha iyi sağlar. Allah yaptıklarından şüphesiz haberdardır.",
-          "source": "Nûr, 24/30,31."
-        },
-        "hadith": {
-          "arabic": "خُّطُّوَاتِ الش َياطَان ِ اِن َهُّ لَكُّما عَدُّو ٌّ مُّب۪ينٌّ .\nوَقَالَ رَسُّولُّ اللّ هِ صَل َي اللّ هُّ عَلَياهِ وَسَل َمَ :\nإِن َ الاحَلََلَ بَي ِنٌّ وَإِن َ  الاحَرَامَ بَي ِنٌّ …",
-          "source": "Müslim, Müsâkât, 107."
-        },
-        "body": "HELAL HARAM DUYARLILIĞI\n\nMuhterem Müslümanlar!\n\nHelaller ve haramlar ; kulu, Allah’ın rızasına kavuşturan ilahi ölçülerdir. Kişiye , hayat yolculuğunda iyi ile kötüyü  gösteren kılavuzlardır. Bizler, Allah Resûlü  (s.a.s)’in “Helâl bellidir , haram da bellidir…”1 sözünden de biliyoruz ki, helal ve haram apaçık ortaya konulmuştur.\n\nAziz Müminler!\n\nDinimiz İslam ile bizlere bildirilen her bir emir ve yasak;  insanın haysiyetini, nesil lerin emniyetini ve toplum un huzurunu muhafaza etmek gibi hikmetler barındırmaktadır. Mesela, Yüce Rabbimiz; neslin devamı nı sağlayan evliliği helal, “Zinaya yaklaşmayın. Çünkü o, son derece çirkin bir iştir” 2 ayeti kerimesiyle de toplumu yok eden zinayı h aram kılmıştır. Aynı şekilde Allah Teâlâ, toplumda düzen ve adal eti sağlayacak olan ticareti, alın teriyle kazanmayı,  emek vermeyi bizlere helal kılarken; bereketi yok eden  faizi, ölçü ve tartıda hile yapmayı, ticaret malının ayıbını saklamayı, kısaca insanları aldatmayı  haram kılmıştır. Kıymetli Müslümanlar! Şunu da bilmeliyiz ki, helal haram duyarlılığı, sofraya konulan  lokmanın temiz olması yla sınırlı değildir. Mesela, “Mümin erkeklere söyle, gözlerini haramdan sakınsınlar ve iffetlerini korusunlar… Mümin kadınlara da söyle, gözlerini haramdan sakınsınlar ve iffetle rini korusunlar…”3 ayetleri, iffet ve hayâ  gibi insanın onurunu yücelten çok önemli bir hususa işaret etmektedir. Dolayısıyla erkek kadın her Müslüman, iffetini korumalı, giyim kuşamına  dikkat etmeli , insanın saygınlığını zedeley en davranışlardan uzak durmalıdır. Müslümana düşen; hayâ, iffet ve ahlakın bir araya geldiğinde anlamlı olduğunu idrak etmektir. H em sosyal hayatta hem de dijital mecralarda mahre miyet sınırlarına dikkat etmek; dilini yalandan, gözünü haramdan uzak tutmaktır. Değerli Müminler! Paylaşma duygusunu ortadan kaldıran, nimeti adilce paylaşmanın önünde en büyük engel olan israf da böyledir. Dünyanın farklı bölgelerinde milyonlarca insan bir lokma ekmeğe, bir damla suya muhtaçken ve israf bize yasaklanmış durumdayken,4 ülkemizde tonlarca ekmeğin çöpe atılması, sularımızın sorumsuzca sarf edilmesi helal haram sınırının aşıldığına bir işarettir.\n\nKıymetli Kardeşlerim!\n\nRahmet Elçisi  (s.a.s)’in, “…Kişinin malını helâlden mi yoksa hara mdan mı elde ettiğine bakmayacağı!”5 sözüyle bizleri ikaz ettiği bir çağa şahitlik etmekteyiz. Helalin hor ve hakir görüldüğü, haramın özendirildiği, gayr -ı meşru söz ve davranışların makul sayıldığı bir zamanın zorluklarıyla karşı karşıyayız. Şunu unutmayalım ki, insanların canına, malına , if fet ve şerefine kastetmek, kamu malına el uzatma k; rüşvet, tefecilik, hırsızlık, içki, uyuşturucu  ve kumar gibi kötülüklerden uzak durmak, ancak Yüce Rabbimizin, helal haram ölçüler iyle çizdiği , dosdoğru yolunda olmaktan geçmektedir. Hutbemizi, Cenâb-ı Ha kk’ın şu çağrısıyla bitiriyoruz: “Ey insanlar! Yeryüzünde ki helâl ve temiz olan şeylerden y iyin; şeytanın peşinden gitmeyin, çünkü o apaçık düşmanınızdır.”6",
-        "footnotes": {
-          "1": "Müslim, Müsâkât, 107.",
-          "2": "İsrâ, 17/32.",
-          "3": "Nûr, 24/30,31.",
-          "4": "A’râf, 7/31.",
-          "5": "Buhârî, Büyû’, 23.",
-          "6": "Bakara, 2/168."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260724_8",
-      "title": "İslam Medeniyeti",
-      "date": "2026-07-24",
-      "raw_date": "24.07.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam%20Medeniyeti.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam%20Medeniyeti.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(%C4%B0slam%20Medeniyeti).mp3",
-      "content": {
-        "summary": "İSLAM MEDENİYETİ",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\n۞ وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًۭا ۚ قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ ۖ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى قَرِيبٌۭ مُّجِيبٌۭ",
-          "translation": "Semud milletine kardeşleri Salih'i gönderdik. \"Ey milletim! Allah'a kulluk edin; O'ndan başka tanrınız yoktur; sizi yeryüzünde yaratıp orayı imar etmenizi dileyen O'dur. Öyleyse O'ndan mağfiret dileyin, sonra da O'na tevbe edin. Doğrusu Rabbim size yakın ve duaları kabul edendir\" dedi.",
-          "source": "Hûd, 11/61."
-        },
-        "hadith": {
-          "arabic": "",
-          "source": "Tirmizî, Birr, 55."
-        },
-        "body": "İSLAM MEDENİYETİ\n\nMuhterem Müslümanlar!\n\nYüce Rabbimiz Hûd sûresinde şöyle buyurmaktadır: “Semûd kavmine de kardeşleri Sâlih’i gönderdik. O dedi ki: ‘ Ey kavmim! Allah’a kulluk edin. Sizin O’ndan başka i lâhınız yoktur. Sizi topraktan yarat an ve yeryüzünü imar etme soru mluluğunu size veren O’dur. O halde O’ndan bağışlanma dileyin ve samimiy etle tövbe edin. Şüphesiz Rabbim çok yakınd ır, dualara karşılık verendir.’”1\n\nAziz Müminler!\n\nYüce Allah, insanı yeryüzünün bir emanetçisi olarak yaratmış v e ona hayatı imar etme sorumluluğu yüklemiştir. Bu sorumluluk; şehirler inşa ederken, ahlak ve faziletin korunduğu bir hayat kurabilmektir. İşte medeniyet, maddi eserlerle birlikte manevi değerleri de yaşatan bu anlayışın adıdır. Kıymetli Müslümanlar! Kur’an’ın ve sünnet -i seniyyenin rehberliği üzerine kurulan ve on beş asırlık tecrübeyle yoğrulan İslam medeniyeti; ilmi ibadetle, çalışmayı dürüstlükle, gücü adaletle, zenginliği paylaşmayla buluşturarak yükselmiştir. Tarih boyunca inşa edilen camiler, vakıflar ve kütüphaneler; insanımıza hizmet eden, toplumu ayakta tutan bu medeniyet tasavvurunun birer simgesi olmuştur. Değerli Müminler! İslam medeniyetinin temel gayesi; kalpleri kazanmak, zih inleri ve gönülleri aynı inanç, duygu ve idealde buluştur abilmektir. “Şüphesiz Allah adaleti, iyiliği ve yakınlara yardım etmeyi emreder; hayâsızlığı, fenalığı ve azgınlığı yasaklar”2 ayet-i kerimesinde yer ala n ilahi ölçüler bu medeniyetin  temelidir. Zira, iyiliğin unutulduğu ve ahlakın ihmal edildiği bir toplu mun kalıcı bir gelecek kurması mümkün değildir.\n\nAziz Müslümanlar!\n\nCamilerimiz, kardeşliğimizi pekiştiren; okullarımız, bilgiyle birlikte erdemi öğreten; iş yerlerimiz ise dürüstlüğün , emeğe saygının  ve helal kazancın yaşatıldığı mekânlar olmalıdır. Her birimiz, bulunduğumuz y erde iyiliği temsil edebilirsek medeniyetimiz de güç kazanacaktır. Bize düşen; ecdadımızdan devraldığımız mirası korumak ve onu daha da zenginleştirerek gelecek nesillere ulaştırmaktır. Peygamber Efendimiz (s .a.s)’in, “Nerede olursan ol, Allah’a karşı sorumluluğunun bilincinde ol! Kötülüğün peşinden iyi bir şey yap ki onu yok etsin. İnsanlara da güzel ahlâka uygun biçimde davran!”3 emri gereğince , Rabbimize karşı kulluk görevimizi ifa ederken , insanlığa faydal ı olmayı da hayatımızın gayesi hâli ne getirmektir. Y ine bize düşen, medeniyetimizden ilham alarak geleceğimizi iman, ilim, hikmet ve güzel ahlakla inşa etmektir.\n\nKıymetli Kardeşlerim!\n\nBugün, İstanbul’un fethinin nişanesi ve ecdadımızın kıymetli emaneti Ayasofya-i Kebir Camii Şerifi’nin yeniden cemaatiyle buluştuğu gündür. Ayasofya Camiinden yankılanan ezan -ı Muhammedî, İstanbul’un fethinde olduğu gibi şanlı milletimizin adalet ve merhametinin  yeryüzüne ilanıdır. Camilerimiz, aziz milletimizin maziyle köprüler kurduğu ve istikbalini yoğurduğu manevi kalelerimizdir. Toplumun her kesimini; gencini, yaşlısını ve çocuğunu aynı kubbe altında bir aile kılan bu mabetler, birleştirici ruhunu kıyamete kadar sürdürecektir. Camilerimizin minarelerinden okunan ezanlarımızın gök kubbemizde ebediyen yankılanması niyazıyla; hutbemizi, Tevbe sûresinde yer alan şu ayet -i kerimenin mealiyle bitiriyoruz: “Allah’ın mescitlerini, ancak Allah’a ve ahiret gününe inanan, namazı dosdoğru kılan, zekâtı veren ve yalnızca Allah’tan kor kan ve çekinen kimseler imar edebilirler. İşte onların doğru yolu bulanlardan olmaları umulur.”4",
-        "footnotes": {
-          "1": "Hûd, 11/61.",
-          "2": "Nahl, 16/90.",
-          "3": "Tirmizî, Birr, 55.",
-          "4": "Tevbe, 9/18."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260717_9",
-      "title": "Kur'an-ı Kerim",
-      "date": "2026-07-17",
-      "raw_date": "17.07.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kur'an-%C4%B1%20Kerim.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kur'an-%C4%B1%20Kerim.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Kur'an-%C4%B1%20Kerim).mp3",
-      "content": {
-        "summary": "KUR’AN-I KERİM",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nإِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ",
-          "translation": "Doğrusu bu Kuran kesin bir sözdür.",
-          "source": "Târık, 86/13,14."
-        },
-        "hadith": {
-          "arabic": "ال َّذ۪ينَّ يَّعْمَّلُونَّ الص َّالِحَّاتِ اَّن َّ لَّهُمْ اَّجْراً كَّب۪يراً  .\nوَّقَّالَّ رَّسُولُ اللّ ِٰ صَّل َّي اللّ ُٰ عَّلَّيْهِ وَّسَّل َّمَّ :\nإِن َّ هَّذَّا الْقُرْآنَّ مَّأْ دُبَّةُ اللّ ِٰ  ...",
-          "source": ""
-        },
-        "body": "KUR’AN-I KERİM\n\nMuhterem Müslümanlar!\n\nYüce Rabbimizin kıyamete kadar gelecek bütün insanlara bahşettiği nimetlerden, engin şefkat ve merhametin in tecellile rinden biri de Kur’an-ı Kerim’dir. Kur’an-ı Kerim , hakkı batıldan ayırt eden ilahi kelamdır. O, asla sıradan bir söz değildir.1 Kur’an-ı Kerim , sözlerin en güzeli  ve en mukaddesidir. O, hidayet kaynağı, şifa membaıdır. Kur’an-ı Kerim,  insanlığı; hak ve hakikate, iyilik ve adalete, huzur ve muhabbete sevk eden  Rahmani bir muştudur. Ayet-i kerimede buyrulduğu üzere, “Bu Kur’an , en doğru olana iletir; dünya ve ahiret için  yararlı işler yapan müminlere, büyük bir mükâfat olduğunu müjdeler.”2\n\nAziz Müminler!\n\nKur’an-ı Kerim, rahmet peygamberi Allah Resûlü (s.a.s)’in en büyük mucizesidir. Onun t ek bir harfi dahi değişmemiştir, asla değiştirilemeyecektir. Yüce Rabbimiz, “Şüphesiz Kur’an’ı biz indirdik. O nun koruyucusu da elbette biziz ”3 buyurarak, bu gerçeği beyan etmektedir. Kur’an-ı Kerim, insan ürünü değildir; Allah Teâlâ’nın kelamıdır . O, bir  benzeri şöyle dursun; bir suresinin,  hatta bir ayetinin dahi benzerinin getirilemeyeceği yüce bir kitaptır. Kur’an; Cenâb-ı Hak ile bağımızı  güçlendiren, çevremiz ile ilişkilerimizi düzenleyen bir kılavuzdur. Kıymetli Müslümanlar! Kur’an-ı Ker im’in rehberliğine sarılan kişiler yolunu kaybetmez ler. Onun ilkeleriyle hayat süren aileler  huzur bulurlar. Onun ahla kını kuşanan toplumlar güven içinde yaşar lar. Onun adaletini benimseyen milletler güçlü olur lar. Hayatında Kur’an-ı Kerim’e yer vermeyenle r, onun emirlerine ve yasaklarına riayet etmeyenler , ayetlerini alaya al anlar ise  ancak kendilerini küçük duruma düşürürler. Yüce Rabbimizin bu husustaki uyarısı gayet açıktır: “…İşte bu kitap, Allah’ın, dilediğini kendisiyle doğru yola ilettiği hidayet re hberidir. Allah kimi de saptırırsa artık ona doğru yolu gösterecek yoktur.”4 Değerli Müminler! Devletimizi, vatanımızı, milletimizi, birlik ve beraberliğimizi muhafaza etmenin yolu; değerlerimize sahip çıkmak tan geçmektedir . Bilelim ki; b u değerlerin içeri sinde Kur’an-ı Kerim vardır, sünnet -i seniyye  vardır. Meşruiyetini İslam’dan alan  örfümüz vardır, kültürümüz va rdır. Mutluluğun yolu da işte bu değerleri öğrenmekten ve hayatımıza aktarmaktan geçmektedir. Hutbemizi, Sevgili Peygamberimiz (s.a.s)’in şu ha dis-i şerifleriyle bitiriyoruz: “Şüphesiz bu Kur’an, Allah’ ın sizlere bir ikramıdır...”5",
-        "footnotes": {
-          "1": "Târık, 86/13,14.",
-          "2": "İsrâ, 17/9.",
-          "3": "Hicr, 15/9.",
-          "4": "Zümer, 39/23.",
-          "5": "Hâkim, Müstedrek, 3/144."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260710_10",
-      "title": "Din İstismarı",
-      "date": "2026-07-10",
-      "raw_date": "10.07.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Din%20%C4%B0stismar%C4%B1--.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Din%20%C4%B0stismar%C4%B1--.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(-Din%20İstismarı).mp3",
-      "content": {
-        "summary": "DİN İSTİSMARI",
-        "verse": {
-          "arabic": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍۢ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
-          "translation": "Ona (Muhammed'e) yardım etmezseniz, bilin ki, inkar edenler onu Mekke'den çıkardıklarında mağarada bulunan iki kişiden biri olarak Allah ona yardım etmişti. Arkadaşına (Ebu Bekir'e) \"Üzülme, Allah bizimledir\" diyordu; Allah da ona güven vermiş, görmediğiniz askerlerle onu desteklemiş, inkar edenlerin sözünü alçaltmıştı. Ancak Allah'ın sözü yücedir. Allah güçlüdür, hakimdir.",
-          "source": "Tevbe, 9/40."
-        },
-        "hadith": {
-          "arabic": "مُصْلِحُونَ . اَلََُٓ اِن َهُمْ هُمُ الْمُفْسِدُونَ وَلٰكِنْ لََ يَشْعُرُونَ .\nوَقَالَ رَسُولُ اللّ ِٰ صَل َي اللّ ُٰ عَلَيْهِ وَسَل َمَ :\n...بِئْسَ الْعَبْدُ عَبْ دٌ يَخْتِلُ الد ُنْيَا بِالد ِينِ … بِئْسَ الْعَبْدُ\nعَبْدٌ هَوًى يُضِل ُهُ …",
-          "source": "Tirmizî, Sıfatü’l-kıyâme, 17."
-        },
-        "body": "DİN İSTİSMARI\n\nMuhterem Müslümanlar!\n\nÖnümüzdeki çarşamba günü takvimler bir kez daha 15 Temmuz’u gösterecek. 15 Temmuz; küresel güçlerin maşası olan FETÖ’nün birliğimize, kardeşliğimize, özgürlük ve hürriyetimize  kast ettiği gündür. Aynı zamanda 15 Temmuz, aziz milletimizin; Allah’ın nusret ve inayetiyle  hainlerin tuzaklarını başlarına geçirdiği gündür. Kadını erkeği, genci yaşlı sı tek yürek olduğumuz gündür. Minarelerden yükselen sa lâlar eşliğinde vatanımıza , milli ve manevi değerlerimize, istiklal ve istikbalimize sahip çıktığımız gündür.\n\nAziz Müminler!\n\n“Üzülme! Allah bizimle beraberdir” 1 ayet-i kerimesine gönülden inanan ş anlı milletimiz; dünden bugüne devleti, bayrağı ve  kutsalları söz konusu olunca , mermilere göğsünü siper etmiş , hayâsızca akınlara geçit vermemiştir. 15 Temmuz günü alçak saldırıyı gerçekleştirenler, hâlâ hainlik planlayanlar, şehitlerimizin kanlarına  saygı göstermeyenler bilmelidir ler ki, kahraman milletimiz tarih boyunca asla devletsiz kalmamıştır, Allah’ın izniyle kalmayacaktır  da. Bizleri tarih sahnesinde üç kıtaya hâkim kıl dıran, Malazgirt’le Anadolu’nun kapılarını İslam’a aç tıran, İstanbul’un fethiyle çağları d eğiştiren, Çanakkale ve Milli Mücadele’de devleştiren, 15 Temmuz’da ihanete ‘dur!’ dedirten; Allah’a olan teslimiyeti mizdir, göğsümüzdeki imanı mızdır, şehadet bilinci mizdir. Şu mısralar bu hakikatleri ne de güzel ifade etmektedir: Bayrakları bayrak yapan üstündeki kandır. Toprak eğer uğrunda ölen varsa vatandır. Kıymetli Müslümanlar! FETÖ’yü diğer ihanet şebekelerinden ayıran en belirgin fark, yüce dinimiz İslam’ı ve muazzez değerlerimizi istismar etmesidir.  Suret-i haktan görünerek; ‘hoca’, ‘cemaat’, ‘hizmet’  gibi medeniyetimize ait kavramları  alçak ihti rasları için kullanmasıdır. Gerçek amacını gizlemesi, gen çlerin geleceklerini karartması; menfaatleri uğruna yalanı, ikiyüzlülüğü ve her türlü kötülüğü meşru görmesidir. Zekât, sadaka ve kurban gibi ibadetleri sinsi emellerine ulaşmada aracı kılmasıdır. Yüce Rabbimiz, bu nifak hareketlerini bizlere şöyle tanıtmaktadır: “Onlara ‘Yeryüzünde fesat çıkarmayın’ denildiğinde, ‘Biz ancak ıslah edicileriz’ derle r. Şunu bilin ki onlar bozguncuların ta kendileridir, lakin anlamak istemezler.”2 Değerli Kardeşlerim! Vatanımızı bölmek, birlik ve beraberliğimizi zayıflatmak isteyenler , bu isteklerinden vazgeçmiş değillerdir. Şer odakları,  dinimizi istismar etmeye, farklı kisve ve yöntemlerle ; inancımızı, kardeşliğimizi ve toplumsal bütünlüğümüzü hedef almaya devam edeceklerdir . Fırsat buldukları her alanda nifak tohumları ekmeye, toplumumu zun huzurunu bozmaya çalışacaklardır.\n\nAziz Müslümanlar!\n\nİstismarcı yapılara geç it vermemek ve bunların tuzaklarına düşmemek için  yüce kitabımız Kur’an-ı Kerim’i ve Sevgili Peygamberimiz (s.a.s)’in sünnet-i seniyyesini eh il, güvenilir kişi ve kurumlardan öğrenip hayatımıza aktaralı m. Çocuklarımız ve gençlerimizi  sahih dini bilgi ile buluşturalım. Özellikle a ile hayatımızda ve toplumsal ilişkilerimizde güven ve samimiyeti, dostluk ve kardeşliği daha sağlam hale getirelim. ‘Artık böyle tehlikeler geride kaldı!’ düşüncesiyle rehavete kapılmayalım;  Müslümanlar olarak ferasetli ve basiretli  davranalım. Fitnenin asla uyumadığını, ihanetin her an fırsat kolladığını, düşmanın her gün yöntem değiştirdiğini unutmayalım. Bu vesileyle, geçmişten günümüze  din, vatan ve mukaddes değerlerimiz uğruna canlarını feda eden aziz şehitlerimize ve ahirete ir tihal eden kahraman gazilerimize Yüce Rabbimizden rahmet diliyoruz. Hutbemizi, Peygamber Efendimiz (s.a.s)’in şu hadis-i şerifleriyle bitiriyoruz:  “…Dini dünyaya alet eden insan ne kötüdür! ... Arzu ve isteklerinin kendisini saptırdığı insan ne kötüdür!...”3",
-        "footnotes": {
-          "1": "Tevbe, 9/40.",
-          "2": "Bakara, 2/11, 12.",
-          "3": "Tirmizî, Sıfatü’l-kıyâme, 17."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260703_11",
-      "title": "Yaz Kur'an Kursları",
-      "date": "2026-07-03",
-      "raw_date": "03.07.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Yaz%20Kur'an%20Kurslar%C4%B1.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Yaz%20Kur'an%20Kurslar%C4%B1.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Yaz%20Kur'an%20Kurslar%C4%B1).mp3",
-      "content": {
-        "summary": "YAZ KUR’AN KURSLARI",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nيَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًۭا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌۭ شِدَادٌۭ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
-          "translation": "Ey inananlar! Kendinizi ve çoluk çocuğunuzu cehennem ateşinden koruyun; onun yakıtı, insanlar ve taşlardır; görevlileri, Allah'ın kendilerine verdiği emirlere baş kaldırmayan, kendilerine buyrulanları yerine getiren pek haşin meleklerdir.",
-          "source": "Tahrîm, 66/6."
-        },
-        "hadith": {
-          "arabic": "الن َاسُّ وَالْحِجَارَةُّ  ...\nوَقَالَ رَسُّولُّ اللّ ِٰ صَل َي اللّ ُّٰ عَلَيْهِ وَسَل َمَ :\nمَا نَحَلَ وَالِدٌ وَلَدًا مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَ نٍ .",
-          "source": "Tirmizî, Birr, 33; İbn Hanbel, IV, 77."
-        },
-        "body": "YAZ KUR’AN KURSLARI\n\nMuhterem Müslümanlar!\n\nGeçtiğimiz hafta itibarıyla çocuklarımız bir eğitim öğretim yılını daha tamamlayıp yaz dönemine girdiler. Evlatlarımızın iyi bir eğitim almaları toplumumuz ve geleceğimiz  için önem arz etmektedir. Ancak b ilmeliyiz ki ; beden ve ruhun, dünya ve ahiretin birlikte imar ve ihya edilmesi gerekmektedir. Zira insanı gerçek anlamda değerli kılan; bilgisiyle birlikte imanını, başarısıyla birlikte ahlakını koruyabilmesidir.  Resûl-i Ekrem  (s.a.s), “Hiçbir anne baba, çocuğu na güzel terbiyeden daha kıymetli bir bağışta bulunmamıştır” 1 nasihatiyle bu hususa dikkatlerimizi çekmektedir. Kıymetli Anne Babalar! Modern çağın getirdiği tüketim kültürü, dijital mecraların bilinçsiz kullanımı , zaman zaman kutsallarımızın mizah adı alt ında alaya alınması, çocuklarımızı günden güne  değerlerimizden uzaklaştırmaktadır. Tertemiz dimağlar;  batıl inançlar, sapkın akımlar,  bağımlılık ve akran zorbalığının girdabında kaybolma riskiyle karşı karşıyadır. Etrafımızı çepeçevre saran bu tehditler karşısında çaresiz değiliz. Çare; ak ıllara ve kalplere hitap eden ilim ve hikmeti , en güzel şekilde çocuklarımızla buluşturmaktır. Yüce Rabbimizin, “Ey iman edenler! Kendinizi ve ailenizi yakıtı insanlar ve taşlar olan ateşten koruyun” 2 emri gereğince, evlatlarımıza helal haram hassasiyeti kazandırmaktır. M illi ve manevi değerler imizi özümsemelerine katkı sunmaktır. Değerli Müminler! Çocuklarımızın; Yüce Kitabımız Kur’an’ı, Sevgili Peygamberimiz (s.a.s)’in örnek hayatını, iman ve ibadet esaslarını, dinî ve ahlaki değerlerimizi, örf ve adetlerimizi öğrenebilecekleri yaz Kur’an kurslarımız önüm üzdeki pazartesi günü başlıyor. Bizler istiyoruz ki; yaz Kur’an kurslarında çocuklarımız; paylaşmayı, kardeşliği, yardımlaşmayı ve sevgiyi yaşayarak öğrensinler. Birlikte namaz kılmanın  huzurunu, dua etmenin güzelliğini ve  cami adabını n inceliklerini  idrak etsinler. Vatanımızın dirliği ve milleti mizin huzuru için Kur’an’ın nuruyla aydınlansın lar. Peygamber Efendimiz (s.a.s)’in  güzel ahlakıyla erken yaşta tanışsınlar. Gençlerimiz; zihinlerindeki sorulara, kalplerindeki arayışlara din görevlilerimizin rehberliğinde cevaplar bulsun lar. Bir ömür boyu iyiliklere omuz omuza yürüyecekleri arkadaşlıklar kursunlar.\n\nAziz Müslümanlar!\n\nUnutmayalım ki, çocuklarımızın gönlüne küçük yaşlarda ekilen Allah sevgisi, ömür boyu meyve verecek en kıymetli tohumdur. Bu vesileyle “Yaz Kur’an Kursunda Buluşuyor uz” çağrısıyla tüm çocuklarımızı ve gençlerimizi, camilerimize ve Kur’an kurslarımıza davet ediyoruz. Aynı zamanda anne babalardan, çocuklarının; dinimiz, kültürümüz ve camilerimizle olan bağlarını koruma noktasında daha fazla hassasiyet göstermelerini bekliyoruz. Hutbemizi, Allah Resûlü (s.a.s)’in şu müjdesiyle bitiriyoruz: “Kim Kur’an -ı Keri m’i okur ve onunla amel ederse, kıyamet günü ebeveynine bir  taç giydirilir. Bu tacın ışığı, güneşin dünyadaki bir eve konulduğunda  onun vereceği ışıktan daha güzeldir…”3 3 Ebû Dâvûd, Vitr, 14.",
-        "footnotes": {
-          "1": "Tirmizî, Birr, 33; İbn Hanbel, IV, 77.",
-          "2": "Tahrîm, 66/6."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260626_12",
-      "title": "Aile Olmak",
-      "date": "2026-06-26",
-      "raw_date": "26.06.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aile%20Olmak.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Aile%20Olmak.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Aile%20Olmak).mp3",
-      "content": {
-        "summary": "AİLE OLMAK",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nوَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
-          "translation": "İçinizden, kendileriyle huzura kavuşacağınız eşler yaratıp; aranızda muhabbet ve rahmet var etmesi, O'nun varlığının belgelerindendir. Bunlarda, düşünen millet için dersler vardır.",
-          "source": "Rûm, 30/21."
-        },
-        "hadith": {
-          "arabic": "اِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَد َةً وَرَحْمَةًًۜ اِن َ ف ي ذٰلِكَ لََٰيَاتٍ لِقَوْمٍ\nيَتَفَك َرُونَ .\nوَقَالَ رَسُولُ اللّ ِٰ صَل َي اللّ ُٰ عَلَيْهِ وَسَ ل َمَ :\nخَيْرُ الن ِكَاحِ أَيْسَرُهُ  .",
-          "source": ""
-        },
-        "body": "AİLE OLMAK\n\nMuhterem Müslümanlar!\n\n“Kendileri ile huzur bulasınız diye sizin için eşler yaratması, aranızda sevgi ve merhamet var etmesi  Allah’ın varlığının ve kudretinin delillerindendir. Şüphesiz b unda düşünen bir toplum için ibretler vardır ”1 ayet-i kerimesinde ifade edildiği üzere , ilahi rahmetin  yeryüzündeki tecellilerinden biri de ailedir.\n\nAziz Müminler!\n\nAile, İslam’ın ilkelerini belirlediği nikâh akdiyle kur ulan huzur ve muhabbet yuvasıdır. Sıkıntıların birlikte omuzla ndığı; kederlerin paylaşıldığı, sevinçlerin çoğaltıldığı huzur ocağıdır. Aile; bizleri,  günahlardan uzak tutan güvenli bir sığınaktır. M illî ve manevi  değerlerimizi kuşaktan kuşağa aktarmamıza vesile olan bir müessesedir.\n\nDeğerli Müslümanlar!\n\nAile olmak, sadece aynı mekânı paylaşmak değildir. Aile olmak, dünyayı da ahireti de cennet e çevirmek için el ele verebilmektir. İyi günde olduğu gibi kötü günde de birlik ve beraberliği güçlü kılabilmektir. Aile olmak,  Sevgili Peygamberimiz (s.a.s)’in örnekliğini hayatımıza yansıtabilmektir. Onun gibi, elinden ve dilinden emin olunan güvenilir bir eş olabilmektir. Kızını ayakta karşılayıp yerini  ona ikram e den vefakâr bir baba olabilmektir. Namazdayken omuzlarına çıkan torunlarının oyunlarını bozmamak için secdesini uzatan müşfik bir dede olabilmektir. Yetim ve öksüzlere hamilik yapan , kimsesiz çocuklara aile sıcaklığını hissettiren merhametli bir insan olabilmektir. Kıymetli Müminler! Her geçen gün , aile değerlerimiz örselenmekte; e vlilikler, külfetli hale ge tirilmekte; bekârlık ve evlilik dışı hayat  teşvik edilmektedir . İnancımızda rızkın Allah ’a ait olduğu 2 vurgulanmasına rağmen, ‘çocuk sahibi olmanın hayatı zorlaştırdığı’ söylemleri günden güne artmaktadır. Hâlbuki devletlerin geleceği;  ailenin kurulmasına, korunmasına ve güçlendirilmesine bağlıdır. Milletlerin en büyük sermayesi,  milli ve manevi değerleriyle yetişen nesillerdir . Bu sebeple, göz aydınlığı evlatlarımızın evliliklerine yardımcı olmak, sadece anne ve babaların değil bütün toplumun ortak sorumluluğudur. Diyanet İşleri Başkanlığımız da bu sorumluluğun bir gereği olarak müftülüklerimiz marifetiyle nikâh merasimleri icra etmektedir.\n\nAziz Müslümanlar!\n\nPeygamber Efendimiz (s.a.s)’in, “Nikâhın en hayırlısı, en kolay olanıdır” 3 tavsiyesini kendimize düstur edinelim. Gösteriş ve israfa dayalı nişan, nikâh ve düğün merasimleriyle gençlerimizin ve ailelerimizin  omuzlarına ağır yükler yüklemeyelim. Hanelerimizi huzur ve güvenin kaynağı haline getirelim . Rabbimizin lütfu olan çocuklarımızı bereket vesilesi olarak görelim. Hutbemizi, Allah Resûlü  (s.a.s)’in şu hadis -i şerifleriyle bitiriyoruz: “Sizin en hayırlınız, ailesine karşı en iyi olanınızdır. İçinizde ailesine karşı en iyi olan da benim!”4 3 Ebû Dâvûd, Nikâh, 30-31. 4 İbn Mâce, Nikâh, 50.",
-        "footnotes": {
-          "1": "Rûm, 30/21.",
-          "2": "Hûd, 11/6."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260619_13",
-      "title": "Birlikte Rahmet Vardır",
-      "date": "2026-06-19",
-      "raw_date": "19.06.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birlikte%20Rahmet%20Vard%C4%B1r.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birlikte%20Rahmet%20Vard%C4%B1r.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Birlikte%20Rahmet%20Vard%C4%B1r).mp3",
-      "content": {
-        "summary": "BİRLİKTE RAHMET VARDIR",
-        "verse": {
-          "arabic": "إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًۭا فِى كِتَٰبِ ٱللَّهِ يَوْمَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌۭ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ ۚ فَلَا تَظْلِمُوا۟ فِيهِنَّ أَنفُسَكُمْ ۚ وَقَٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةًۭ كَمَا يُقَٰتِلُونَكُمْ كَآفَّةًۭ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
-          "translation": "Allah'ın gökleri ve yeri yarattığı günkü yazısında, Allah'a göre ayların sayısı onikidir. Bunlardan dördü hürmetli aydır. Bu dosdoğru bir nizamdır. Öyleyse o aylar içinde kendinize yazık etmeyin, topyekun sizinle savaşan putperestlerle siz de topyekun savaşın, Allah'ın sakınanlarla beraber olduğunu bilin.",
-          "source": "Tevbe, 9/36."
-        },
-        "hadith": {
-          "arabic": "الْبَي ِنَاتُ  ...\nوَقَالَ رَسُولُ اللّ هِ صَل َي اللّ هُ عَلَيْهِ وَسَل َمَ :\nلََ تَبَاغَضُوا ، وَلََ تَحَاسَدُوا ، وَلََ تَدَابَرُوا ، وَكُونُوا عِبَادَ\nاللّ َِ إِخْوَانًا ...",
-          "source": "Müslim, Sıyâm, 203."
-        },
-        "body": "BİRLİKTE RAHMET VARDIR\n\nMuhterem Müslümanlar!\n\nYüce Rabbimizin saygı duyulmasını emrettiği dört aydan 1 biri olan, Peygamber Efendimiz (s.a.s)’in , “Hürmete layık” 2 olarak zikrettiği Muharrem ayının manevi iklimi içerisindeyiz. Resûl-i Ekr em (s.a.s), “Ramazan’dan sonra tutulan en faziletli oruç, Allah’ın ayı olan Muharrem ayında tutulan oruçtur”3 buyurarak, bu mübarek ayı n; ibadet ve taatle, hamd ve şükürle, tövb e ve istiğfarla değerlendirilmesi gerektiğini hatırlatmıştır.\n\nAziz Müminler!\n\nÖnümüzdeki p erşembe Âşûrâ gününü idrak edeceğiz. Birçok peygamberin hayatında önemli gelişmelere sahne olan Âşûrâ günü; ne hazindir ki, Sevgili Peygamberimiz  (s.a.s)’in, “Cennet gençlerinin efendisi”4 diyerek övdüğü, torunu Hz. Hüseyin Efendimiz ile  çoğu Ehl -i Beyt’e mensup yetmişi aşkın Müslümanın  Kerbelâ’da acımasızca şehit edildiği gündür. Kıymetli Müslümanlar! Kerbelâ, müminlere; birlik ve beraberlik içinde hareket etmeyi, ayrılık ve gayrılığa düşmemeyi hatırlatır. Hak ve hakikati ayakta tutmayı, adaletten ve iyilikten ayrılmamayı  anlatır. Kerbelâ, aramıza fitne ve fesat tohumu ekmek, kardeşi kardeşe kırdırmak istey enlere karşı feraset ve basiretle  davranmamızı tavsiye eder. Sevgili Peygamberimiz (s.a.s)’in , “Birlikte rahmet, ayrılıkta azap vardır ”5 uyarısına kulak vermemizi; sevinci ve nimeti paylaştığımız gibi hüznü ve meşakkati de paylaşmamızı telkin eder. Değerli Müminler! Bugün, inananları; acı ve gözyaşına mahkûm etmek, İslam beldelerinin yer altı ve yer üstü zenginliklerini sömürmek isteyen  zalimler, başta Gazze ve Filistin olmak üzere birçok farklı coğrafyada yeni Kerbelâlar yaşanması için her türlü yolu denemektedir . Ü mmet-i Muhammed olarak bizler de bir daha aynı hüznü yaşamak ve şer odaklarını sevindirmek istemiyorsak, aramızdaki ihtilafları derinleştirmek yerine ortak paydada buluşmanın yollarını aramalıyız. Zira Rabbimiz bir, Peygamberimiz bir, Kitabımız bir, K ıblemiz birdir. Cenâb-ı Hakk’ın , “Kendilerine apaçık deliller geldikten sonra parçalanıp ayrılığa düşenler gibi olmayın”6 emri gereğ ince birbirimize kenetlenmeli; İslam kardeşliğine zarar verecek her türlü söz, tutum ve davranıştan kaçınmalıyız. Bu vesileyle , başta Hz. Hüseyin ve Ehl-i Beyt-i Mustafa olmak  üzere; din, vatan ve mukaddesat uğruna canlarını feda eden bütün şehitlerimizi rahmetle yâd ediyoruz. Hutbemizi, Allah Resûlü (s.a.s)’in şu uyarısı ile bitiriyoruz: “Birbirinize nefret ve düşmanlık beslemeyin. Birbirinize haset etmeyin. Birbirinize sırt çevirmeyin.  Ey Allah’ın kulları! Kardeş olun…”7 5 İbn Hanbel, IV, 278.",
-        "footnotes": {
-          "1": "Tevbe, 9/36.",
-          "2": "Müslim, Sıyâm, 203.",
-          "3": "Müslim, Sıyâm, 202.",
-          "4": "Tirmizî,  Menâkıb, 30.",
-          "6": "Âl-i İmrân, 3/105.",
-          "7": "Buhârî, Edeb, 62."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260612_14",
-      "title": "Hicri Yeni Yıla Girerken",
-      "date": "2026-06-12",
-      "raw_date": "12.06.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hicri%20Yeni%20Y%C4%B1la%20Girerken.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hicri%20Yeni%20Y%C4%B1la%20Girerken.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Hicri%20Yeni%20Y%C4%B1la%20Girerken).mp3",
-      "content": {
-        "summary": "HİCRİ YENİ YILA GİRERKEN",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nإِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَٰٓئِكَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍۢ ۚ وَٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يُهَاجِرُوا۟ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَىْءٍ حَتَّىٰ يُهَاجِرُوا۟ ۚ وَإِنِ ٱسْتَنصَرُوكُمْ فِى ٱلدِّينِ فَعَلَيْكُمُ ٱلنَّصْرُ إِلَّا عَلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌۭ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
-          "translation": "Doğrusu inanıp hicret edenler, Allah yolunda mallarıyla canlarıyla cihat edenler ve muhacirleri barındırıp onlara yardım edenler, işte bunlar birbirinin dostudurlar. İnanıp hicret etmeyenlerle, hicret edene kadar sizin dostluğunuz yoktur. Fakat din uğrunda yardım isterlerse, aranızda anlaşma olmayan topluluktan başkasına karşı onlara yardım etmeniz gerekir. Allah işlediklerinizi görür.",
-          "source": "Enfâl, 8/72."
-        },
-        "hadith": {
-          "arabic": "سَّب۪يلِ اللّ ِٰ وَّال َّذ۪ينَّ اٰوَّوْا وَّنَّصَّرُُٓوا اُو۬لُٰٓئِكَّ بَّعْضُهُمْ اَّوْلِيَُّٓاءُ\nبَّعْض   ...\nوَّقَّالَّ رَّسُولُ اللّ ِٰ صَّل َّي اللّ ُٰ عَّلَّيْهِ وَّسَّل َّمَّ :\nاَّلْمُسْلِمُ مَّنْ سَّلِمَّ الْمُسْلِمُونَّ مِنْ لِسَّانِهِ وَّيَّدِهِ، وَّالْمُهَّاجِرُ\nمَّنْ هَّجَّرَّ مَّا نَّهَّى اللّ ُٰ  عَّنْهُ .",
-          "source": "Buhârî, Îmân, 4."
-        },
-        "body": "HİCRİ YENİ YILA GİRERKEN\n\nMuhterem Müslümanlar!\n\nİslam’ın ilk yıllarında müminler, Mekkeli müşriklerin günden güne artan eza ve cefasına, işkence ve boykotuna maruz kalmışlardır. Müslümanlar, yaşadıkları  bütün zorluklara rağmen imanlarından asla taviz vermemişlerdir.  Nihayet Peygamber Efendimiz (s.a.s) ve ashâb -ı güzîn, Cenâb-ı Hakk’ın emriyle, Mekke’den Medine’ye hicret etmişlerdir. İşte bu  yıl, daha sonra hicri takvimin başlangıcı olarak kabul edilmiştir.\n\nAziz Müminler!\n\nHicret, yalnızca bir yerden başka bir yere göç etmek değildir. Hicret, Allah ve Resûlünün rızasını her şeyden üstün tutma idealidir. Hakka yönelmenin ve hakikate sımsıkı ba ğlanmanın gayretidir. Nefsin gayr -ı meşru istek ve arzularından, şeytanın  bitmek bilmeyen vesveselerinden uzaklaşıp salih ameller ve güzel ahlakla dolu bir ömür geçirme azmidir. Hicret, hata ve günahlardan tövbe edip Yüce Rabbimizin engin rahmet ve mağfire tine sığınma çabasıdır. Haramlardan helallere, kötülüklerden iyiliklere doğru adım atma kararlı lığıdır. Peygamber Efendimiz (s.a.s), “Müslüman, elinden ve dilinden diğer Müslümanların zarar görmediği kişidir. Muhacir ise, Allah’ın ya saklarını terk eden kim sedir”1 buyurarak bu hususa dikkatlerimizi çekmektedir. Kıymetli Müslümanlar! Her birimizin, gerçekleştireceği bir hicreti mutlaka vardır.  Yeter ki,  hatalarımızı fark edip yanlışlarımızla yüzleş elim. Kendimizle barışık olalım. Fıtratımızın sesine kulak verelim.  Yaratılış gayemizi hatırımızdan çıkarmayalım. Değerli Kardeşlerim! Müslümanın hicreti;  kibirden tevazua, öfkeden merhamete, bencillikten diğerkâmlığa , zulümden adalete, karamsarlıktan umuda doğru  yol almasıdır. Müslümanın h icreti; yalan, iftira, fitne ve gıybet gibi dilin afetler inden uzaklaşıp; doğruluğu, kardeşliği ve muhabbeti kuşanmasıdır. Müslümanın hicreti; nefsini ve neslini, sapkın fikirlerden, bâtıl ideolojilerden ve yanlış yönelişlerden koruması; dinine, değerlerin e, kültürüne ve örfüne uygun bir ömür sürmesidir. Müslümanın hicreti; alkol, zina, faiz, rüşvet, stokçuluk ve karaborsacılık gibi huzur  ve güveni zedeleyen haramlara tevessül etmemesi,  helallerle yetinmesidir. Müslümanın hicreti; kul ve kamu hakkını ihlal edecek her türlü günahtan uzak durması; sözüne, davranışlarına ve işine dikkat etmesidir.\n\nAziz Müslümanlar!\n\nMüslümanlara düşen; hicri yeni yılda, hicretin anlam ve önemini yenid en kavramaları , içinde bulundukları dönemi doğru okumaları, hayatlarının muhasebesini yaparak geleceğe yön vermeleri olmalıdır. İslam kardeşliğini esas almaları, birbirlerine kenetlenmeleri , maddi ve manevi imkânlarını birbirleriyle paylaşmaları olmalıdır. Bu vesileyle , önümüzdeki salı günü idrak edeceğimiz hicri yeni yılımızın; maz lumların yüzlerinin gülmesine, insanlığın huzura ermesine, birlik, beraberlik ve kardeşliğimizin pekişmesine vesile olmasını Yüce Rabbimizden niyaz ediyoruz. Hutbemizi, şu ayet-i kerimenin mealiyle bitiriyoruz: “İman edip  hicret ed enler, Allah yolunda mal larıyla ve canlarıyla cihad edenler, muhacirleri barındırıp yar dım edenler var ya, işte onlar birbirlerinin dostlarıdır…”2",
-        "footnotes": {
-          "1": "Buhârî, Îmân, 4.",
-          "2": "Enfâl, 8/72."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260605_15",
-      "title": "Duyarlılık",
-      "date": "2026-06-05",
-      "raw_date": "05.06.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Duyarl%C4%B1l%C4%B1k.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Duyarl%C4%B1l%C4%B1k.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Duyarl%C4%B1l%C4%B1k).mp3",
-      "content": {
-        "summary": "DUYARLILIK",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nيَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًۭا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
-          "translation": "Ey İnananlar! Siz kendinize bakın; doğru yolda iseniz sapıtan kimse size zarar veremez. Hepinizin dönüşü Allah'adır, işlemekte olduklarınızı size haber verecektir.",
-          "source": "Mâide, 5/105."
-        },
-        "hadith": {
-          "arabic": "اهْتَدَيْتُّمْ  ...\nوَقَالَ رَسُّولُّ اللّ ِٰ صَل َي اللّ ُّٰ عَلَيْهِ وَسَل َمَ :\nاِت َقِ اللّ َٰ  حَيْثُّمَا كُّنْتَ، وَأَتْبِعِ الس َي ِئَةَ الْحَسَنَةَ  تَمْحُّهَا،\nوَخَالِقِ الن َاسَ بِخُّلُّقٍ حَسَنٍ .",
-          "source": "Tirmizî, Birr, 55."
-        },
-        "body": "DUYARLILIK\n\nMuhterem Müslümanlar!\n\nMutlu bir insan, huzurlu bir toplum için gerekli olan erdemlerden biri de duyarlılıktır. Duyarlılık, kendimiz için istediğimiz iyilikleri başkaları için de istemektir. Sorumluluklarımızı fark edip  onları yerine getirmenin gayretinde olmaktır. Duyarlılık, insanların can ve malını, kendi can ve malımız gibi kıymetli; insanların izzet ve şerefini, kendi izzet ve şerefimiz gibi mukaddes bilmektir.\n\nAziz Müminler!\n\nAilemize, toplumu muza ve bütün insanlara karşı duyarlı olmak, Müslüman olmamızın bir gereğidir. Yüce Rabbimiz, “Ey iman edenler! Sorumluluklarınıza dikkat edin. Siz doğru gittiğiniz takdirde yanlış yola sapanlar size zarar veremez”1 buyurmaktadır. Evet, nemelazımcı ve vurdumduymaz olmak Müslümana yakışmaz.  O, sorumluluklarını bihakkın yerine getirmenin gayretinde ol andır. Duyarlı bir Müslüman; anne babasına, eşine ve çocuklarına saygı gösteren, onlara hoşgörüyle muamele edendir. Toplumsal barışı sağlamak için kardeşlik ahlakını hayatının her alanına aktarandır. Dünyanın neresinde olursa olsun her bir mazlumun acısını, her bir mağdurun sızısını yüreğinde hissed en ve üzerine düşen vazifelerini yerine getirendir. Değerli Kardeşlerim! Müslümandan beklenen , kendisine emanet edilen dünyaya karşı da duyarlı olmasıdır. Nasıl ki evini, işyerini ve  ibadethanesini temiz tutuyor ise tüm çevresini de aynı titizlikle temiz tutma sıdır. Müslümandan beklenen; o rmanına, toprağına  ve suyuna hassasiyet gösterme sidir. Yarın, ‘Ciğerlerimiz yanıyo r!’ haberleriyle uyanmamak ; ‘Barajlarımız kurudu, suyumuz kalmadı!’ endişesiyle yaşamamak iç in bugünden gerekli t edbirleri almasıdır. Kıymetli Müminler! Bütün hayatı ve ibadetleri vakit ile tanzim edilmiş Müslümandan beklenen ; zamana karşı da duyarlılık göstermesi, onu boşa harcamamasıdır. Zira çalışmak, Müslümanın şiarıdır. Onun dinlenmesi, bir işi bitirip diğerine başladığında dır. “Mümin, bal arısına benzer. Bal arısı gibi hep güzel, temiz, helal şeyler yer. Hep güzel şeyler üretir, hep iyiliklerin peşind en koşar. Hiçbir şeyi ne dö ker, ne kırar, ne de ifsat eder”2 hadis-i şerifi, bu konuyu bizlere veciz bir şekilde özetlemektedir.\n\nAziz Müslümanlar!\n\nUnutmayalım ki, kendimiz ve çocuklarımız için yaşanabilir bir dünya inşa etmenin yolu; çevremize, vaktimize  ve bütün insanlara karşı duyarlı olmaktan geçmektedir. Hutbemizi, Peygamber Efendimiz (s.a.s)’in  şu hadis-i şerif leriyle bitiriyoruz: “Nerede olursan ol, Allah’a karşı sorumluluğunun bilincinde  ol! Bilerek veya bilmeyerek  kötü bir fiil  işlersen peşinden iy i bir şey yap ki onu yok etsin. Bir de insanlara güzel ahlâkla davran!”3 2 İbn Hanbel, II, 199.",
-        "footnotes": {
-          "1": "Mâide, 5/105.",
-          "3": "Tirmizî, Birr, 55."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260529_16",
-      "title": "Fetih Ruhu ve Vakıf Medeniyeti",
-      "date": "2026-05-29",
-      "raw_date": "29.05.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Fetih%20Ruhu%20ve%20Vak%C4%B1f%20Medeniyeti.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Fetih%20Ruhu%20ve%20Vak%C4%B1f%20Medeniyeti.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Fetih%20Ruhu%20ve%20Vak%C4%B1f%20Medeniyeti).mp3",
-      "content": {
-        "summary": "FETİH RUHU VE VAKIF MEDENİYETİ",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nوَلْتَكُن مِّنكُمْ أُمَّةٌۭ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
-          "translation": "Sizden, iyiye çağıran, doğruluğu emreden ve fenalıktan meneden bir cemaat olsun. İşte başarıya erişenler yalnız onlardır.",
-          "source": "Âl-i İmrân, 3/104."
-        },
-        "hadith": {
-          "arabic": "وَيَنْهَوْنَ عَنِ الْمُنْكَر ِ وَاُو۬ل ٰٓئِكَ هُمُ الْمُفْلِحُونَ .\nوَ قَالَ رَسُولُ الل  ِ  صَل َي الل  ُ  عَلَيْهِ وَسَل َمَ :\nخَيْرُ الن َاسِ اَنْفَعُهُمْ  لِلن َاسِ .",
-          "source": ""
-        },
-        "body": "FETİH RUHU VE VAKIF MEDENİYETİ\n\nMuhterem Müslümanlar!\n\nAziz milletimiz, y üce dinimiz İslam ile müşerref olduktan sonra  hak ve hakikati  hâkim kılmak için mücadele etmiştir. Bu mukaddes amaç uğruna yılmadan ve usanmadan seferden sefere, zaferden z afere koşmuştur. Allah’ın inayetiyle nice gönülleri fethetmiş, nice beldelere barış ve huzur götürmüştür. Bunun için, gemileri dahi karadan yürütmüş ve s onunda Allah Resûlü (s.a.s)’in müjdesine1 nail olup İstanbul’u fethetmiştir.\n\nAziz Müminler!\n\nDinimizin bizlere verdiği  fetih ruhu , kuru bir cihangirlik davası değildir. Bu ruh; Kur’an-ı Kerim’in rahmet ve esenlik mesajlarını,  Peygamber Efendimiz (s.a.s)’in güzel ahlakını bütün insanlığa  ulaştırma çabasıdır. Bu ruh; Cenâb-ı Hakk’ın , “İçinizden hayra çağıran, iyiliği emredip kötülüğü meneden bir topluluk bulunsun. İşte onlar , kurtuluşa erenlerdir”2 davetine icabet ederek, adalet ve iyiliğin dünyadaki yaşayan temsilcileri olma gayretidir. İlim ve hikmetle yükselen bir medeniyet oluşturma azmidir. Kıymetli Müslümanlar! Şanlı ecdadımız , fetih ruhunun hayata aktarılması ve kalıcı olması için gittiği her yerde vakıflar kurmuş ; insanlığı, İslam’ın mesajlarıyla buluşturmak için gayret göstermiştir. Sevgili Peygamberimiz (s.a.s)’in,  “İnsanların en hayırlısı , insanlara faydalı olandır ”3 hadis-i şerif i gereğince; camiler, medreseler, hastaneler, kütüphaneler, aşevleri, köprüler ve çeşmeler inşa ederek iyiliği kurumsal hale getirmiştir.  Dinine, diline ve rengine bakmadan; kimsesizlerin kimsesi, yetim ve öksüzlerin hamisi, y olda kalmışların sığınağı , mazlumların umudu, ilim tahsil edenlerin  destekçisi olmuştur. Bütün dünyaya, merhametin ve güzel ahlakın en güzel örneklerini sunmuş, i nsanların hafızalarında silinmez izler bırakmıştır. Değerli Müminler! Vakıflar, vakfedenlerin topluma bıraktığı emanetleridir. Bu hususta biz e düşen; vakıf medeniyetimizi ihya etmektir. Ecdadımızın bizlere bıraktığı muhteşem vakıf eserlerini korumak ve nesillerimize yeni vakıf mirasları bırakmaktır. Bu vesileyle , cennet vatanımızı bizl ere emanet eden şanlı ecdadımıza , şehitlerimize ve ahirete irtihal eden gazilerimize  Yüce Rabbimizden rahmet diliyoruz. Cenâb-ı Hak, vakıflara öncülük edenlerden, destek verenlerden ve geleceğe aktarılması  için çalışanlardan razı olsun. Hutbemizi, Peygamber Efendimiz (s.a.s) ’in hadis-i şerifleriyle bitiriyoruz: “Kim, güzel bir işe öncülük ederse hem kendi yaptığının sevabını  hem de kendisinden sonra o işi yapanların sevaplarını alır. Üstelik onların sevaplarından da bir şey eksilmez...”4 1 İbn Hanbel, IV, 335. 3 Kudâî, Müsnedü’ş-şihâb, I, 365. 4 İbn Mâce, Sünne, 14.",
-        "footnotes": {
-          "2": "Âl-i İmrân, 3/104."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260527_17",
-      "title": "Kurban Bayramı",
-      "date": "2026-05-27",
-      "raw_date": "27.05.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kurban%20Bayram%C4%B1-.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Kurban%20Bayram%C4%B1-.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Kurban%20Bayram%C4%B1-).mp3",
-      "content": {
-        "summary": "KURBAN BAYRAMI",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nإِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌۭ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
-          "translation": "Şüphesiz müminler birbiri ile kardeştirler; öyle ise dargın olan kardeşlerinizin arasını düzeltin; Allah'tan sakının ki size acısın.",
-          "source": "Hucurât, 49/10."
-        },
-        "hadith": {
-          "arabic": "وَّقَّالَّ رَّسُولُ اللّ هِ صَّل َّي اللّ هُ عَّلَّيْهِ وَّسَّل َّمَّ :\nإِن َّ أَّو َّلَّ مَّا نَّبْدَّأُ بِهِ فِي يَّوْمِنَّا هَّذَّا أَّنْ نُصَّل ِيَّ، ثُم َّ نَّرْجِعَّ\nفَّنَّنْحَّرَّ، فَّمَّنْ فَّعَّلَّ  فَّقَّدْ أَّصَّابَّ سُن َّتَّنَّا .",
-          "source": "Buhârî, Îdeyn, 3."
-        },
-        "body": "KURBAN BAYRAMI\n\nMuhterem Müslümanlar!\n\nKalplerimizin sevinçle dolduğu , tekbir seslerinin semaya yükseldiği, rahmet ve mağfiret ikliminin yeryüzünü kuşattığı  bir Kurban Bayramı’na daha ulaşmanın huzuru içerisindeyiz. Bizleri bu ku tlu vakte  ulaştıran Yüce Rabbimize sonsuz hamd ve sena ; kurbanla teslimiyeti, bayramla muhabbeti bizlere öğreten Peygamber Efendimiz Hz. Muhammed Mustafa’ya salat ve selam ediyoruz.\n\nAziz Müminler!\n\nBugün Bayram… Dünyanın dört bir yanından gelerek Arafat’ta  vakfeye duran müminlerin, aynı duygu ve heyecanla Kâbe’de tavaf ettikleri tevhit ve vahdet günüdür.  Sevgili Peygamberimiz (s.a.s)’in , “Bugün ilk işimiz, bayram namazı nı kılmak, sonra dönüp kurban kesmektir. Kim böyle yaparsa sünnetimize uymuş olur ”1 hadis-i şeriflerini ihya etme günüdür. Besmeleler, tekbirler ve dualarla  kurbanlarımızı kesme, kardeşlerimizle paylaşma, Rabbimizle yakınlaşma ve takva bilincini kuşanma günüdür. Kıymetli Müslümanlar! Bugün Bayram… Bizi biz yapan, bizi millet kılan milli ve ma nevi değerlerimizi yaşama ve nesillerimize aktarma vaktidir. Allah Resûlü (s.a.s)’in, “Ey insanlar! Selâmı aranızda yayın, yemek yedirin , akrabalık hukukunu gözetin”2 tavsiyesine uyarak , sıla-i rahim ile uzakları yakın kılma vaktidir. A nne babamızın  dualarını alma; akraba, komşu ve dostlarımızın hatırlarını gözetme; geçmişlerimizi hayırla yâd etme  vaktidir. Vereceğimiz hediyelerle ç ocuklarımızı bayramın neşesine ortak kılma, zihinlerinde güzel izler bırakma vaktidir. Hanelerimizden başlayarak , sokaklarımıza, şehirlerimize, ülkemize  ve bütün dünyaya iyiliği, huzur ve güveni taşıma vaktidir. Değerli Müminler! Bugün Bayram… Günahlarımıza tövbe etme, Cenâb-ı Hakk’ın sonsuz rahmet ve mağfiretine sığınma zamanıdır. Hastalarımızı, yaşlılarımızı ve kimsesizleri ziyaret etme, gönüllerini alma zamanıdır. “Müminler ancak kardeştirler. Öyleyse k ardeşlerinizin arasını düzeltin …”3 ayet-i kerimesini hayatımıza aktarma zamanıdır. Aramızdaki dargınlıkları bitirme, küskünlüklere son verme, kardeşlik bağlarını sağlamlaştırma zamanıdır. Başta Filistin olmak üzere savaş mağduru kardeşlerimizin acılarını  yüreklerimizde hissetme, maddi ve manevi imkânlarımızla onların yanlarında olma zamanıdır.\n\nAziz Müslümanlar!\n\nKurban B ayramı’nın; ruhumuza ferahlık, işlerimize bereket, aile lerimize dirlik , ümmet -i Muhammed’e birlik getirmesini Yüce Rabbimizden niyaz ediyoruz. Hutbemizi, Allah Resûlü (s.a.s)’in şu tavsiyeleriyle bitiriyoruz: “Allah için size sığınan kimseye sığınak olun. Allah için sizden bir şey isteyene verin. Sizi davet e dene icabet edin. Size bir iyilik yapana iyilikte bulunun…”4 2 İbn Mâce, Et’ıme, 1. 4 Ebû Dâvûd, Zekât, 38.",
-        "footnotes": {
-          "1": "Buhârî, Îdeyn, 3.",
-          "3": "Hucurât, 49/10."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260522_18",
-      "title": "Söz Ahlakı ve Sosyal Medya",
-      "date": "2026-05-22",
-      "raw_date": "22.05.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/S%C3%B6z%20Ahlak%C4%B1%20ve%20Sosyal%20Medya.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/S%C3%B6z%20Ahlak%C4%B1%20ve%20Sosyal%20Medya.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(S%C3%B6z%20Ahlak%C4%B1%20ve%20Sosyal%20Medya).mp3",
-      "content": {
-        "summary": "SÖZ AHLAKI VE SOSYAL MEDYA",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nمَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌۭ",
-          "translation": "Sağında ve solunda, onunla beraber oturan iki alıcı melek, yanında hazır birer gözcü olarak söylediği her sözü zaptederler.",
-          "source": "Kâf, 50/18."
-        },
-        "hadith": {
-          "arabic": "ب يْن هُمَُْۜاِن  َالش  يْط ان َك ان َلِلِْْنْس انَِع دُواًَّمُب۪ينا َ .\nو َق ال َر سُولَُ الل َِٰ َص ل  يَ الل َُٰ  ع ل يْهَِو س ل  م َ :\nل يْس َالْمُؤْمِنَُبِالط  ع  َ انَِو لا َالل  ع  انَِو لا َالْف احِشَِو لا َ\nالْب ذِىءَِ.",
-          "source": "Buhârî, Cihâd, 128."
-        },
-        "body": "SÖZ AHLAKI VE SOSYAL MEDYA\n\nMuhterem Müslümanlar!\n\nSöz, insanın iç dünyasını dışarıya yansıtan aynasıdır. Güzel bir söz; yaralı kalpleri iyileştiren merhem, kurumuş gönülleri yeşerten can suyudur. Hoş bir kelam; ruhu ilmek ilmek işleyen zarif bir nakış, hataları incitmeden düzelten nazik bir hitaptır. Peygamber Efendimiz (s.a.s)’in buyurduğu üzere, “Gönül alıcı söz, sadakadır.”1\n\nAziz Müminler!\n\nSözün tesiri, sesin yüksekliğinde değil; samimiyetin derin liğinde, üslubun inceliğinde gizlidir. Evet, en yakınımıza dahi sesimi zi duyuramıyorsak, akrabalarımızla ortak paydada buluşamıyorsak, komşularımıza  ulaşmaya bir yol bulamıyorsak, bunun sebeplerinden biri de konuşma usulümüzdür.  Sevgili Peygamberimiz (s.a.s), m ümini şöyle tarif etmektedir : “Mümin; insanları karalayan, lânet eden, kaba ve kötü sözlü, hayâsız birisi değildir.”2 Kıymetli Müslümanlar! Gönül kapıları, içeriden açılan kilide benzer; o kilidin yegâne anahtarı ise yumuşak bir  sözdür. Kur’an-ı Keri m’de, “Kullarıma söyle, sözün en güzelini söylesinler; yoksa şeytan aralarına girer. Kuşkusuz şeytan , insanların apaçık düşmanıdır”3 buyrulmaktadır. Bu sebeple; yuvasında huzur arayan, dilini zarafetle süslesin. Evladına ulaşmak isteyen, önce onun gönlüne bir çift tatlı kelamla  misafir olsun. Saygınlık bekleyen, dilini doğrulukla mühürlesin. Berekete nail olmak isteyen, sözüne dürüstlük katsın. Hâsılı, Allah Resûlü (s.a.s)’in buyurduğu üzere, “Allah’a ve ahiret gününe inanan , ya hayır söylesin ya  da sussun.”4 Değerli Müminler! Söz ahlakının en çok ihlal edildiği alanların başında dijital mecralar gelmektedir. Kimi insanlar, sanal kumar ve uyuşturucu madde gibi bağımlılıklarla; kimileri de şiddete sevk eden dijital oyunlar aracılığıyla kötülüğün günden güne yayılmasına zemin hazırlamaktadır. Kim i insanlar; kimliklerini gizleyerek kalp kırmayı, başkalarının şahsiyetine, şe ref ve haysiyetine dil uzatmayı marifet saymaktadır. Kimileri de yalan haberler ile toplumun sinesine fitne ve fesat tohumları ekmektedir. Yüce Rabbimizin bu husustaki uyarısı gayet açıktır:  “İnsanın yanında, söylediği her sözü kaydeden bir melek mutlaka hazır bulunur.”5\n\nAziz Müslümanlar!\n\nBizler, teknolojik imkânlarla gelen tehlikeleri, fırsatların arkasına gizlenmiş  sinsi tuzaklar ı fark edebilirsek, sanal âlemin zararlarını asgari düzeye indirebiliriz. Dijital teknolojileri, etik değerlerimizi gözeterek kullanabilirsek, kültürümüzle bağdaşmayan söz ve içeriklerden  kendimizi ve ailemizi muhafaza edebiliriz. Hutbemizi, Peygamber Efendimiz (s.a.s)’in şu hadis-i şer ifleriyle bitiriyoruz: “Faydasız söz ve davranışları terk etmesi, kişinin iyi bir Müslüman olduğunun göstergesidir.”6",
-        "footnotes": {
-          "1": "Buhârî, Cihâd, 128.",
-          "2": "Tirmizî, Birr, 48.",
-          "3": "İsrâ, 17/53.",
-          "4": "Buhârî, Edeb, 31.",
-          "5": "Kâf, 50/18.",
-          "6": "Tirmizî, Zühd, 11; Muvatta’, Hüsnü’l-hulk, 1."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260515_19",
-      "title": "Toplumsal Sorumluluklarımız",
-      "date": "2026-05-15",
-      "raw_date": "15.05.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Toplumsal%20Sorumluluklar%C4%B1m%C4%B1z.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Toplumsal%20Sorumluluklar%C4%B1m%C4%B1z.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Toplumsal%20Sorumluluklar%C4%B1m%C4%B1z).mp3",
-      "content": {
-        "summary": "TOPLUMSAL SORUMLULUKLARIMIZ",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nوَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
-          "translation": "İçinizden, kendileriyle huzura kavuşacağınız eşler yaratıp; aranızda muhabbet ve rahmet var etmesi, O'nun varlığının belgelerindendir. Bunlarda, düşünen millet için dersler vardır.",
-          "source": "Rûm, 30/21."
-        },
-        "hadith": {
-          "arabic": "اِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَد َةً وَرَحْمَة ً اِن َ ف ي ذٰلِكَ لََٰيَاتٍ لِقَوْمٍ\nيَتَفَك َرُونَ .\nوَقَالَ رَسُولُ اللّ ِٰ صَل َي اللّ ُٰ عَلَيْهِ وَسَ ل َمَ :\nكَفَى بِالْمَرْءِ إِثْمًا أَنْ يُضَي ِعَ مَنْ يَقُوتُ .",
-          "source": "Tirmizî, Zühd, 63."
-        },
-        "body": "TOPLUMSAL SORUMLULUKLARIMIZ\n\nMuhterem Müslümanlar!\n\nİslam, kişinin; Rabbine ve kendisine karşı görevleri yanında, ailesine ve içinde yaşadığı topluma karşı sorumluluklarını da düzenleyen bir dindir. Allah Resûlü (s.a.s)’in hadislerinde yer alan şu ifade ne kadar da önemlidir:  “Üzerinde kendinin hakkı vardır. Rabbinin hakkı vardır. Misafirinin hakkı vardır. Ailenin hakkı vardır. O halde her hak sahibine hakkını ver!”1\n\nAziz Müminler!\n\nEşlerin sevgi ve saygıyla birbirine bağlı kaldığı, büyüklere hürmetin eksik edilmediği, çocuklarla bereketlenen bir aile yuvası kurmak, onu korumak ve güçlendirmek insani ve  toplumsal sorumluluğumuzdur. Zira kişinin; ruhsal, duygusal ve zihinsel olarak huzur bulduğu, inanç ve medeniyet değerleriyle buluştuğu ilk yer aile sidir. Erdemli bireylerin oluşturduğu  faziletli bir toplum ve barış içinde bir dünya inşa etmenin yolu aileden geçmektedir. Yüce Rabbimiz, “Kendileri ile huzur bulasınız diye size kendi türünüzden eşler yaratması ve aranıza sevgi ile merhamet koyması O’nun varlığının delillerindendir ”2 buyurarak, bizlere, ailenin ilahî bir lütuf olduğu nu hatırlatmaktadır. Dolayısıyla hiçbir yapı, aile kurumunun alternatifi de ğildir. Ve yine hiçbir şey; eşlerin birbirlerine duyduğu muhabbetin, çocukların verdiği neşenin,  anne ve baba nın hissettirdiği mutluluğun, dede  ve ninenin sağladığı güvenin yerini asla dolduramaz. Kıymetli Müslümanlar! Dinine bağlı,  mukaddesatına saygılı  nesiller yetiştirmek, ihmal edemeyeceğimiz  diğer bir sorumluluğumuzdur. Ecdadımızdan bize miras kalan; kimlik, aidiyet ve fedakârlık gibi hasletleri gençlerimize kazandırmak asli vazifelerimizdendir. Evlatlarımıza değer vermek, onları dinlemek, iki cihan saadetleri için kendilerine rehberlik etmek vazgeçemeyeceğimiz görevlerimizdendir. Allah Resûlü (s.a.s), bu hususta bizleri şöyle uyarmaktadır: “Bakmakla yükümlü  olduğu kimseleri ihmal etmesi, kişiye günah olarak yeter.”3 Değerli Müminler! Engelleri azimle aşmaya çalışan kardeşlerimize ve ailelerine karşı duyarlı olmak  ise dini, ahlaki ve toplumsal sorumluluğumuzdur. Bu sebeple “Kim, kardeşinin ihtiyacını giderirse Allah da onun ihtiyacını giderir” 4 nebevi tavsiyesine uyarak; ibadethanelerimizi, okullarımızı, binalarımızı, sokaklarımızı, engelli kardeşlerimizin kullanabileceği şekilde  imar etmeliyiz. Hayatı, özel gereksinimli kardeşlerimiz için kolaylaştırmanın gayretinde olmalıyız.\n\nAziz Müslümanlar!\n\nBugün, topyekûn bütün insanlık, pek çok yıkıcı unsurla karşı karşıyadır. Hiçbir sınır ve değer tanımayanlar tarafından; dijital mecralar, reklamlar, televizyon programları ve filmler aracılığıyla toplumun yapı taşı olan aile müessesesi zayıflatılmak istenmektedir. Sapkın akımlar ve batıl ideolojiler eliyle, g ençlerin zihin dünyaları bulandırılmaya çalışılmaktadır. Böylesine bir çağda bize düşen; Rabbimizin emirlerine hakkıyla uymak, fıtratımıza sahip çıkmak, nebevî ahlakı ailemize ve nesillerimize aktarmaktır. Hutbemizi, Kur’an-ı Kerim’de yer alan şu dua ile bitiriyoruz: “…Rabbim! ‘Bana, anne ve babama verdiğin nimetlere şükretme yi, razı olacağın işleri yapmayı ’ bana nasip et. Neslimi de salih kimseler eyle…”5 3 Ebû Dâvûd, Zekât, 45.",
-        "footnotes": {
-          "1": "Tirmizî, Zühd, 63.",
-          "2": "Rûm, 30/21.",
-          "4": "Müslim, Birr, 58.",
-          "5": "Ahkâf, 46/15."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260508_20",
-      "title": "İbadetler, Bizi Rabbimize Yakınlaştırır",
-      "date": "2026-05-08",
-      "raw_date": "08.05.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0badetler,%20Bizi%20Rabbimize%20Yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1r.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0badetler,%20Bizi%20Rabbimize%20Yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1r.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe(%C4%B0badetler,%20Bizi%20Rabbimize%20Yak%C4%B1nla%C5%9Ft%C4%B1r%C4%B1r).mp3",
-      "content": {
-        "summary": "İBADETLER, BİZİ RABBİMİZE YAKINLAŞTIRIR",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nقُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
-          "translation": "De ki: \"Namazım, ibadetlerim, hayatım ve ölümüm, alemlerin Rabbi Allah içindir.",
-          "source": "En’âm, 6/162."
-        },
-        "hadith": {
-          "arabic": "الْعَّالَّم۪ينَّ  .\nوَّ قَّالَّ رَّسُولُ الِلٰهِ  صَّلَّٰي الِلٰهُ  عَّلَّيْهِ وَّسَّلَّٰمَّ :\n...اَّ للٰه هُمَّٰ مِنْكَّ وَّلَّكَّ عَّنْ مُحَّمَّٰدٍ وَّأُمَّٰتِهِ .",
-          "source": ""
-        },
-        "body": "İBADETLER, BİZİ RABBİMİZE YAKINLAŞTIRIR\n\nMuhterem Müslümanlar!\n\nİbadetlerimiz, bizi;  Rabbimize yak ınlaştıran, O’nun rızasına ulaştıran ve güzel ahlakla donatan kulluk vazifemizdir . “De ki: Benim namazım, ibadetlerim, hayatım ve ölümüm ancak âlemlerin Rabbi olan Allah içindir” 1  ayet-i kerimesi bunun en açık ifadesidir. Namazımız, bizi günahlardan ve kötülüklerden alıkoyar. Kalbimize ferahlık, ruhumuza huzur verir. Zekât ımız ve sadaka mız, malımıza ve ömrümüze bereket katar. Yardımlaşma ve dayanışma bilincinin bütün topluma yayılmasına vesile olu r. Orucumuz; gönlümüzü, dünyevi hırs ve tutkuların esaretinden kurtarır. Ahlakımızı olgunlaştırır, bize şahsiyet kazandırır.\n\nAziz Müminler!\n\nHaccımız ve umremiz,  Allah’a teslimiyetimizin nişanesi olan i badetlerimizdendir. Kur’an-ı Kerim’de, “Haccı ve umreyi All ah için eksiksiz yerine getirin” 2  buyrulmaktadır. Hacı adaylarımızı kutsal beldelere yolcu ettiğimiz şu günlerde bizler biliyoruz ki, haccımız ve umremiz; dili, ırkı ve mezhebi farklı olan  Müslümanları bir araya getiren, onlara kulluk bilinci ve ümmet şuur u kazandıran kardeşlik buluşmasıdır.  Müminin, Allah’ın sonsuz rahmet  ve merhametine sığındığı, samimi tövbeler ve gözyaş larıyla günahlarının bağışlanmasını umduğu  kutlu bir yolculuktur. İnananlara, geçmişin muhasebesini yaparak geleceklerini inşa etme fırs atı sunan yenilenme ve diriliş zamanıdır. Kıymetli Müslümanlar! Yüce Rabbimize olan kurbiyyetimizi artıran bir diğer ibadet ise kurbandır. Yine bugünlerde hazırlığına başladığımız kurban ibadetimiz, malımızı ve canımızı Cenâb -ı Hakk’ın  yolunda feda edebileceğimizin bir göstergesidir. “Kurbanların etleri ve kanları asla Allah’a ulaşmaz. O’ na ulaşacak olan ancak sizin takvanızdır” 3  ayet-i kerimesin de buyrulduğu üzere, kurbandan maksat, Allah’ın emrine boyun eğmektir. O’na olan sadaka ti izhar etmek tir. Kurbandan maksat; bencillik, cimr ilik ve tamahkârlık gibi kötü huylardan arınmaktır. Ve kurbandan maksat; gönüllerimizi birbirine açmaktır, birlik ve beraberliğimizi pekiştirmektir. Böylelikle iyiliği yeryüzüne hâkim kılmanın gayretinde olmaktır. Değerli Müminler! Kurban, bir iyilik hareketidir. Milletimizi bir umut olarak gören insanlarla aramızda kurduğumuz gönül köprüsüdür. Kurban, y olumuzu hasretle bekleyen kardeşlerimizin hanelerine muhabbet taşımak,  sofralarında bayram sevincini yaşatmaktır. Bu vesileyle; arzu eden kardeşlerimiz, vekâlet yoluyla kestirmek istedikleri kurbanlarını, Diyanet İşleri Başkanlığımız ve Türkiye Diyanet Vakfımıza emanet ederek bu iyilik hareketine destek verebilirler. Yüce Rabbim izden; bizleri, sağlık ve afiyet içerisinde Kurban Bay ramı’na ulaş tırmasını niyaz ediyoruz. Hutbemizi, Peygamber Efendimiz (s.a.s)’in şu duasıyla bitiriyoruz: “…Allah’ım! Bu kurban Sendendir ve Hz. Muhammed (s.a.s) ile ümmeti tarafından Senin rızan  için sunulmuştur.”4 4 İbn Mâce, Edâhî, 1.",
-        "footnotes": {
-          "1": "En’âm, 6/162.",
-          "2": "Bakara, 2/196.",
-          "3": "Hac, 22/37."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260501_21",
-      "title": "Alın Teri Mukaddestir",
-      "date": "2026-05-01",
-      "raw_date": "01.05.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Al%C4%B1n%20Teri%20Mukaddestir.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Al%C4%B1n%20Teri%20Mukaddestir.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Al%C4%B1n%20Teri%20Mukaddestir).mp3",
-      "content": {
-        "summary": "ALIN TERİ MUKADDESTİR",
-        "verse": {
-          "arabic": "",
-          "translation": "",
-          "source": "Beyhakî, Şüabü’l-îmân, 4/334."
-        },
-        "hadith": {
-          "arabic": "الدُٰنْيَا وَاَحْسِنْ كَمََٓا اَحْسَنَ اللُّٰٰ اِلَيْكَ ...\nوَقَالَ رَسُولُ اللِّٰٰ صَلَٰي اللُّٰٰ عَلَيْهِ وَسَلَٰمَ :\n...فَمَنْ كَانَ أَخُوهُ تَحْتَ يَدِهِ  فَلْيُطْعِمْهُ مِمَٰا يَأْكُلُ،\nوَلْيُلْبِسْهُ مِمَٰا يَلْبَسُ، وَلَْ تُكَلِٰفُوهُمْ مَا يَغْلِبُهُمْ …",
-          "source": "Buhârî, Zekât, 50."
-        },
-        "body": "ALIN TERİ MUKADDESTİR\n\nMuhterem Müslümanlar!\n\nİslam; kazanç ile infakı, zanaat ile ahlakı bir araya getiren  hayat dinidir.  Dinimiz, bütün insanlığı; iş h ayatında hak ve hukuka riayet etmeye, helal -haram bilincini kuşanmaya davet etmektedir. Alın terini mukaddes saymakta , h elal ve meş ru yollardan  rızık temin etmeyi ibadet olarak görmektedir.  Peygamber Efendimiz  (s.a.s), bir hadis-i şeriflerinde bizleri çalı şmaya şöyle teşvik etmektedir: “Sizden birinizin , urganıyla sırtında bir bağ odun satması, böylece Allah’ın onun itibarını koruması, verip vermeyecekleri belli olmayan kimselerden bir şeyler istemesinden daha hayırlıdır.”1\n\nAziz Müminler!\n\nBugün, dini ve ins ani değerleri n çalışma hayatının dışına itilmeye çalışıldığına şahitlik ediyoruz. Üzülerek ifade edelim ki, biz Müslümanlar da  bu yanlış gidişattan nasibimizi almaktayız. Oysaki iş ve ticaret hayatındaki faaliyetler ve  elde edilen gelirler, Müslüman iç in bir amaç ya da bir h edef olmamalıdır. Bilakis, Allah’ın rızasına ulaşmada, iki cihan saadetini elde etmede bir araç  olmalıdır. Bu nedenledir ki, biz Müslümanlar; ticaretimizde, alış -verişimizde, işçi ve işveren ilişkilerimiz de iyiliği, adaleti ve merhameti esas alan , ahlaki ilkeleri usta -çırak eğitimi çerçevesinde nesilden nesile aktar an bir anlayışı benimsemek durumundayız. Kıymetli İşçi ve İşveren Kardeşlerim! İşyerini sadece bir geçim kapısı değil, karşılıklı güvenin hâkim olduğu birer ‘emniyet yurdu’ haline getirmek, herkesin ortak görevidir. Bununla birlikte işçi; Sevgili Peygamberimiz (s.a.s)’in, “Allah Teâlâ, işinizi en güzel şekilde yapmanızdan hoşnut olur ”2 nasihatine kulak vermeli; işini, sağlam ve kaliteli yapmalıdır. Yaptığı işin ve çalıştığı işyerinin kendisine bir emanet olduğu bilinciyle hareket etmeli; evine, alın teriyle elde ettiği helal lokma yı götürmenin gayretinde olmalıdır. İ şveren ise; Allah Resûlü (s.a.s)’in, “Her kimin yanında kardeşi çalışırsa, ona yediğinden yedirsin, giydiğinden  giydirsin. Onlara güçlerini aşan işler yükleme yin”3 emri gereğince, işçiye hakkını tam ve zamanında ödemeye çalışmalı, onun sosyal haklarını gözetmelidir. İşçinin güvenli ve sağlıklı bir ortamda çalışması için  gerekli tüm tedbirleri almalıdır. Bu amaçla yapılacak her çalışmanın; sadece bir insanın değil, ailenin ve  toplumun geleceğini korumak olduğunu unutmamalıdır. Değerli Müminler! İşveren ya da işçi olmanın, insani açıdan hiçbir üstünlüğü yoktur. Allah katında insanların en faziletlisi; imanla nasiplenen, ibadet ve güzel ahlakla hayatını süsleyen, takva elbisesine bürünendir. İnsanların en faziletlisi; h akkaniyeti, dürüstlüğü, yardımlaşma ve dayanışmayı  bütün menfaatlerin üstünde görendir. Hutbemizi, Yüce Rabbimizin şu ayet -i kerimesi ile bitiriyoruz:  “Allah’ın sana verdiği şeylerle ahiret yurdunu ara. Dünyadan da nasibini unutma. Allah’ın sana iyilik yaptığı gibi sen de iyilik yap...”4",
-        "footnotes": {
-          "1": "Buhârî, Zekât, 50.",
-          "2": "Beyhakî, Şüabü’l-îmân, 4/334.",
-          "3": "Buhârî, Îmân, 22.",
-          "4": "Kasas, 28/77."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260424_22",
-      "title": "Merhamet Eğitimi",
-      "date": "2026-04-24",
-      "raw_date": "24.04.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Merhamet%20E%C4%9Fitimi.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Merhamet%20E%C4%9Fitimi.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Merhamet%20E%C4%9Fitimi).mp3",
-      "content": {
-        "summary": "MERHAMET EĞİTİMİ",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ ۖ وَجَٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
-          "translation": "Rabbinin yoluna, hikmetle, güzel öğütle çağır; onlarla en güzel şekilde tartış; doğrusu Rabbin, kendi yolundan sapanları daha iyi bilir. O, doğru yolda olanları da en iyi bilir.",
-          "source": "Nahl, 16/125."
-        },
-        "hadith": {
-          "arabic": "وَقَالَ رَسُولُ اللّ ِٰ صَل َي اللّ ُٰ عَلَيْهِ وَسَل َمَ :\nاَلل ٰ هُم َ انْفَعْنِى بِمَا عَل َمْتَنِى وَعَل ِمْنِى مَا يَنْفَعُنِى\nوَزِدْنِى عِلْمًا.",
-          "source": "Tirmizî, Deavât 128."
-        },
-        "body": "MERHAMET EĞİTİMİ\n\nMuhterem Müslümanlar!\n\nYüce dinimiz İslam’ın üzerinde hassasiyetle durduğu hususlardan biri de eğitimdir. Medeniyetimizde eğitim; ilimle hikmetin, bilgiyle ahlakın bir arada bulunduğu hakikat arayışı  olarak görülür. İnsanı, Allah’a yaklaştıran; sevgi, saygı ve şefkat gibi faziletlerle buluşturan eğitim anlayışı benimsenir. Dünyalık başarının yanında, kişinin; Rabbine, ailesine ve çevresine karşı sorumluluklarını yerine getirdiği eğitim  bilincinin oluşması hedeflenir. Peygamber Efendimiz (s.a.s)’in, “Allah’ım! Öğrettiklerinle beni faydalandır. Fayda verecek ilmi bana öğret ve ilmimi artır”1 duası bu duruma en güzel örnektir.\n\nAziz Müminler!\n\nEğitim, ömür boyu devam eden bir süreçtir. Çünkü insan; eğitimle şekillenir. Eşyanın hikmetini ve yaratılışın gayesi ni eğitimle kavra yabilir. İyiyi kötüden, doğruyu yanlıştan eğitimle ayırabil ir. Dinin, canın, malın, neslin ve aklın korunduğu erdemli bir toplum  eğitimle inşa edile bilir. Adalet ve merhametin hâkim olduğu bir medeniyet ancak eğitimle kurulabilir. Kıymetli Müslümanlar! Bugün, bütün dünya, insanı  insan yapan değerlerin zaafa uğradığı bir dönemden geçmektedir. Bundan kurtuluş , insanın; özüne dönmesi, vahyin yol göstericiliği, Peygamber Efendimiz (s.a.s)’in güzel ahlakını örnek almasıyla mümkündür. Toplum olarak  bizler de milli ve manevi değerlerimizle hemhal olmuş bir eğitim anlayışıyla, sıkıntılarımıza çare bulabilir, birbirimize umut olabilir, geleceğe daha güvenle bakabiliriz. Zira bizler; Cenâb-ı Hakk’ın , “Rabbinin yoluna hikmetle ve güzel öğütle davet et”2 ayet-i ke rimesini kendisin e şiar edinen  bir medeniyetin mensuplarıyız . Muallim olarak gönderilen,3 sünnet-i seniyyesi ve merhamet eğitimiyle sadece içinde yaşadığı topluma değil bütün insanlığa rehberlik eden Hz. Muhammed Mustafa (s.a.s)’in ümmetiyiz. “İnsanların en hayırlısı insanlara faydalı olandır” 4 hadis-i şerifi gereğince iyiliğin yeryüzündeki temsilcileri olma sorumluluğunu omuzlarında taşıyan şanlı  bir ecdadın torunlarıyız.\n\nDeğerli Müslümanlar!\n\nBugün her birimize  düşen görev; bizi biz yapan, bizi a yakta tu tan değerlerimize sımsıkı sarılmaktır. Çocuklarımızı ve gençlerimizi her türlü batıl ideoloji den, sapkın akım dan, zararlı alışkanlıktan korumaya var gücümüzle gayret göstermektir. O nların zihinlerine ilmi, kalplerine imanı, hayatlarına ibadet ve ah lakı nakşetme ye daha fazla ehemmiyet vermektir. Hutbemizi Sevgili Peygamberimiz (s.a.s)’in şu dua sı ile bitiriyoruz : “Allah’ım! Huşû duymayan kalpten, doymayan nefisten, fayda vermeyen ilimden ve kabul o lunmayan duadan sana sığınırım.”5 3 Dârimî, Mukaddime, 32. 4 Kudâî, Müsnedü’ş-şihâb, I, 365.",
-        "footnotes": {
-          "1": "Tirmizî, Deavât 128.",
-          "2": "Nahl, 16/125.",
-          "5": "Nesâî, İstiâze, 13."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260417_23",
-      "title": "Birbirimize Kenetlenelim, Sorumluluklarımızı İdrak Edelim",
-      "date": "2026-04-17",
-      "raw_date": "17.04.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birbirimize%20Kenetlenelim,%20Sorumluluklar%C4%B1m%C4%B1z%C4%B1%20%C4%B0drak%20Edelim.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birbirimize%20Kenetlenelim,%20Sorumluluklar%C4%B1m%C4%B1z%C4%B1%20%C4%B0drak%20Edelim.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe(Birbirimize%20Kenetlenelim,%20Sorumluluklar%C4%B1m%C4%B1z%C4%B1%20%C4%B0drak%20Edelim).mp3",
-      "content": {
-        "summary": "BİRBİRİMİZE KENETLENELİM, SORUMLULUKLARIMIZI İDRAK EDELİM",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nيَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًۭا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌۭ شِدَادٌۭ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
-          "translation": "Ey inananlar! Kendinizi ve çoluk çocuğunuzu cehennem ateşinden koruyun; onun yakıtı, insanlar ve taşlardır; görevlileri, Allah'ın kendilerine verdiği emirlere baş kaldırmayan, kendilerine buyrulanları yerine getiren pek haşin meleklerdir.",
-          "source": "Tahrîm, 66/6."
-        },
-        "hadith": {
-          "arabic": "الن َاسُّ وَالْحِجَارَةُّ ...\nوَقَالَ رَسُّولُّ اللّ ِٰ صَل َي اللّ ُّٰ عَلَيْهِ وَسَل َمَ :\nاَ لْمُّؤْمِ نُّ لِ لْمُّؤْمِنِ  كَالْبُّنْيَانِ يَشُّ د ُّ بَ عْضُّهُّ بَعْضاً .",
-          "source": "Buhârî, Salât 88, Mezâlim 5; Müslim, Birr, 65."
-        },
-        "body": "BİRBİRİMİZE KENETLENELİM, SORUMLULUKLARIMIZI İDRAK EDELİM\n\nMuhterem Müslümanlar!\n\nHafta içinde yüreklerimizi dağlayan, hepimizi derin bir üzüntüye sevk eden , elem verici hadiseler yaşadık.  Öğretmen ve öğrencilerimizi hedef alan saldırılar sebebiyle canlarımız hayattan ko parıldı, birçok canımız da yaralandı. Yüce Rabbimizden; hayatlarını kaybeden öğretmen ve öğrencilerimize rahmet, yaralı kardeşlerimize acil şifalar diliyoruz. Cenâb-ı Hak, anne -babalarına ve yakınlarına sabr-ı cemil ihsan eylesin. Milletimizin  başı sağ olsun.\n\nAziz Müminler!\n\nBugünler, P eygamber Efendimiz (s.a.s)’in , “Müminin mümine karşı durumu, bir parçası diğer parçasını sımsıkı kenetleyip tutan binalar gibidir” 1 buyurduğu üzere, milletçe kenetlenme, ac ıları ve hüzünleri paylaşma, barış ve huzur iklimini muhafaza etme günleridir. Yüce Rabbimizin merhametine, devletimizin basiretine, milletimizin sağduyusuna güvenme günleridir. Kıymetli Müslümanlar! Acımız çok büyük. Ancak, dün olduğu gibi bugün de millet olarak el ele, gönül gönüle verip bütün sıkıntılarımızın üstesinden gelebilir, dertlerimize derman olabiliriz. Yeter ki, kötülüğün içimizi karartmasına, birbirimize olan güvenimizi sarsmasına fırsat vermeyelim. Evlatlarımızın; vatan ve mukaddesatına bağlı, imanlı ve ahlaklı bir insan olarak yetişmeleri için daha fazla gayret gösterelim. Değerli Müminler! Günümüzde çocuklarımız, çok yönlü bir kuşatma altındadır. Dijital bağımlılıklar, zararlı alışkanlıklar, bilinçsiz tüketim anlayışı, olumsuz iletişim dili evlatlarımızın ruh v e gönül dünyalarını bulandırmaktadır. Hayatın pek çok alanına etki eden bu problemler, yavrularımızı değerlerimize yabancılaştırmakta, onların tertemiz zihinlerini kirletmekte ve kalplerini karartmaktadır. Dolayısıyla; anne ve babalar, kamu kurumları, sivi l toplum kuruluşları, hukukçular, medya mensupları, sanatçılar, yapımcılar, akademisyenler, hocalar, öğretmenler, hâsılı millet olarak hepimiz,  her zamankinden daha fazla sorumluluklarımızın idrakinde olalım. Yüce Rabbimizin tertemiz fıtratla yarattığı ve bizlere emanet ettiği çocuklarımızın ellerinden tutalım, sığınabilecekleri ilk limanın aileleri olduğunu onlara hissettirelim. Çocuklarımızın kimlerle arkadaşlık ettikler ine, dijital mecralarda nasıl vakit geçirdiklerine dikkat e delim. Yavrularımızı; batıl  akımların, şiddet içerikli oyunların insafına bırakmayalım.\n\nAziz Müslümanlar!\n\nYüce Rabbimizden; başta çocuklarımız ve gençlerimiz olmak üzere her birimiz için  dünya ve ahiret huzuru niyaz ediyor uz. Hutbemizi Yüce Rabbimizin şu uyarısıyla bitiriyoruz: “Ey iman edenler! Kendinizi ve ailenizi yakıtı insanlar ve taşlar olan ateşten koruyun…”2",
-        "footnotes": {
-          "1": "Buhârî, Salât 88, Mezâlim 5; Müslim, Birr, 65.",
-          "2": "Tahrîm, 66/6."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260410_24",
-      "title": "İslam",
-      "date": "2026-04-10",
-      "raw_date": "10.04.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/%C4%B0slam.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(%C4%B0slam).mp3",
-      "content": {
-        "summary": "İSLAM",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nإِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
-          "translation": "Allah katında din, şüphesiz İslam'dır. Ancak, Kitap verilenler, kendilerine ilim geldikten sonra, aralarındaki ihtiras yüzünden ayrılığa düştüler. Allah'ın ayetlerini kim inkar ederse bilsin ki, Allah hesabı çabuk görür.",
-          "source": "Âl-i İmrân, 3/19."
-        },
-        "hadith": {
-          "arabic": "وَّقَّالَّ رَّسُولُ اللّٰهِ صَّلَّٰي اللّٰهُ عَّلَّيْهِ وَّسَّلَّٰمَّ :\nاَّ للَّٰهُمَّٰ ! إِنِٰى أَّعُوذُ بِكَّ مِنَّ الشِٰقَّاقِ وَّالنِٰفَّاقِ وَّسُوءِ الَّْْخْلَّقِ .",
-          "source": ""
-        },
-        "body": "İSLAM\n\nMuhterem Müslümanlar!\n\nCenâb-ı Hak, dünyamızı ve ahiretimizi mamur kılalım d iye biz lere akıl ve irade vermiş, peygamberler göndermiş, kitaplar indirmiş tir. “Allah katında yegâne din İslam’dır ”1 fermanıyla, kıyamete kadar gelecek bütün insanlar  için, İslam’ı seçmiştir. İslam, insanlığı huzur ve mutluluğa davet eden bir din dir. Zihinleri kötü düşüncelerden, nefisleri bencillik ve hırstan  arındıran, beşeriyete kurtuluş u gösteren bir dindir. Dürüstlük ve hakkaniyeti, iyilik ve güzelliği yeryüzüne hâkim kılmanın yollarını öğreten bir dindir.\n\nAziz Müminler!\n\nİslam’ın özü tevhittir. Tevhid, azamet ve yüceliğin sadece Allah’a ait olduğunun ilanı ve ikrarıdır. Varlığın asıl sahibine teslim olmak, heva ve hevesin e saretinden kurtulup  gerçek özgürlüğe kavuşmaktır. Tevhid, Allah’tan başka hiçbir varlığın önünde eğilmemek, hak ve hakikat uğrund a izzetli bir duruş sergilemekti r. Cenâb-ı Hak , “Allah, sizin Rabbinizdir. O’ndan başka ilâh yoktur. O, her şeyin yaratıcısıdır. Öyle ise O’na kulluk edin. Güvenilip day anılacak tek varlık O’dur ”2 buyurmaktadır.\n\nDeğerli Müslümanlar!\n\nİslam’ın toplumsal hayattaki yansıması ise vahdettir. Vahdet; birliktir, beraberliktir, kardeşliktir. Dilleri ve coğrafyaları farklı olsa da Rabbi bir, peygamberi bir, kitabı bir, kıblesi bir  olan müminlerin; her hâ l ve durumda birbirlerine kenetlenmeleri, el birliğiyle zulme ve zalime geçit vermemeleridir. Farklılıkları, zenginlik olarak görmeleri; ayrışmanın ve bölünmenin değil, birleşmenin ve bütünleşmenin vesilesi kılmalarıdır. Bu hususta Yüce Rabbimizin beyanı gayet açıktır: “Doğrusu sizin ümmetiniz bir tek ümmettir. Ben de sizin Rabbinizim. Öyleyse bana kulluk edin.”3 Kıymetli Müminler! Bugün, insanlığı; içine düştüğü buhranlardan çıkaracak olan, İslam’ın istikamet mesajlarıdır . Yangın yerine çevrilmek istenen dünyamızı tekra r huzur yurduna dönüştürecek olan, Kur’an-ı Kerim’in hayat veren ilkeleridir. Gönülleri birbirine ısındıracak, insanları birbirine kaynaştıracak olan, Allah Resûlü (s.a.s)’in güzel ahlakıdır.\n\nAziz Müslümanlar!\n\nİslam’ın sahibi Allah’tır. Onu gönderen de kıyamete kadar koruyacak olan da O’dur. 4 Bu dinin kitabı Kur’an -ı Kerim’dir. Peygamberi ise, İslam’ı en güzel şekilde yaşayarak öğreten Hz. Muhammed Mustafa (s.a.s)’dir. Dolayısıyla hiçbir kimse ya da grup, İslam’ı kendi tekelinde gör emez. İslam’ın en temel vasfı olan tevhidi savunma bahanesiyle fitne ve fesat çıkaramaz, ü mmetin vahdetine, vatanımızın dirlik ve birliğine zarar ver emez. İslam’ın; dar kalıplara hapsedilemeyecek, bir coğrafyanın sınırına sığmayacak kadar yüce bir din olduğu unutulmamalıdır. Cenâb-ı Hak , bizleri vahdetten, birlik, beraberlik ve kardeşlikten ayırmasın. Hutbemizi Sevgili Peygamberimiz (s.a.s)’in şu duasıyla bitiriyoruz: “Allah’ım! Bozgunculuktan, nifaktan ve kötü ahlaktan sana sığınırım.”5 5 Ebû Dâvûd, Vitr, 32.",
-        "footnotes": {
-          "1": "Âl-i İmrân, 3/19.",
-          "2": "En’âm, 6/102.",
-          "3": "Enbiyâ, 21/92.",
-          "4": "Hicr, 15/9."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260403_25",
-      "title": "Cuma ve Ümmet Bilinci",
-      "date": "2026-04-03",
-      "raw_date": "03.04.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Cuma%20ve%20%C3%9Cmmet%20Bilinci.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Cuma%20ve%20%C3%9Cmmet%20Bilinci.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Cuma%20ve%20%C3%9Cmmet%20Bilinci).mp3",
-      "content": {
-        "summary": "CUMA VE ÜMMET BİLİNCİ",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nيَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
-          "translation": "Ey inananlar! Cuma günü namaz için ezan okunduğu zaman Allah'ı anmaya koşun; alım satımı bırakın; bilseniz, bu sizin için daha iyidir.",
-          "source": "Cuma, 62/9."
-        },
-        "hadith": {
-          "arabic": "فَاسْعَوْا اِلٰى ذِكْرِ اللّ ِٰ وَذَرُّوا الْبَيْعََۜ ذٰلِكُّمْ خَيْرٌ لَكُّمْ اِنْ\nكُّنْتُّمْ تَعْلَمُّونَ .\nوَقَالَ رَسُّولُّ اللّ ِٰ صَل َي اللّ ُّٰ عَلَيْهِ وَ سَل َمَ :\nخَيْرُّ يَوْمٍ طَلَعَتْ عَلَيْهِ الش َمْسُّ يَوْمُّ الْجُّمُّعَةِ ...",
-          "source": "Müslim, Cum’a, 18."
-        },
-        "body": "CUMA VE ÜMMET BİLİNCİ\n\nMuhterem Müslümanlar!\n\nBugün Cuma… Peygamber Efendimiz (s.a.s)’in buyurduğu üzere, “Güneşin üzerine doğduğu en hayırlı gün , Cuma günüdür ...”1 Bugün, biz müminler in haftalık buluşma günü dür. Birlik, beraberlik ve kardeşliğimizin perçinlendiği müstesna bir zaman dilimidir.\n\nAziz Müminler!\n\nCuma günü yerine getirmemiz gereken sorumlulukların başında Cuma namazı nı eda etmek gelmektedir. Yüce Rabbimiz, “Ey iman edenler! Cuma günü namaz için çağrı yapıldığında Allah’ı anmaya koşun ve alışverişi bırakın. Eğer bilirseni z, bu sizin için çok hayırlıdır”2 buyurmaktadır. Bu çağrı, sadece bedenlerin bir mekânda toplanması için değil; ruhların kaynaşması, kalplerin aynı hakikatle bütünleşmesi içindir. Bu çağrı, omuzların birbirine değdiği gibi gönüllerin de birbirine dokunması içindir. Bu çağrı; d illeri, renkleri, mezhepleri , makamları ve mevkileri  farklı olan  bütün müminlerin, bir duvarın tuğlaları gibi birbirine destek olmalarını hatırlatmak içindir. Değerli Müminler! Cuma namazına yapılan çağrı, Müslümanlara; ayrılıkları bir kenara bırakıp vahdeti kuşanmayı , tefrikadan uzaklaşıp birbirlerine tutunmayı, yani ümmet olmayı öğretmek içindir.  Bu çağrı; sohbet ve hutbeyi, başlarının üzerinde bir kuş varmış da kıpırdayınca uçup gidecekmiş gibi dinleyen 3 sahâbe-i kirâ mın örnek hayatına işaret içindir. Ve bu çağrı; İslam’ın hak ve hakikatlerini , Peygamber Efendimiz (s.a.s)’in rahm et yüklü mesajlarını dünyanın her köşesine ulaştırmamız içindir. Kıymetli Müslümanlar! Cuma günü Allah’ın divanına durmak için bedenine, elbisesine ve  kokusuna özen gösteren müminler; sosyal hayatta da söz ve davranışları na özen göstermeli, birbirlerine sırt çevirmemeli dir. Birbirlerinin dertlerine derman, sıkıntılarına çare olmalı; kısır çekişmelere girmemeli, sığ anlayışlara mahkûm olmamalıdır . Cuma namazı nı eda etmek üzere cami ve mescitlerde bir araya gelen  ve aynı kıbleye yönelen  ümmet-i Muhammed;  cami dışında da saflarını sık tutmalı, zorluklar karşısında beraberce sabır göstermeli dir. D üşmanlarına karşı yekvücut olmalı;  camisine, mescidine, kıblesine, yurduna sahip çıkmalıdır.\n\nAziz Müslümanlar!\n\nSavaşların ve acı ların yaşandığı, insanlığın barışa hasret kaldığı , zalimlerin Mescid-i Aksâ’ da secdeyi engellediği şu günlerde  bizlere düşen; Cuma ve ümmet bilincini diri tutmak tır. Zihinlerimizi ve gönüllerimizi aynı inançta, aynı duyguda ve aynı idealde buluşturmaktır. Cuma gününü; kardeşlik ahdimiz i yenilememize , bir vücudun az aları gibi kenetlenmemize , dirliğimize ve dayanışmamıza vesile kılmaktır. Birlikte rahmetin, ayrılıkta azabın olduğunu unutmamaktır. Cumamızı tebrik ediyor, hutbemizi Sevgili Peygamberimiz (s.a.s)’in şu hadis -i şerifiyle bitiriyoruz: “Kim g üzelce abde st a lıp Cumaya gelir, hutbeyi can kulağıyla dinlerse, o Cuma ile gelecek Cuma arasındaki günahları affolunur...”4 3 Ebû Dâvûd, Tıb, 1.",
-        "footnotes": {
-          "1": "Müslim, Cum’a, 18.",
-          "2": "Cuma, 62/9.",
-          "4": "Müslim, Cum’a, 27."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260327_26",
-      "title": "Tevekkül",
-      "date": "2026-03-27",
-      "raw_date": "27.03.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tevekk%C3%BCl.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Tevekk%C3%BCl.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Tevekk%C3%BCl).mp3",
-      "content": {
-        "summary": "TEVEKKÜL",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nوَأَنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ ۛ وَأَحْسِنُوٓا۟ ۛ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
-          "translation": "Allah yolunda sarf edin, kendinizi kendi elinizle tehlikeye atmayın, işlerinizi iyi yapın. Şüphesiz Allah iyi iş yapanları sever.",
-          "source": "Bakara, 2/195."
-        },
-        "hadith": {
-          "arabic": "وَقَالَ رَسُولُ اللَِّٰ صَلََي اللَُّٰ عَلَيْهِ وَسَلََمَ :\nقُولُوا حَسْبُنَا اللَُّٰ وَنِعْمَ الْوَكِيلُ عَلَى اللَِّٰ تَوَكََلْنَا .",
-          "source": "Tirmizî, Birr, 33."
-        },
-        "body": "TEVEKKÜL\n\nMuhterem Müslümanlar!\n\nYüce dinimiz İslam’ın hayatımızın her alanına yansıtmamızı emrettiği ilkelerden biri tevekküldür. Tevekkül; Müslümanın, sorumluluklarını hakkıyla yerine getirip  Allah’ın rahmet ve merhametine sığınmasıdır. Üzerine düşen tedbirleri alıp Allah’ın takd irini beklemesidir . Meşru isteklerine ulaşmak için sebeplere sarılması , aklını ve i radesini doğru yönde kullanması,  Allah’a güvenip dayanmasıdır.\n\nAziz Müminler!\n\nTevekkül, bir ebeveynin;  Peygamber Efendimiz (s.a.s)’in, “Hiçbir anne baba, çocuğuna güzel terbiy eden daha kıymetli bir bağışta bulunamaz”1 buyruğuna uyarak evlatlarına güzel örnek olması, daha sonra onlardan erdem ve fazilet beklemesidir. Bir gencin,  “Yaptığınız işi güzel yapın. Allah işini güzel yapanları sever” 2 ilkesi gereğince geleceğini; ilim, sanat ve meslek çerçevesinde şekillendirmesi, sonra Allah’tan başarı istemesidir. Kıymetli Müslümanlar! Kimi z aman tevekkül; bir tüccarın, ölçüyü ve tartıyı eksi ksiz yaptıktan sonra  Allah’tan hayırlı kazanç dilemesi olarak karşımıza çıkar. Kimi zaman da tevekkül; bir çiftçinin  toprağı doğru işleyip, Sevgili Peygamberimiz (s.a.s)’in, “‘Allah bize yeter, O ne güzel vekildir. Sadece Allah’a tevekkül ettik.’ deyiniz” 3 hadis-i şerifi gereğince hasadın bereketini  Allah’a havale etmesi  olarak hayata yansır. Değerli Müminler! Tevekkül, tembelliğin sığınağı, miskinliğin bahanesi değil, uyanışın ve kendine gelmenin vesilesidir. Allah’ın yardımını ümit ederek  fiili duada bulunmak; zamanın gereklerine uygun bilgi ve teknoloji üretmek tir. Zaferlerin emeksiz elde edilemeyeceği bilinciyle düşmanları caydıracak güce ulaşmak için gayret etmek, Cenâb-ı Hak’tan nusret ve inayet dilemektir.\n\nAziz Müslümanlar!\n\n“Allah’ın dediği olur” kanaatiyle tedbiri elden bırakmak, “Kaderde ne varsa o gelir başa” anlayışıyla sorumlulukları ihmal etmek , “Nasıl olsa Allah rızkımı verir” düşün cesiyle çalışmayı terk etmek, İslam’ın tevekkül anlayışında kendisine asla yer bulamaz. Müslümana düşen; ‘Tedbir kuldan, takdir Allah’tan’  şuuruyla gecesini gündüzüne katarak çalışmaktır. Yüce Rabbimizin bu husustaki uyarısı gayet açıktır: “İnsan için ancak ç alıştığının karşılığı vardır ve çalışmasının karşılığı ileride mutlaka görülecektir.”4\n\nKıymetli Kardeşlerim!\n\nKalplerimizin huzur bulabilmesi için hayatımızın her alanında; ok urken, çalışırken, ailemizin rızkını temin ederken, zorluklara karşı mücadele verirken tevekküle ihtiyacımız vardır. Zaman, kendimize gelme ve tevekkül anlayışımızı gözden geçirme zamanıdır. Vakit, çalışmayı, üretmeyi ve mücadeleyi hayatımızın vazgeçilmez bir parçası kılma vaktidir. Hutbemizi İstiklal Şairimizin şu veciz sözleriyle bitiriyoruz: Allah’a dayan, sa’ye sarıl, hikmete râm ol, Yol varsa budur, bilmiyorum başka çıkar yol!",
-        "footnotes": {
-          "1": "Tirmizî, Birr, 33.",
-          "2": "Bakara, 2/195.",
-          "3": "Tirmizî, Sıfatü’l-kıyâme, 8.",
-          "4": "Necm, 53/39, 40."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260320_27",
-      "title": "Ramazan Bayramı",
-      "date": "2026-03-20",
-      "raw_date": "20.03.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan%20Bayram%C4%B1.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan%20Bayram%C4%B1.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Ramazan%20Bayram%C4%B1).mp3",
-      "content": {
-        "summary": "RAMAZAN BAYRAMI",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nوَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ ۚ أُو۟لَٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ ۚ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌۭ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌۭ",
-          "translation": "Allah'ın mescidlerinde O'nun isminin anılmasını yasak eden ve oraların yıkılmasına çalışan kimseden daha zalim kim vardır? Onların oralara korkmadan girememeleri gerekir. Dünyada rezillik onlaradır, ahirette büyük azab da onlaradır.",
-          "source": "Bakara, 2/114."
-        },
-        "hadith": {
-          "arabic": "الْقُرْبٰى وَالْيَتَامٰى وَالْمَسَاك۪ينِ وَالْجَارِ ذِي الْقُرْبٰى وَالْجَارِ\nالْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّب۪يلِِۙ وَمَا مَلَكَتْ  اَيْمَانُكُم ْ\nاِنَّ اللَّٰ لََ يُحِبُّ مَنْ كَانَ مُخْتَالًَ فَخُوراًِۙ .\nوَقَالَ رَسُولُ اللِّٰ صَلَّي اللُّٰ عَلَيْهِ وَسَلَّمَ :\nيَا أَيُّهَا النَّاسُ، أَفْشُوا السَّلََمَ، وَأَطْعِمُوا الطَّعَامَ، وَصِلُوا\nالَْْرْحَامَ، وَصَلُّوا بِاللَّيْلِ وَالنَّ اسُ نِيَامٌ، تَدْخُلُوا الْجَنَّةَ بِسَلََم  .",
-          "source": "Tirmizî, Birr ve Sıla, 24."
-        },
-        "body": "RAMAZAN BAYRAMI\n\nMuhterem Müslümanlar!\n\nBugün Ramazan Bayramı. Bir yandan Ramazan-ı şerifi idrak etmenin huzurunu diğer yandan bayrama kavuşmanın sevincini yaşamaktayız. Bayramlar; birlik ve  beraberlik günleridir . Sevgili Peygamberimiz (s.a.s) , “Birbirinizle ilgi ve alakayı kesmeyin. Birbirinize sırt çevirmeyin. Birbirinize kin beslemeyin. Birbirinize haset etmeyin. Ey Allah’ın kulları! Kardeş olun” 1 buyurarak bizleri kardeşliğe davet etmektedir. Ümmet-i Muhammed olarak bizler  de aramızdaki küskünlükleri sonlandırabilir , ayrılık ve gayrılığı bir tarafa bırakabilirsek ; bayramın neşe, sevinç ve mutluluğunu daha fazla hissedebiliriz.  Aramıza fitne ve fesat tohumları  ekmek isteyenlere karşı uyanık olur, gönlümüzü birbirimize samimiyetle aça bilirsek her günümüzü bayram kılabiliriz.\n\nAziz Müminler!\n\nBayramlar; ailece bir arada olduğumuz, aynı havayı soluduğumuz, sevgi ve muhabbeti paylaştığımız özel günlerdir. Anne-babamızın hoşnutluğunu kazandığımız, ellerini öpüp hayır dualarını aldığımız bereket günleridir. Bayramlar; Allah Resûlü (s.a.s)’in, “Ey insanlar! Selâmı aranızda yayın, yemek yedirin , akrabalık bağlarınızı gözetin , insanlar uykuda iken namaz kılın  ve selametle cennete girin ”2 tavsiyesine uyarak  akrabalık ve komşuluk hukukumuzu gözettiğimiz günlerdir. Kıymetli Müslümanlar! Bayramlar; millet olarak Peygamber Efendimiz (s.a.s)’in,  “Kim, bir kardeşinin ihtiyacını giderirse Allah da onun ihtiyacını giderir”3 müjdesine nail olmak umuduyla ihtiyaç sahiplerinin sıkıntıla rına çare, darda kalanların yaralarına merhem , zulüm altındaki kardeşlerimizin dertlerine derman olduğumuz günlerdir. Bayramlar; aynı zamanda mukaddes değerler uğruna canından geçen a ziz şehitlerimizin, ahirete göç eden kahraman gazilerimizin, bu günlere gelmemize vesile olan geçmişlerimizin kabirlerini ziyaret edip onlar için dua ettiğimiz günlerdir. Değerli Müminler! Peygamber Efendimiz (s .a.s)’in, Uhud Savaşından sonra yetim kalan bir çocuğa , “Ben senin baban , Âişe de annen olsun iste mez misin?”4 örneği, yetimlere karşı davranışımızı belirlemektedir. Bugün, bizler de Peygamber Efendimiz (s.a.s)’in güzel ahlakını kuşanarak  yetim ve öksüz lere kol kanat gerelim,  onların bayram sevinçlerini paylaşalım. Küçüğüyle büyüğüyle, genciyle yaşlısıyla, hastası yla sağlıklısıyla, yetim, öksüz ve tüm çocuklarıyla bayramı hep birlikte birbirimize bayram kılalım.\n\nAziz Müslümanlar!\n\nMescid-i Aksâ günlerdir kapalı. Zalimler, harîm-i ismetimiz olan Mescid -i Aksâ’nın dokunulmazlığını hiçe saymaktadır. Ancak şu husus unutulmamalıdır ki; mabetlere el uzatılamaz, saygınlığına halel getirilemez, içinde ibadet edilmesine yasak konulamaz. Dolayısıyla Mescid -i Aksâ derhal açılmalıdır. Müslümanlar,  kendi camilerinde hür bir şekilde ibadetlerini eda etmelidir. Bu hususta Yüce Rabbimizin uyarısı gayet açıktır: “Allah’ın mescitlerinde O’nun adının anılmasına engel olan ve onların harap olması için çalışandan daha zalim kim olabilir?”5 Bu vesileyle başta Mescid-i Aksâ olmak üzere, mazlum coğrafyaların, zulüm altında inleyenlerin , yurtsuz kalmış bütün insanların daha güzel günlere kavuşması temenn isiyle Ramazan Bayramımızı tebrik ediyoruz. Hutbemizi Yüce Rabbimizin şu ayet-i kerimesi ile bitiriyoruz: “Allah’a ibadet edin ve ona hiçbir şeyi ortak koşmayın. Ana babaya, akrabaya, yetimlere, yo ksullara, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya, elinizin altındakilere iyilik edin. Şüphesiz, Allah kibirlenen ve övünen kimseleri sevmez.” 6 2 İbn Mâce, Et’ıme, 1. 4 İbn Hacer, İsâbe, I, 302.",
-        "footnotes": {
-          "1": "Tirmizî, Birr ve Sıla, 24.",
-          "3": "Müslim, Birr, 58.",
-          "5": "Bakara, 2/114.",
-          "6": "Nisâ, 4/36."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260320_28",
-      "title": "Hayatı Ramazan Kılmak",
-      "date": "2026-03-20",
-      "raw_date": "20.03.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hayat%C4%B1%20Ramazan%20K%C4%B1lmak.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hayat%C4%B1%20Ramazan%20K%C4%B1lmak.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Hayat%C4%B1%20Ramazan%20K%C4%B1lmak).mp3",
-      "content": {
-        "summary": "HAYATI RAMAZAN KILMAK",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nإِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
-          "translation": "Doğrusu, \"Rabbimiz Allah'tır\" deyip, sonra da dosdoğru gidenlere korku yoktur, onlar üzülmeyeceklerdir.",
-          "source": "Ahkâf, 46/13,14."
-        },
-        "hadith": {
-          "arabic": "وَّلََّ هُمْ يَّحْزَّنُونَّ    اُو۬لهٰٓئِكَّ اَّصْحَّابُ الْجَّنَّٰةِ خَّالِد۪ينَّ ف۪يهَّا\nجَّزَّٰٓاءً بِمَّا كَّانُوا يَّعْمَّلُونَّ .\nوَّقَّالَّ رَّسُولُ اللّٰهِ صَّلَّٰي اللّٰهُ  عَّلَّيْهِ وَّسَّلَّٰمَّ :\nإِنَّٰ أَّحَّبَّٰ الْعَّمَّلِ إِلَّى اللّٰهِ  أَّدْوَّمُهُ وَّإِنْ قَّلَّٰ .",
-          "source": "Müslim, Sıyâm, 204."
-        },
-        "body": "HAYATI RAMAZAN KILMAK\n\nMuhterem Müslümanlar!\n\nYüce Rabbi miz, bu yıl  aynı gün de iki bayramı bizlere ikram  etti. Ramazan Bayramının ilk gününü idrak ederken, biz müminlerin bayramı Cuma namazını  eda etmek üzere bir aradayız hamdolsun.\n\nAziz Müminler!\n\nRamazan-ı şerif, maddi ve manevi pek çok güzelliği elde ettiğimiz bir mektep idi. Bu mübarek ayda ; camilerimiz cemaatle, gönüllerimiz muhabbet ile dolup taştı. Tekbir ve salavatların yükseldiği kubbelerimiz altında ümmet-i Muhammed olmanın coşkusunu hep birlikte yaşadık. Sahurla bereketlendik. Oruç ile ruhlarımızı arındırdık. Kur’an-ı Kerim ile gönüllerimizi nurlandırdık. Teravih ve teheccüd namazlarıyla gecelerimizi huzura erdirdik.  Zekât ve fitreler imizle paylaşmanın  ve yardımlaşmanın sevincini yaşadık. Geçmişin muhasebesini yaptık, hata ve günahlarımız için  Cenâb-ı Hak’tan bağışlanma diledik. Kıymetli Müslümanlar! Allah’ın razı olduğu bir kul, insanların hoşnut olduğu bir Müslüman olmanın yolu, hayatı Ramazan kılmakla mümkündür. Hayatı Ramazan kılmak ise; K ur’an-ı Kerim’i okumaya , onun istediği gibi bir mümin olmaya gayret göstermekle olur. Hayatı Ramazan kılmak; Rabbimizin zikrini dilimize ve kalbimize  yerleştirmekle, zikrin en büyüğü olan n amazlarımızı eda etmekle olur. “Kim, Ramazan o rucunu tutar ve ona Ş evval ayından altı gün daha eklerse, bütün yıl oruç tutmuş gibi dir”1 hadis-i şerifi gereğince içinde bulunduğumuz Şevval ayında oruç tutmakla olur. Değerli Müminler! Hayatı Ramazan kılmak; yıl boyunca ihtiyaç sahiplerini, yetim ve öksüzleri  gözetmekle, iyiliği yeryüzüne hâkim kılmak için  çaba sarf etmekle olur. Etrafım ızı ateş çemberine çevirmek isteyenlere karşı feraset ve ba sireti kuşanmakla, birlik ve dirlikle olur. Hayatı Ramazan kılmak; ticaretimizi helal kazançla bereketlendirmekle olur. Ailemizde sevgi ve merhameti, sosyal hayatta adalet ve hakkaniyeti hâkim kılmakla  olur. Hâsılı hayat ı Ramazan kılmak;  elimizi, belimiz i ve dilimizi muhafaza ettiğimiz bir ömür sürmekle  olur. Yüce Rabbimiz böyle bir hayatı sürdürenlere şu müjdeyi vermektedir: “‘Rabbimiz Allah’ tır’ deyip sonra da istikamet üzere yaşayanlara korku yoktur ve onlar üzülmeyeceklerdir. Onlar cennetlik tir. Yapmakta olduklarına karşılık, orada ebedi kalacaklardır.”2\n\nAziz Müslümanlar!\n\nŞu hususu unutmayalım ki;  Ramazan mektebinde alınan  eğitim, bir ömre aktarıldığında gerçek anlamını kazanacaktır. Hutbemizi; Sevgili Peygamberimiz (s.a.s) ’in, ‘ Allah’ın en sevdiği amel nedir ?’ diye soran kişiye verdiği şu cevapla bitiriyoruz: “Allah katında amellerin en sevimlisi az da olsa devamlı olanıdır.”3",
-        "footnotes": {
-          "1": "Müslim, Sıyâm, 204.",
-          "2": "Ahkâf, 46/13,14.",
-          "3": "Müslim, Müsâfirîn, 216."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260313_29",
-      "title": "Hak ve Hakikatin Temsilcileri: Peygamberler",
-      "date": "2026-03-13",
-      "raw_date": "13.03.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hak%20ve%20Hakikatin%20Temsilcileri;%20Peygamberler.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Hak%20ve%20Hakikatin%20Temsilcileri;%20Peygamberler.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Hak%20ve%20Hakikatin%20Temsilcileri;%20Peygamberler).mp3",
-      "content": {
-        "summary": "HAK VE HAKİKATİN TEMSİLCİLERİ: PEYGAMBERLER",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nوَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
-          "translation": "O, kendiliğinden konuşmamaktadır.",
-          "source": "Necm, 53/3,4."
-        },
-        "hadith": {
-          "arabic": "وَ قَالَ  رَسُولُ اللَِّٰ صَلََي اللَُّٰ عَلَيْهِ وَسَلََمَ :\nأَنَا مُحَمََدٌ وَأَحْمَدُ وَالْمُقَفَِي وَالْحَاشِرُ وَنَبِيَُ التََوْبَةِ وَنَبِيَُ\nالرََحْمَةِ .",
-          "source": "Müslim, Fedâil, 126."
-        },
-        "body": "HAK VE HAKİKATİN TEMSİLCİLERİ: PEYGAMBERLER\n\nMuhterem Müslümanlar!\n\nYüce dinimizin  temel inanç esaslarından biri peygamberlere imandır. Peygamberler, Allah’ın insanlar arasından seçtiği elçileri, hak ve hakikatin temsilcileridir. Onlar; insanlığa, e bedi kurtuluş yolunu göstermek için gönderilmiştir. Peygamberler, insanları; tek olan Allah’a iman etmeye, yani tevhide davet etmişlerdir.\n\nAziz Müminler!\n\nHz. Âdem ile başlayan peygamberlik vazifesi Hz. Muhammed Mustafa (s.a.s) ile sona ermiştir. Aynı şekilde Hz. Âdem ile ba şlayan ilâhî mesaj, Ramazan ayında Kadir Gecesinde Peygamber Efendimiz (s.a.s)’e indirilen Kur’an -ı Kerim’le taçlanmış ve son bulmuştur. Sevgili Peygamberimiz  (s.a.s), zulmün girdabındaki bir toplumu  değiştirmiştir. Yaşanmaz denilen dünyayı saade t asrına;  cehaletin karanlığını aydınlığa çevirmiştir. Peygamber Efendimiz (s.a.s) bir hadis-i şeriflerinde , “Ben Muhammed’ im, Ahmed’im, peygamberlerin ardından gelen el - Mukaffî’yim, insanların arkamda toplandığı el - Hâşir’im, Tevbe Peygamberi’yim, Rahmet Peygamberi’yim”1 buyurmuştur. Dolayısıyla, k im; sevgi ve saygı gibi ahlaki değerleri kuşanmayı hedefliyorsa Allah Resûlü (s.a.s)’in  rehberliğinden ayrılmamalıdır. İyiliğin dünyaya hâkim olması nı, kötülüğün son bulmasını istiyorsa Kur’an ve sünnete sarılmalıdır. Kıymetli Müslümanlar! Yüce Rabbimiz , Kur’an-ı Kerim’de, “Peygamber, arzu  ve hevesine göre konuşmaz. Onun size okuduğu, kendisine indirilmiş vahiyden başka bir şey değildir” 2 buyurmaktadır. Bu sebepledir ki, Peygamberimizi ve onun rahmet yüklü mesajlarını “yan ılsama” olarak değerlendirmek doğrudan Allah’ın kelâmına, Allah’ın iradesine, Allah’ın dinine yapılmış bir saldırıdır. Cenâb-ı Hak, peygamberlere inanmayan , onları alay ve eğlence konusu yapanların ibretlik sonunu bizlere şöyle haber vermektedir: “Senden önceki peygamberlerle de alay edilmiş, sonunda onlarla alay  edenleri, alaya aldıkları azap kuşatıvermişti.”3 Değerli Müminler! Bizler, peygamberler arasında asla ayrım yapmayız. Hepsinin Allah’ın elçisi olduğuna iman ederiz. Zira biliriz ki; Peygam berlerin her biri Allah katında değerlidir.  Hz. Âdem’de, Hz. İbrâhim’de, Hz. Mûsâ’da, Hz. Îsâ’da ve Hz. Muhammed Mustafa (s.a.s)’de aynı şeyleri söylemişlerdir. Onların mesajları temelde bir dir ve aynıdır; o da tevhiddir. Yüce Rabbimiz , “Andolsun biz , her ümmete, ‘Allah’a kulluk edin, tâğuttan uzak durun’ diyen bir peygamber gönderdik”4 buyurmaktadır.\n\nAziz Müslümanlar!\n\nİslam, inançta tevhid i istediği gibi sosyal hayatta vahdeti, yani ümmetin birlik ve beraberlik içerisinde hareket etmesini emretmiştir. Cenâb-ı Hak “Allah’a ve Resûlü ’ne itaat edin ve birbirinizle çekişmeyin. Sonra gevşersiniz, gücünüz, devletiniz elden gider. Sabırlı olun. Allah sabredenlerle beraberdir”5 buyurarak bu hakikate işaret etmektedir. Hal böyleyken, yıllardır İslam coğrafyası üzerinde oyunlar oynanmakta , Müslümanlar zulüm altında inlemektedir.\n\nKıymetli Kardeşlerim!\n\nKadir Gecesinin gölgesinin üzerimize düştüğü şu günlerde vahyin aydınlığında, Sevgili Peygamberimiz (s.a.s)’in ilkeleri doğrultusunda hayatımızın muhasebesini yeniden yapmalıyız. Bir ve beraber olmalı , kardeşliğimizi pekiştirmeliyiz . Ramazan ayının bu son günlerinde birbirimiz ve ümmet-i Muhammed için dua etmeliyiz ki , Rabbimizin nusret ve inayeti inananların üzerine olsun. Değerli Müminler! Önümüzdeki Çarşamba günü Çanakkale Zaferinin yıl dönümünü idrak edeceğiz. Bu vesileyle aziz şehitlerimize, ebedi âleme irtihal eden kahraman gazilerimize Yüce Rabbim izden rahmet diliyoruz. Kadir Gecemizi şimdiden tebrik ediyoruz. Hutbemizi Kadir sûresinin mealiyle bitiriyoruz: “Biz Kur’an’ı Kadir G ecesinde indirdik. Kadir Gecesinin ne olduğunu sen bilir misin? Kadir Gecesi, bin aydan daha hayırlıdır. O gece  melekler ve Cebrâil, Rablerinin izniyle her bir iş için iner de ine r. O gece tan yeri ağarıncaya kadar esenliktir.”6",
-        "footnotes": {
-          "1": "Müslim, Fedâil, 126.",
-          "2": "Necm, 53/3,4.",
-          "3": "En’âm, 6/10.",
-          "4": "Nahl, 16/36.",
-          "5": "Enfâl, 8/46.",
-          "6": "Kadir, 97/1-5."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260306_30",
-      "title": "Zekat ve Fıtır Sadakası",
-      "date": "2026-03-06",
-      "raw_date": "06.03.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Zekat%20ve%20F%C4%B1t%C4%B1r%20Sadakas%C4%B1.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Zekat%20ve%20F%C4%B1t%C4%B1r%20Sadakas%C4%B1.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Zekat%20ve%20F%C4%B1t%C4%B1r%20Sadakas%C4%B1).mp3",
-      "content": {
-        "summary": "ZEKÂT VE FITIR SADAKASI",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nيَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَٰتِ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
-          "translation": "Allah faizi eksiltir, sadakaları bereketlendirir. Allah pek nankör olan hiçbir günahkarı sevmez.",
-          "source": "Bakara, 2/276."
-        },
-        "hadith": {
-          "arabic": "خَيْرٍ تَجِّدُوهُ عِّنْدَ الل َِّٰۜ اِّن َ الل َٰ بِّمَا تَعْمَلُونَ بَص۪ير  .\nوَقَالَ رَسُولُ الل ِّٰ صَل َي الل ُٰ عَلَيْهِّ وَسَل َمَ :\n…وَالص َدَقَةُ تُطْفِّ ئُ الْخَطِّيئَةَ كَمَا يُطْفِّئُ الْمَاءُ الن َارَ .",
-          "source": "Tirmizî, Cum’a, 79."
-        },
-        "body": "ZEKÂT VE FITIR SADAKASI\n\nMuhterem Müslümanlar!\n\nMalımız, mülkümüz, sahip olduğumuz bütün imkânlarımız Yüce Rabbimiz tarafından bizlere verilmiş birer emanettir. Bu emanetlerin şükrünü eda etmek; varlıklarımız ı ihtiyaç sahipleriyle, yetim, öksüz ve kimsesizlerle paylaşmakla gerçekleşebilir. İşte bu emanet bilincinin ibadete dönüşmüş hali, zekât ve fıtır sadakasıdır.\n\nAziz Müminler!\n\nZekât, İslam’ın beş temel esasından biridir. Zekât, sadece bir bağış değil, bizza t Allah ve Resûlü tarafından belirlenmiş bir ibadettir. İnsanın malını eksilten değil, bereketlendiren ilahi bir nimettir. 1 “Onların mallarında, muhtaç ve yoksullar için bir pay vardır” 2 ayetinde buyrulduğu üzere zekât, fakiri minnet altın da bırakan bir lüt uf değil, ona hakkını teslim etmektir. Kıymetli Müslümanlar! Zekât, müminler arasında yardımlaşma ve dayanışma, rahmet ve şefkat köprüleri kurar. Birlik ve beraberliğin daha da güçlenmesine vesile olur. Kardeşliğin gönüllerde, hanelerde ve sofralarda hissedilmesini sağlar. Bu yönüyle zekât, toplumsal barış, huzur ve dayanışmaya büyük katkı sunar. Zekât vermek, kişiyi bencillikten, hasetten ve cimrilikten arındırır. Zekât, insanın; içindeki mal s evgisini ve dünya hırsını dizginle mesine, günahlarından arınmas ına yardımcı olur. Sevgili Peygamberimiz (s.a.s)’in buyurduğu üzere, “…Zekât, suyun ateşi söndürdüğü gibi hata ve günahları silip yok eder.”3 Değerli Müminler! Fitre olarak bildiğimiz fıtır sadakası ise; Ramazan-ı şerife ulaşmanın, bayrama kavuşmanın şükrüdür. Peygamber Efendimiz (s.a.s), bayram namazımızı kılmadan önce fıtır sadakalarımızı ihtiyaç sahiplerine ulaştırmamızı emretmektedir. 4 Zira fıtır sadakası ile Ramazan Bayramı; merhamet ve muhabbetin, neşe ve sevincin toplumun tamamına yayıldığı müstesna bir zaman dilimine dönüşmektedir.\n\nAziz Müslümanlar!\n\nZekât ve fıtır sadakasında esas olan; önce kişinin, çevresinden ihtiyaç sahibi  akrabalarını ve komşularını gö zetmesidir. Sonra da  yardımlarını mazlum ve mağdur coğrafyalarda bulunan kardeşlerine ulaş tırmasıdır. Bugün b ize düşen, içerisinde bulunduğumuz Ramazan -ı şerifi vesile kılarak zekât ve fitrelerimizle bir fakirin sofrasını şenlendirmektir. Bir borçlunun yükünü hafifletmektir. Yolda kalmış a el uzatmaktır .  Bir yetimin, bir öksüzün ve bir garibin yüzünü güldürmektir. Mazlumların yanında yer almaya, onlara umut olmaya  devam etmektir . Böylelikle Yüce Rabbimizin bizlere lütfettiği imkânları  ebedi kazanca dönüştürmektir. Hutbemizi Cenâb-ı Hakk’ın  şu ayet-i kerimesi ile bitiriyoruz: “Namazı kılın, zekâtı verin. Kendiniz için önceden ne hayır yaparsanız Allah katında onu bulursunuz. Muhakkak ki Allah, yaptıklarınızı eksiksiz görür.”5",
-        "footnotes": {
-          "1": "Bakara, 2/276.",
-          "2": "Zâriyât, 51/19.",
-          "3": "Tirmizî, Cum’a, 79.",
-          "4": "Buhârî, Zekât, 70.",
-          "5": "Bakara, 2/110."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260227_31",
-      "title": "Bağımlılıkla Mücadelede Ramazan Bir Fırsattır",
-      "date": "2026-02-27",
-      "raw_date": "27.02.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kla%20M%C3%BCcadelede%20Ramazan%20Bir%20F%C4%B1rsatt%C4%B1r.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kla%20M%C3%BCcadelede%20Ramazan%20Bir%20F%C4%B1rsatt%C4%B1r.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Ba%C4%9F%C4%B1ml%C4%B1l%C4%B1kla%20M%C3%BCcadelede%20Ramazan%20Bir%20F%C4%B1rsatt%C4%B1r).mp3",
-      "content": {
-        "summary": "BAĞIMLILIKLA MÜCADELEDE RAMAZAN BİR FIRSATTIR",
-        "verse": {
-          "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ\nيَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَٰمُ رِجْسٌۭ مِّنْ عَمَلِ ٱلشَّيْطَٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
-          "translation": "Ey İnananlar! İçki, kumar, putlar ve fal okları şüphesiz şeytan işi pisliklerdir, bunlardan kaçının ki saadete eresiniz.",
-          "source": "Mâide, 5/90."
-        },
-        "hadith": {
-          "arabic": "وَالَْْزْلَْمُّ رِجْسٌ مِنْ عَمَلِ  الش َيْطَانِ فَاجْتَنِبُّوهُّ لَعَل َكُّمْ\nتُّفْلِحُّونَ .\nوَقَالَ رَسُّولُّ اللّ ِٰ صَل َي اللّ ُّٰ عَلَيْهِ وَسَل َمَ :\nلَْ تَشْ رَبِ الْخَمْرَ فَإِن َهَا مِفْتَاحُّ كُّل ِ شَر   .",
-          "source": ""
-        },
-        "body": "BAĞIMLILIKLA MÜCADELEDE RAMAZAN BİR FIRSATTIR\n\nMuhterem Müslümanlar!\n\nYüce Rabbimiz, hayatımızda tertemiz bir sayfa açalım, hatalarımızı gözden geçirelim, günahlarımıza tövbe edelim diye bazı zamanları bizlere ikram etmiştir. İşte içerisinde bulunduğumuz Ramazan-ı şerif,  Allah’ın sevdiği bir kul olmak, kendimize çekidüzen vermek, varsa kötü söz ve davranışlarımızı terk etmek için büyük bir fırsattır.\n\nAziz Müminler!\n\nBu haftaki hutbemizde rahmet ve mağfiret ayı Ramazan-ı şerifi vesil e kılarak; aileleri mutsuzluğa ve insanlığı felakete sürükleyen bağımlılık tehlikesine dikkatlerinizi çekmek istiyoruz. Bağımlılık, basit bir alışkanlık değildir. İnsanı sahte mutluluk ve geçici hazların esiri ha line getiren bir hasta lıktır. Kişinin; zamanını heba ederken günaha dalmasına, şiddete yönelmesine, hatta kendisinin ve ailesinin canına kas tetmesine sebep olan büyük bir tehdittir. Kıymetli Müslümanlar! Her biri bir diğerinden  tehlikeli olan bağımlılıkların başında alkol ve uy uşturucu maddeler gelmektedir. Bu iki illet; aklı  ve iradeyi zayıflatmakta, i nsanın bedenini ve ruhunu içten içe çürütmektedir. Ailede huzur ve mutluluğu yok etmekte; yuvaları dağıtmakta, ocakları söndürmektedir. Allah Resûlü  (s.a.s) bir hadis -i şeriflerinde, “Sakın içki içme. Çünkü içki her kötülüğün anahtarıdır” 1 buyurarak bu tehlikeye dikkatlerimizi çekmektedir. Değerli Müminler! Günümüzde iletişim araçlarının yaygınlaşmasıyla hanelerimize kadar giren bir başka bağımlılık ise dijital kumar dır. Üzülerek i fade edelim ki, dijital kumar, toplumun azımsanmayacak bir kesimine sirayet etmiş durumdadır. Çok küçük miktarlarla başlanan dijital kumar , kişinin; evin i ve arabasını satmasına, bütün imkânlarını bu yolda tüketmesine, borç batağına sürüklenmesine sebebiyet vermektedir. Aile bağlarının kopmasına neden olmaktadır.  Cenâb-ı Hak bu hususta bizleri şöyle uyarmaktadır:  “Ey iman edenler! İçki, kumar, dikili taşlar ve fal okları , şeytan işi birer pisliktir. Onlardan uzak durun  ki kurtuluşa eresiniz.”2\n\nAziz Müslümanlar!\n\nSadece gençler i ve çocukları değil , anne ve babaları da esaret altına alan bir diğer bağımlılık ise dijital bağımlılık tır. Dijital bağımlılık; dikkati dağıtmakta, kişiyi yalnızlaştırmaktadır. İnsanların acısını, “Yardım edilmesi gereken  bir durum” olmaktan çıkarıp  “Seyredilen bir içerik” haline getirebilmektedir. Dijital bağımlılık sebebiyle; alış veriş sitelerinde, sanal oyun ve eğlencelerde vakitler israf, ömürler zayi edilmektedir.\n\nKıymetli Kardeşlerim!\n\nAklı örten her türlü madde den, kumar ve dijital bağımlılıklardan korunmanın en etkili  yolu, bu kötülüklere hiç bulaşmamaktır. Gençlerimize ve çocuklarımıza sevgi ve güven temeline dayalı bir aile ort amı sunmaktır. Bütün tedbirlere rağmen bir şekilde zararlı alışkanlıkların müptelası olan kardeşlerimize elimizi uzatmak, onları kötülerin insafına terk etmemektir. Ayrıca kendi rahatımız için çocuklarımızın eline telefon ve tablet tutuşturmamaktır. Yemek yemeleri, bir köşede sessiz kalmaları için yavrularımızı  zararlı oyun, çizgi film ve eğlencelerle baş başa bırakmamaktır. Aziz kardeşlerim! Ramazan-ı şerifin bereketinden istifade ederek hayatımızı gözden geçirelim. Zararlı alışkanlıklardan kurtularak ye ni bir başlangıç yapalım. Unutmayalım ki, insan hayatı, bağımlılıklarla çürütülecek, dijital mecralarda tüketilecek kadar önemsiz ve değersiz değildir. 1 İbn Mâce, Eşribe, 1.",
-        "footnotes": {
-          "2": "Mâide, 5/90."
-        }
-      }
-    },
-    {
-      "id": "hutbe_20260220_32",
-      "title": "Ramazan, Cami ve Hayat",
-      "date": "2026-02-20",
-      "raw_date": "20.02.2026",
-      "language": "tr",
-      "pdf_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan,%20Cami%20ve%20Hayat.pdf",
-      "doc_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Ramazan,%20Cami%20ve%20Hayat.doc",
-      "audio_url": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Ramazan,%20Cami%20ve%20Hayat).mp3",
-      "content": {
-        "summary": "RAMAZAN, CAMİ VE HAYAT",
-        "verse": {
-          "arabic": "إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ ۖ فَعَسَىٰٓ أُو۟لَٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ",
-          "translation": "Allah'ın mescidlerini sadece, Allah'a ve ahiret gününe inanan, namaz kılan, zekat veren ve ancak Allah'tan korkan kimseler onarır. İşte onlar doğru yolda bulunanlardan olabilirler.",
-          "source": "Tevbe, 9/18."
-        },
-        "hadith": {
-          "arabic": "الصَّٰلهوةَّ وَّاهتَّى الزَّٰكهوةَّ وَّلَّمْ يَّخْشَّ اِلَّْٰ اللّٰهَّ فَّعَّسهٰٓى اُو۬لهٰٓئِكَّ اَّنْ\nيَّكُونُوا مِنَّ الْمُهْتَّد۪ينَّ .\nوَّقَّالَّ رَّسُولُ اللّٰهِ صَّلَّٰي  اللّٰهُ عَّلَّيْهِ وَّسَّلَّٰمَّ :\nأَّحَّبُٰ الْبِلاَّدِ إِلَّى اللّٰهِ  مَّسَّاجِدُهَّا  .",
-          "source": "Müslim, Mesâcid, 288."
-        },
-        "body": "RAMAZAN, CAMİ VE HAYAT\n\nMuhterem Müslümanlar!\n\nCenâb-ı Hakk’a sonsuz hamd ve sena olsun ki, on bir ayın sultanı Ramazan -ı şerife kavuştuk . Ramazan-ı şerif;  Yüce Rabbimizin rahmet ve mağfiretinin üzerimize sağanak sağanak yağdığı, bereket ve inayetinin evlerimizden sokaklara taştığı müstesna bir zaman dilimidir.  Günlük koşuşturma içinde yıpranan iç dünyamızı  onaran, h ayatımıza anlam katan bir mekteptir. Ramazan -ı şerif; gönüllerimize inşirah vermek, kulluğumuzu sırat-ı müstakim üzere tahkim etmek için bizlere sunulmuş büyük bir nimettir. Rabbimize, ailemize  ve çevremize karşı sorumluluklarımızı hatırlatmak için bizlere bahşedilen kıymetli bir hazinedir.\n\nAziz Müminler!\n\nRamazan-ı şerif, bizlere, birçok kazanım sunduğu gibi camilerle aramızdaki bağı yeniden tesis etmek, kuvvetlendirmek ve geliştir mek için de nice fırsat sunmaktadır. Ramazan-ı şerif ; ezanları, mukabeleleri, ilim halkaları, teravihleri ve avlusunda kurulan iftar sofralarıyla  cami merkezli bir hayatı inşa ve ihya etmemize vesile olmaktadır . Zira camiler; medeniyetimizin beşiği, şehirlerimizin kalbidir. Camiler; i manı ahlakla, ibadeti bilinçle, bilgiyi hikmetle, kulluğu sorumlulukla yoğuran mukaddes yerlerdir. Peygamber Efendimiz (s.a.s)’in buyurduğu üzere, “Camiler, beldelerin Allah’a en sevimli olan mekânlarıdır.”1\n\nDeğerli Müslümanlar!\n\nYüce Rabbimiz Kur’an-ı Kerim’de şöyle buyurmaktadır: “Allah’ın mescit lerini ancak Allah’a ve ahiret gününe inanan, namazını kılan, zekâtını veren ve  yalnız Allah’tan sakınan kimseler imar eder ler. İşte bunların doğru y olu bulanlardan olmaları umulur .”2 Camileri imar etmek, sadece onları inşa etmek değildir. Camileri imar etmek; aynı safta omuz omuza huzura varabilmektir. Camilerin kubbeleri altında, minarelerin gölgesinde birlik, beraberlik ve kardeşlik şuuruna erebilmektir. Kıymetli Müminler! Aile bağlarının zayıfladığı , akraba ve komşuluk ilişkilerinin tükenme noktasına geldiği bir çağda yaşıyoruz.  İnsan, günden gün e yalnızlaşmakta, kalabalıklar içinde kimsesiz kalmaktadır. D ünya nimetlerine aşırı meyletmenin yol açtığı huzursuzluk, kişinin ; hayatı dünyadan ibaret görmesine, maneviyattan uzaklaşmasına sebep olmaktadır. Yaşadığımız bütün bu sıkıntıların çaresi ise; cami ile hayat arasındaki bağı  güçlendirmekten, İslam’ın evrensel hakikatlerini, bizi biz yapan değerleri yeniden gündemimize taşımaktan geçmektedir.\n\nAziz Müslümanlar!\n\nRamazan-ı şerifin  huzur veren  manevî havasından daha fazla istifade edebilirsek özümüze dönebilir, kulluk şuurumuzu canlı tuta biliriz. Çocuklarımızın z ihin ve gönül dünya larında Ramazan ayına  dair güzel hatıralar biriktirebilirsek geleceğe g üvenle bakmalarına yardımcı olabiliriz. Vaktin merkezine namazı, hayatın merkezine cami yi yerleştirebilirsek dünya ve ahiret saadetini elde edebiliriz. Hutbemizi Sevgili Peygamberimiz (s.a.s)’in şu müjdesiyle bitiriyoruz : “Bir kimse camiye gitme niyetiyle evinden çıktığında, attığı bir adım ı için kendisine bir sevap yazılır, diğer adımı içi n de kendisinden bir günah silinir.”3",
-        "footnotes": {
-          "1": "Müslim, Mesâcid, 288.",
-          "2": "Tevbe, 9/18.",
-          "3": "Nesâî, Mesâcid, 14."
-        }
-      }
-    }
-  ]
+import asyncio
+import io
+import json
+import os
+import re
+import urllib.parse
+from datetime import datetime
+from pypdf import PdfReader
+from playwright.async_api import async_playwright
+import requests
+
+BASE_URL = "https://dinhizmetleri.diyanet.gov.tr"
+TARGET_URL = f"{BASE_URL}/kategoriler/yayinlarimiz/hutbeler/t%C3%BCrk%C3%A7e"
+
+SURA_MAP = {
+    "fatiha": 1, "fâtiha": 1, "bakara": 2, "al-i imran": 3, "âl-i imrân": 3, "al-i imrân": 3, "ali imran": 3,
+    "nisa": 4, "nisâ": 4, "maide": 5, "mâide": 5, "enam": 6, "en'am": 6, "en'âm": 6, "araf": 7, "a'raf": 7, "a'râf": 7,
+    "enfal": 8, "enfâl": 8, "tevbe": 9, "yunus": 10, "yûnus": 10, "hud": 11, "hûd": 11, "yusuf": 12, "yûsuf": 12,
+    "rad": 13, "ra'd": 13, "ibrahim": 14, "ibrâhîm": 14, "hicr": 15, "nahl": 16, "isra": 17, "isrâ": 17, "kehf": 18,
+    "meryem": 19, "taha": 20, "tâhâ": 20, "enbiya": 21, "enbiyâ": 21, "hac": 22, "muminun": 23, "mü'minûn": 23,
+    "nur": 24, "nûr": 24, "furkan": 25, "furkân": 25, "suara": 26, "şuarâ": 26, "neml": 27, "kasas": 28,
+    "ankebut": 29, "ankebût": 29, "rum": 30, "rûm": 30, "lokman": 31, "secde": 32, "ahzab": 33, "ahzâb": 33,
+    "sebe": 34, "sebe'": 34, "fatir": 35, "fâtır": 35, "yasin": 36, "yâsîn": 36, "saffat": 37, "sâffât": 37,
+    "sad": 38, "sâd": 38, "zumer": 39, "zümer": 39, "mumin": 40, "mü'min": 40, "fussilet": 41, "sura": 42, "şûrâ": 42,
+    "zuhruf": 43, "duhan": 44, "duhân": 44, "casiye": 45, "câsiye": 45, "ahkaf": 46, "ahkâf": 46, "muhammed": 47,
+    "fetih": 48, "hucurat": 49, "hucurât": 49, "kaf": 50, "kâf": 50, "zariyat": 51, "zâriyât": 51, "tur": 52, "tûr": 52,
+    "necm": 53, "kamer": 54, "rahman": 55, "rahmân": 55, "vakia": 56, "vâkıa": 56, "hadid": 57, "hadîd": 57,
+    "mucadele": 58, "mücâdele": 58, "hasr": 59, "haşr": 59, "mumtehine": 60, "mümtehine": 60, "saf": 61, "saff": 61,
+    "cuma": 62, "munafikun": 63, "münâfikûn": 63, "tegabun": 64, "teğâbün": 64, "talak": 65, "talâk": 65, "tahrim": 66, "tahrîm": 66,
+    "mulk": 67, "mülk": 67, "kalem": 68, "hakka": 69, "hâkka": 69, "mearic": 70, "meâric": 70, "nuh": 71, "nûh": 71,
+    "cin": 72, "muzzemmil": 73, "müzzemmil": 73, "muddessir": 74, "müddessir": 74, "kiyame": 75, "kıyâme": 75,
+    "insan": 76, "insân": 76, "murselat": 77, "mürselât": 77, "nebe": 78, "nebe'": 78, "naziat": 79, "nâziât": 79,
+    "abese": 80, "tekvir": 81, "infitar": 82, "infitâr": 82, "mutaffifin": 83, "mutaffifîn": 83, "insikak": 84, "inşikâk": 84,
+    "buruc": 85, "bürûc": 85, "tarik": 86, "târık": 86, "ala": 87, "a'lâ": 87, "gasiye": 88, "gâşiye": 88, "fecr": 89,
+    "beled": 90, "sems": 91, "şems": 91, "leyl": 92, "duha": 93, "duhâ": 93, "insirah": 94, "inşirâh": 94, "tin": 95, "tîn": 95,
+    "alak": 96, "kadir": 97, "kadr": 97, "beyyine": 98, "zilzal": 99, "zilzâl": 99, "adiyat": 100, "âdiyât": 100,
+    "karia": 101, "kâria": 101, "tekasur": 102, "tekâsür": 102, "asr": 103, "humeze": 104, "hümeze": 104, "fil": 105, "fîl": 105,
+    "kureys": 106, "kureyş": 106, "maun": 107, "mâûn": 107, "kevser": 108, "kafirun": 109, "kâfirûn": 109, "nasr": 110,
+    "tebbet": 111, "ihlas": 112, "ihlâs": 112, "felak": 113, "nas": 114, "nâs": 114
 }
+
+def clean_url(rel_url):
+    return urllib.parse.urljoin(BASE_URL, rel_url.strip()) if rel_url else None
+
+def parse_date(date_str):
+    try:
+        dt = datetime.strptime(date_str.strip(), "%d.%m.%Y")
+        return dt.strftime("%Y-%m-%d"), date_str.strip()
+    except Exception:
+        return date_str.strip(), date_str.strip()
+
+def fetch_ayah_details(surah_num, ayah_num):
+    arabic_text = ""
+    turkish_meal = ""
+    try:
+        res_ar = requests.get(f"https://api.alquran.cloud/v1/ayah/{surah_num}:{ayah_num}/quran-uthmani", timeout=6)
+        if res_ar.status_code == 200:
+            arabic_text = res_ar.json().get("data", {}).get("text", "").strip()
+
+        res_tr = requests.get(f"https://api.alquran.cloud/v1/ayah/{surah_num}:{ayah_num}/tr.diyanet", timeout=6)
+        if res_tr.status_code == 200:
+            turkish_meal = res_tr.json().get("data", {}).get("text", "").strip()
+    except Exception as e:
+        print(f"Ayet API hatası ({surah_num}:{ayah_num}): {e}")
+    return arabic_text, turkish_meal
+
+def is_arabic(text):
+    return len(re.findall(r'[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF]', text)) > 5
+
+def extract_pdf_content(pdf_url):
+    if not pdf_url:
+        return None
+    try:
+        res = requests.get(pdf_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
+        res.raise_for_status()
+        reader = PdfReader(io.BytesIO(res.content))
+        full_text = "\n".join([page.extract_text() or "" for page in reader.pages])
+        lines = [l.strip() for l in full_text.splitlines() if l.strip()]
+
+        footnotes = {}
+        content_lines = []
+        arabic_lines = []
+        fn_pattern = re.compile(r'^\[?([ivxlcdm0-9]+)\]?[\.\s]+(.+)', re.IGNORECASE)
+
+        for line in lines:
+            fn_match = fn_pattern.match(line)
+            if fn_match and ("suresi" in line.lower() or "/" in line or any(h in line.lower() for h in ["buhârî", "buhari", "müslim", "nesâî", "tirmizî", "ebû dâvûd", "ibn mâce"])):
+                footnotes[fn_match.group(1).lower()] = fn_match.group(2).strip()
+            elif "Din Hizmetleri Genel Müdürlüğü" not in line and not line.startswith("Tarih:"):
+                if is_arabic(line) or "﷽" in line:
+                    arabic_lines.append(line)
+                else:
+                    content_lines.append(line)
+
+        verse_arabic, verse_meal, verse_source = "", "", ""
+        hadith_intro, hadith_arabic, hadith_source, hadith_translation = "", "", "", ""
+        verse_fn_key, hadith_fn_key = None, None
+
+        # 1. Âyet Bilgisi ve Meali
+        for fn_id, fn_text in footnotes.items():
+            match = re.search(r'([A-Za-zÇĞİÖŞÜçğıöşü\-\'\s]+),\s*(\d+)\s*/\s*(\d+)', fn_text)
+            if match:
+                sura_name = match.group(1).strip().lower()
+                sura_num = SURA_MAP.get(sura_name, int(match.group(2)))
+                ayah_num = int(match.group(3))
+                verse_source = fn_text
+                verse_fn_key = fn_id
+                verse_arabic, verse_meal = fetch_ayah_details(sura_num, ayah_num)
+                break
+
+        # 2. Hadis Arapça Metni
+        if len(arabic_lines) >= 3:
+            hadith_intro = arabic_lines[2]
+        if len(arabic_lines) >= 4:
+            hadith_arabic = "\n".join(arabic_lines[3:])
+        elif len(arabic_lines) == 3:
+            hadith_arabic = arabic_lines[2]
+
+        # 3. Hadis Kaynağı
+        for fn_id, fn_text in footnotes.items():
+            if fn_id != verse_fn_key and any(k in fn_text.lower() for k in ["nesâî", "buhârî", "buhari", "müslim", "tirmizî", "ebû dâvûd", "ibn mâce"]):
+                hadith_source = fn_text
+                hadith_fn_key = fn_id
+                break
+
+        # 4. Paragrafları derle ve Türkçe Hadis Meali Çıkar
+        paragraphs, current_para = [], []
+        for line in content_lines:
+            if any(line.startswith(k) for k in ["Muhterem Müslümanlar", "Aziz Müminler", "Kıymetli Kardeşlerim", "Değerli Müslümanlar", "Aziz Müslümanlar"]):
+                if current_para:
+                    paragraphs.append(" ".join(current_para))
+                    current_para = []
+                paragraphs.append(line)
+            else:
+                current_para.append(line)
+
+        if current_para:
+            paragraphs.append(" ".join(current_para))
+
+        # Metin içindeki Türkçe hadis mealini ara (Tırnak içindeki ifadeler veya hadis dipnot referansı)
+        combined_text = " ".join(paragraphs)
+        quotes = re.findall(r'["“]([^"”]+)["”]', combined_text)
+        
+        # Hadis dipnot işaretini içeren paragraf/cümle varsa oradaki tırnak metnini al
+        if hadith_fn_key:
+            target_pattern = rf'["“]([^"”]+)["”][\s\.]*\[?{hadith_fn_key}\]?'
+            m_quote = re.search(target_pattern, combined_text, re.IGNORECASE)
+            if m_quote:
+                hadith_translation = m_quote.group(1).strip()
+
+        # Eğer dipnotla yakalanamadıysa ilk 2 tırnaklı ifadeden ayet olmayanını al
+        if not hadith_translation and quotes:
+            for q in quotes:
+                if len(q.strip()) > 10 and q.strip().lower() not in verse_meal.lower():
+                    hadith_translation = q.strip()
+                    break
+
+        body_text = "\n\n".join(paragraphs)
+
+        summary = ""
+        for p in paragraphs:
+            if not any(p.startswith(k) for k in ["Muhterem Müslümanlar", "Aziz Müminler", "Kıymetli Kardeşlerim", "VATAN SEVGİSİ"]):
+                summary = p
+                break
+        if not summary and paragraphs:
+            summary = paragraphs[0]
+        if len(summary) > 220:
+            summary = summary[:220] + "..."
+
+        return {
+            "summary": summary,
+            "verse": {
+                "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+                "arabic": verse_arabic,
+                "translation": verse_meal,
+                "source": verse_source
+            },
+            "hadith": {
+                "intro": hadith_intro,
+                "arabic": hadith_arabic,
+                "translation": hadith_translation,
+                "source": hadith_source
+            },
+            "body": body_text,
+            "footnotes": footnotes
+        }
+    except Exception as e:
+        print(f"PDF işlenemedi ({pdf_url}): {e}")
+        return None
+
+async def main():
+    json_path = "hutbeler.json"
+    existing_contents = {}
+
+    # Önbellek: Hadis meali ve ayeti tam olan kayıtları tekrar indirme
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, "r", encoding="utf-8") as f:
+                saved = json.load(f)
+                for item in saved.get("data", []):
+                    c = item.get("content")
+                    if c and c.get("verse", {}).get("arabic") and c.get("hadith", {}).get("translation"):
+                        existing_contents[item["id"]] = c
+            print(f"Önbellekten korunan eksiksiz içerik sayısı: {len(existing_contents)}")
+        except Exception:
+            existing_contents = {}
+
+    print("Playwright ile Diyanet sitesi taranıyor...")
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36")
+        page = await context.new_page()
+
+        await page.goto(TARGET_URL, wait_until="networkidle", timeout=60000)
+        await page.wait_for_selector("table", timeout=15000)
+        rows = await page.query_selector_all("tr.ms-itmhover, tr")
+
+        hutbeler = []
+        for idx, row in enumerate(rows):
+            cols = await row.query_selector_all("td")
+            if len(cols) < 5:
+                continue
+
+            raw_date = (await cols[1].inner_text()).strip()
+            title = (await cols[2].inner_text()).strip()
+            pdf_el = await row.query_selector("a[href*='.pdf']")
+            doc_el = await row.query_selector("a[href*='.doc']")
+            ses_el = await row.query_selector("a[href*='.mp3']")
+
+            pdf_url = clean_url(await pdf_el.get_attribute("href")) if pdf_el else None
+            doc_url = clean_url(await doc_el.get_attribute("href")) if doc_el else None
+            ses_url = clean_url(await ses_el.get_attribute("href")) if ses_el else None
+
+            if not title or not raw_date:
+                continue
+
+            formatted_date, display_date = parse_date(raw_date)
+            hutbe_id = f"hutbe_{formatted_date.replace('-', '')}_{idx + 1}"
+
+            if hutbe_id in existing_contents:
+                content_data = existing_contents[hutbe_id]
+            elif pdf_url:
+                print(f"İşleniyor: {title}")
+                content_data = extract_pdf_content(pdf_url)
+            else:
+                content_data = None
+
+            hutbeler.append({
+                "id": hutbe_id,
+                "title": title,
+                "date": formatted_date,
+                "raw_date": display_date,
+                "language": "tr",
+                "pdf_url": pdf_url,
+                "doc_url": doc_url,
+                "audio_url": ses_url,
+                "content": content_data
+            })
+
+        await browser.close()
+
+    payload = {
+        "last_updated": datetime.utcnow().isoformat() + "Z",
+        "total_count": len(hutbeler),
+        "data": hutbeler
+    }
+
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+    print(f"Tamamlandı: {len(hutbeler)} adet hutbe kaydedildi.")
+
+if __name__ == "__main__":
+    asyncio.run(main())
