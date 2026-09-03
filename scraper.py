@@ -52,14 +52,20 @@ def parse_date(date_str):
         return date_str.strip(), date_str.strip()
 
 def fetch_arabic_ayah(surah_num, ayah_num):
+    """Al-Quran Cloud API üzerinden hatasız Uthmani Mushaf metnini çeker"""
     try:
         url = f"https://api.alquran.cloud/v1/ayah/{surah_num}:{ayah_num}/quran-uthmani"
         res = requests.get(url, timeout=5)
         if res.status_code == 200:
             return res.json().get("data", {}).get("text", "")
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"Ayet API hatası ({surah_num}:{ayah_num}): {e}")
     return ""
+
+def is_arabic_text(text):
+    """Arapça karakter yoğunluğunu kontrol eder"""
+    arabic_chars = len(re.findall(r'[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF]', text))
+    return arabic_chars > 5
 
 def extract_pdf_content(pdf_url):
     if not pdf_url:
@@ -71,23 +77,26 @@ def extract_pdf_content(pdf_url):
         full_text = "\n".join([page.extract_text() or "" for page in reader.pages])
 
         lines = [l.strip() for l in full_text.splitlines() if l.strip()]
-        
+
         footnotes = {}
         content_lines = []
-        fn_pattern = re.compile(r'^\[([ivxlcdm0-9]+)\]\s*(.+)', re.IGNORECASE)
+        fn_pattern = re.compile(r'^\[?([ivxlcdm0-9]+)\]?[\.\s]+(.+)', re.IGNORECASE)
 
         for line in lines:
             fn_match = fn_pattern.match(line)
-            if fn_match:
+            if fn_match and ("suresi" in line.lower() or "/" in line or any(h in line.lower() for h in ["buhârî", "buhari", "müslim", "nesâî", "tirmizî", "ebû dâvûd"])):
                 footnotes[fn_match.group(1).lower()] = fn_match.group(2).strip()
             elif "Din Hizmetleri Genel Müdürlüğü" not in line and not line.startswith("Tarih:"):
-                content_lines.append(line)
+                # PDF'ten gelen kırık Arapça başlık satırlarını gövde metninden eler
+                if not is_arabic_text(line) and not any(k in line for k in ["﷽"]):
+                    content_lines.append(line)
 
         verse_arabic = ""
         verse_source = ""
         hadith_source = ""
+        verse_fn_key = None
 
-        # Dipnotlardan ayet referansını tespit et
+        # 1. Ayet Referansı ve API ile Temiz Mushaf Metni
         for fn_id, fn_text in footnotes.items():
             match = re.search(r'([A-Za-zÇĞİÖŞÜçğıöşü\-\'\s]+),\s*(\d+)\s*/\s*(\d+)', fn_text)
             if match:
@@ -95,17 +104,43 @@ def extract_pdf_content(pdf_url):
                 sura_num = SURA_MAP.get(sura_name, int(match.group(2)))
                 ayah_num = int(match.group(3))
                 verse_source = fn_text
+                verse_fn_key = fn_id
+                print(f"Temiz Arapça Ayet API'den alınıyor: Sure {sura_num}, Ayet {ayah_num}")
                 verse_arabic = fetch_arabic_ayah(sura_num, ayah_num)
                 break
 
-        # Hadis kaynağını tespit et
+        # 2. Hadis Kaynağı Tespiti
         for fn_id, fn_text in footnotes.items():
-            if any(k in fn_text.lower() for k in ["buhârî", "buhari", "müslim", "tirmizî", "nesâî", "ebû dâvûd", "ibn mâce"]):
-                hadith_source = fn_text
-                break
+            if fn_id != verse_fn_key:
+                if any(k in fn_text.lower() for k in ["buhârî", "buhari", "müslim", "tirmizî", "nesâî", "ebû dâvûd", "ibn mâce"]):
+                    hadith_source = fn_text
+                    break
 
-        body_text = "\n\n".join(content_lines)
-        summary = content_lines[0] if content_lines else ""
+        # Paragraf ve akış birleştirme
+        paragraphs = []
+        current_para = []
+        for line in content_lines:
+            if any(line.startswith(k) for k in ["Muhterem Müslümanlar", "Aziz Müminler", "Kıymetli Kardeşlerim", "Değerli Müslümanlar", "Aziz Müslümanlar"]):
+                if current_para:
+                    paragraphs.append(" ".join(current_para))
+                    current_para = []
+                paragraphs.append(line)
+            else:
+                current_para.append(line)
+
+        if current_para:
+            paragraphs.append(" ".join(current_para))
+
+        body_text = "\n\n".join(paragraphs)
+
+        # İlk gövde paragrafını özet olarak ayır
+        summary = ""
+        for p in paragraphs:
+            if not any(p.startswith(k) for k in ["Muhterem Müslümanlar", "Aziz Müminler", "Kıymetli Kardeşlerim", "VATAN SEVGİSİ"]):
+                summary = p
+                break
+        if not summary and paragraphs:
+            summary = paragraphs[0]
         if len(summary) > 220:
             summary = summary[:220] + "..."
 
@@ -122,26 +157,26 @@ def extract_pdf_content(pdf_url):
             "footnotes": footnotes
         }
     except Exception as e:
-        print(f"PDF okunamadı ({pdf_url}): {e}")
+        print(f"PDF işlenemedi ({pdf_url}): {e}")
         return None
 
 async def main():
     json_path = "hutbeler.json"
     existing_contents = {}
 
-    # Mevcut JSON varsa daha önce doldurulmuş içerikleri hafızaya al
     if os.path.exists(json_path):
         try:
             with open(json_path, "r", encoding="utf-8") as f:
                 saved = json.load(f)
                 for item in saved.get("data", []):
-                    if item.get("content"):
+                    # Arapça ayeti başarılı çekilmiş kayıtları önbellekte tut
+                    if item.get("content") and item["content"].get("verse", {}).get("arabic"):
                         existing_contents[item["id"]] = item["content"]
-            print(f"Mevcut önbellekten {len(existing_contents)} adet işlenmiş hutbe içeriği korundu.")
+            print(f"Önbellekten korunan eksiksiz içerik sayısı: {len(existing_contents)}")
         except Exception:
             existing_contents = {}
 
-    print("Playwright ile Diyanet sitesi açılıyor...")
+    print("Playwright ile Diyanet sitesi taranıyor...")
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(
@@ -153,7 +188,7 @@ async def main():
         await page.wait_for_selector("table", timeout=15000)
 
         rows = await page.query_selector_all("tr.ms-itmhover, tr")
-        print(f"DOM üzerinden bulunan satır sayısı: {len(rows)}")
+        print(f"DOM üzerinde bulunan toplam satır: {len(rows)}")
 
         hutbeler = []
         for idx, row in enumerate(rows):
@@ -178,11 +213,10 @@ async def main():
             formatted_date, display_date = parse_date(raw_date)
             hutbe_id = f"hutbe_{formatted_date.replace('-', '')}_{idx + 1}"
 
-            # Önbellekte varsa tekrar PDF indirme, yoksa PDF'i indir ve metni ayıkla
-            if hutbe_id in existing_contents and existing_contents[hutbe_id]:
+            if hutbe_id in existing_contents:
                 content_data = existing_contents[hutbe_id]
             elif pdf_url:
-                print(f"[{idx+1}/{len(rows)}] Yeni PDF taranıyor: {title}")
+                print(f"[{idx+1}/{len(rows)}] İşleniyor: {title}")
                 content_data = extract_pdf_content(pdf_url)
             else:
                 content_data = None
@@ -210,7 +244,7 @@ async def main():
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"Tamamlandı! Toplam {len(hutbeler)} adet hutbenin tamamı 'hutbeler.json' dosyasına işlendi.")
+    print(f"İşlem Tamamlandı: {len(hutbeler)} hutbe 'hutbeler.json' dosyasına kaydedildi.")
 
 if __name__ == "__main__":
     asyncio.run(main())
